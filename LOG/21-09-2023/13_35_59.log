@@ -1,0 +1,8 @@
+21-09-2023 13:36:00.189Z;functions.show_exception_and_exit;  'method_descriptor' object has no attribute 'today'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 33, in <module>
+    lancamento_date()
+  File "c:\projetos\remessas\main.py", line 16, in lancamento_date
+    data_atual = datetime.date.today()
+                 ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'method_descriptor' object has no attribute 'today'

@@ -1,0 +1,924 @@
+29-11-2023 12:24:54.397Z;functions.bot_text_art;      ____   
+29-11-2023 12:24:54.398Z;functions.bot_text_art;     [____]    
+29-11-2023 12:24:54.399Z;functions.bot_text_art;   |=]()()[=|  
+29-11-2023 12:24:54.399Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+29-11-2023 12:24:54.400Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+29-11-2023 12:24:54.400Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+29-11-2023 12:24:54.401Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+29-11-2023 12:24:54.401Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+29-11-2023 12:24:54.403Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+29-11-2023 12:24:54.404Z;functions.bot_text_art;     |_||_|                                                     
+29-11-2023 12:24:54.404Z;functions.bot_text_art;     | ||_|_   
+29-11-2023 12:24:54.405Z;functions.bot_text_art;   |___||___|  
+29-11-2023 12:24:54.405Z;functions.bot_text_art;               
+29-11-2023 12:24:54.418Z;functions.open_RM;  OPEN PROGRAM RM
+29-11-2023 12:25:06.902Z;functions.loggin_RM;  ENTER USER_NAME
+29-11-2023 12:25:08.308Z;functions.loggin_RM;  ENTER PASSWORD
+29-11-2023 12:25:09.551Z;functions.loggin_RM;  ENTER RM
+29-11-2023 12:25:42.791Z;functions.enter_coligada;  CLICK CONTEXTO
+29-11-2023 12:25:48.005Z;functions.enter_coligada;  CLICK COLIGADA 1
+29-11-2023 12:25:50.198Z;functions.enter_coligada;  CLICK AVANÇAR
+29-11-2023 12:25:52.697Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+29-11-2023 12:25:52.821Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+29-11-2023 12:25:54.216Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+29-11-2023 12:25:55.492Z;functions.enter_coligada;  CLICK CONCLUIR
+29-11-2023 12:26:20.272Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+29-11-2023 12:26:21.133Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+29-11-2023 12:26:22.967Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+29-11-2023 12:26:25.700Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+29-11-2023 12:26:32.615Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+29-11-2023 12:26:33.438Z;functions.waitForImage;  LANÇAMENTOS image found.
+29-11-2023 12:26:35.543Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+29-11-2023 12:26:37.545Z;functions.data_filter;  DATA INICIO 29-11-2023
+29-11-2023 12:26:37.546Z;functions.data_filter;  DATA FIM 05-12-2023
+29-11-2023 12:26:37.549Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+29-11-2023 12:26:37.551Z;functions.data_filter;  QUARTA-FEIRA: 29-11-2023
+29-11-2023 12:26:37.554Z;functions.data_filter;  TERCA-FEIRA: 05-12-2023
+29-11-2023 12:26:44.766Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+29-11-2023 12:26:47.038Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+29-11-2023 12:26:49.859Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 29-11-2023
+29-11-2023 12:26:52.156Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 05-12-2023
+29-11-2023 12:26:53.061Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+29-11-2023 12:27:22.893Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+29-11-2023 12:27:24.861Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+29-11-2023 12:27:27.002Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+29-11-2023 12:27:29.392Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+29-11-2023 12:27:31.874Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+29-11-2023 12:27:47.070Z;functions.waitForImage;  FILTER CLEAN image found.
+29-11-2023 12:27:49.192Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+29-11-2023 12:27:51.193Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+29-11-2023 12:28:04.161Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 87 registros?
+29-11-2023 12:28:06.164Z;functions.check_table_record;  NUMERO DE TUPLAS: 87
+29-11-2023 12:28:06.165Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+29-11-2023 12:28:10.114Z;functions.check_table_record;  CLICK NÃO
+29-11-2023 12:28:26.855Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+29-11-2023 12:28:28.646Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+29-11-2023 12:28:28.779Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+29-11-2023 12:28:29.110Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+29-11-2023 12:28:31.581Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+29-11-2023 12:28:38.862Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+29-11-2023 12:28:53.857Z;functions.filter_IPTE;  HOVER FILTER
+29-11-2023 12:28:53.990Z;functions.filter_IPTE;  CLICK FILTER
+29-11-2023 12:28:58.325Z;functions.filter_IPTE;  CLICA NO FILTRO PERSONALIZAR
+29-11-2023 12:29:03.327Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+29-11-2023 12:29:16.272Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 22 registros?
+29-11-2023 12:29:18.274Z;functions.check_table_record;  NUMERO DE TUPLAS: 22
+29-11-2023 12:29:18.275Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+29-11-2023 12:29:22.188Z;functions.check_table_record;  CLICK NÃO
+29-11-2023 12:29:38.249Z;functions.select_all_func;  SELECIONA TODOS OS REGISTROS
+29-11-2023 12:29:38.252Z;functions.check_payment_type;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+29-11-2023 12:29:39.610Z;functions.check_payment_type;  CLICA NA PRIMEIRA LINHA DA TABELA
+29-11-2023 12:29:47.719Z;functions.check_payment_type;  REF. LANÇAMENTO: 846316
+29-11-2023 12:29:47.826Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:29:58.077Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:30:00.182Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:30:00.183Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:30:15.320Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:30:15.425Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:30:17.529Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:30:20.851Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:30:22.854Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:30:25.055Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:30:27.184Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:30:29.362Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:30:31.479Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:30:38.585Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:30:48.690Z;functions.check_payment_type;  REF. LANÇAMENTO: 850181
+29-11-2023 12:30:48.797Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:30:54.998Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:30:57.104Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:30:57.105Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:31:12.246Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:31:12.351Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:31:14.454Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:31:15.456Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:31:15.632Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:31:17.634Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:31:19.820Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:31:21.954Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:31:24.173Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:31:26.285Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:31:33.391Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:31:43.497Z;functions.check_payment_type;  REF. LANÇAMENTO: 850208
+29-11-2023 12:31:43.604Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:31:50.607Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:31:52.721Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:31:52.722Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:32:07.847Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:32:07.953Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:32:10.058Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:32:11.059Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:32:11.268Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:32:13.270Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:32:15.462Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:32:17.627Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:32:19.812Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:32:21.917Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:32:29.022Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:32:39.127Z;functions.check_payment_type;  REF. LANÇAMENTO: 853397
+29-11-2023 12:32:39.234Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:32:45.489Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:32:47.619Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:32:47.621Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:33:02.737Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:33:02.844Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:33:04.948Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:33:05.949Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:33:06.141Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:33:08.144Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:33:10.341Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:33:12.478Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:33:14.668Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:33:16.782Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:33:23.886Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:33:33.991Z;functions.check_payment_type;  REF. LANÇAMENTO: 854678
+29-11-2023 12:33:34.099Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:33:40.954Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:33:43.064Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:33:43.065Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:33:58.201Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:33:58.306Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:34:00.410Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:34:01.411Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:34:01.608Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:34:03.609Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:34:05.801Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:34:07.913Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:34:10.099Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:34:12.211Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:34:19.318Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:34:29.423Z;functions.check_payment_type;  REF. LANÇAMENTO: 854685
+29-11-2023 12:34:29.530Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:34:35.691Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:34:37.796Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:34:37.797Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:34:52.924Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:34:53.028Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:34:55.131Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:34:56.133Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:34:56.311Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:34:58.312Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:35:00.507Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:35:02.660Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:35:04.868Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:35:06.990Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:35:14.095Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:35:24.199Z;functions.check_payment_type;  REF. LANÇAMENTO: 854721
+29-11-2023 12:35:24.308Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:35:30.626Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:35:32.738Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:35:32.739Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:35:47.869Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:35:47.974Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:35:50.078Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:35:51.080Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:35:51.283Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:35:53.284Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:35:55.484Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:35:57.611Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:35:59.800Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:36:01.914Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:36:09.018Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:36:19.123Z;functions.check_payment_type;  REF. LANÇAMENTO: 855221
+29-11-2023 12:36:19.231Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:36:25.466Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:36:27.597Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:36:27.598Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:36:42.725Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:36:42.833Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:36:44.937Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:36:45.939Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:36:46.122Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:36:48.124Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:36:50.314Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:36:52.460Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:36:54.646Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:36:56.759Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:37:03.865Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:37:13.970Z;functions.check_payment_type;  REF. LANÇAMENTO: 855225
+29-11-2023 12:37:14.077Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:37:20.261Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:37:22.368Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:37:22.369Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:37:37.503Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:37:37.608Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:37:39.712Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:37:40.713Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:37:40.899Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:37:42.900Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:37:45.088Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:37:47.224Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:37:49.415Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:37:51.528Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:37:58.633Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:38:08.739Z;functions.check_payment_type;  REF. LANÇAMENTO: 856118
+29-11-2023 12:38:08.848Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:38:15.051Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:38:17.186Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:38:17.187Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:38:32.316Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:38:32.422Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:38:34.526Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:38:35.528Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:38:35.727Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:38:37.728Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:38:39.925Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:38:42.056Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:38:44.250Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:38:46.384Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:38:53.488Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:39:03.596Z;functions.check_payment_type;  REF. LANÇAMENTO: 858471
+29-11-2023 12:39:03.703Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:39:09.981Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:39:12.120Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:39:12.121Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:39:27.254Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:39:27.359Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:39:29.463Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:39:30.464Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:39:30.657Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:39:32.659Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:39:34.857Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:39:36.989Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:39:39.203Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:39:41.320Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:39:48.426Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:39:58.531Z;functions.check_payment_type;  REF. LANÇAMENTO: 858765
+29-11-2023 12:39:58.638Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:40:04.861Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:40:06.977Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:40:06.978Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:40:22.112Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:40:22.217Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:40:24.321Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:40:25.323Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:40:25.529Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:40:27.531Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:40:29.726Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:40:31.869Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:40:34.070Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:40:36.177Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:40:43.281Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:40:53.387Z;functions.check_payment_type;  REF. LANÇAMENTO: 859689
+29-11-2023 12:40:53.494Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:41:00.432Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:41:02.551Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:41:02.553Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:41:17.700Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:41:17.806Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:41:19.911Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:41:20.913Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:41:21.100Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:41:23.101Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:41:25.291Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:41:27.424Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:41:29.609Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:41:31.727Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:41:38.833Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:41:48.938Z;functions.check_payment_type;  REF. LANÇAMENTO: 859699
+29-11-2023 12:41:49.045Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:41:55.109Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:41:57.242Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:41:57.243Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:42:12.375Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:42:12.481Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:42:14.586Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:42:15.587Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:42:15.792Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:42:17.794Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:42:19.986Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:42:22.111Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:42:24.293Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:42:26.406Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:42:33.511Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:42:43.616Z;functions.check_payment_type;  REF. LANÇAMENTO: 860579
+29-11-2023 12:42:43.723Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:42:50.536Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:42:52.642Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:42:52.644Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:43:07.768Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:43:07.874Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:43:09.978Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:43:10.979Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:43:11.187Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:43:13.189Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:43:15.381Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:43:17.511Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:43:19.735Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:43:21.849Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:43:28.954Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:43:39.059Z;functions.check_payment_type;  REF. LANÇAMENTO: 860680
+29-11-2023 12:43:39.166Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:43:45.276Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:43:47.407Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:43:47.408Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:44:02.540Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:44:02.657Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:44:04.763Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:44:05.764Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:44:05.971Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:44:07.973Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:44:10.168Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:44:12.323Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:44:14.507Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:44:16.631Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:44:23.735Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:44:33.839Z;functions.check_payment_type;  REF. LANÇAMENTO: 860852
+29-11-2023 12:44:33.945Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:44:40.800Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:44:42.907Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:44:42.908Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:44:58.031Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:44:58.136Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:45:00.240Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:45:01.242Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:45:01.428Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:45:03.430Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:45:05.629Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:45:07.739Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:45:09.946Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:45:12.056Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:45:19.161Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:45:29.266Z;functions.check_payment_type;  REF. LANÇAMENTO: 861143
+29-11-2023 12:45:29.373Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:45:35.630Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:45:37.748Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:45:37.752Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:45:52.871Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:45:52.975Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:45:55.080Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:45:56.082Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:45:56.292Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:45:58.294Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:46:00.479Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:46:02.618Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:46:04.844Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:46:06.961Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:46:14.066Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:46:24.171Z;functions.check_payment_type;  REF. LANÇAMENTO: 863168
+29-11-2023 12:46:24.278Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:46:31.940Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:46:34.052Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:46:34.054Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:46:49.189Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:46:49.295Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:46:51.398Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:46:52.400Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:46:52.594Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:46:54.596Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:46:56.788Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:46:58.925Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:47:01.108Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:47:03.227Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:47:10.333Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:47:20.438Z;functions.check_payment_type;  REF. LANÇAMENTO: 863447
+29-11-2023 12:47:20.545Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:47:26.673Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:47:28.807Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:47:28.808Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:47:43.934Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:47:44.039Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:47:46.143Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:47:47.145Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:47:47.340Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:47:49.342Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:47:51.530Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:47:53.663Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:47:55.838Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:47:57.947Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:48:05.051Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:48:15.156Z;functions.check_payment_type;  REF. LANÇAMENTO: 864111
+29-11-2023 12:48:15.263Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:48:22.154Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:48:24.291Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:48:24.293Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:48:39.417Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:48:39.524Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:48:41.629Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:48:42.631Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:48:42.837Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:48:44.838Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:48:47.052Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:48:49.184Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:48:51.393Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:48:53.501Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:49:00.604Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:49:10.712Z;functions.check_payment_type;  REF. LANÇAMENTO: 864132
+29-11-2023 12:49:10.818Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+29-11-2023 12:49:16.136Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:49:18.267Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:49:18.268Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:49:33.399Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:49:33.504Z;functions.check_payment_type;  APERTA TAB
+29-11-2023 12:49:35.608Z;functions.check_payment_type;  CTRL C
+29-11-2023 12:49:36.610Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+29-11-2023 12:49:36.802Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+29-11-2023 12:49:38.805Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+29-11-2023 12:49:40.994Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:49:43.122Z;functions.check_payment_type;  PRESS BUTTON OK
+29-11-2023 12:49:45.289Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:49:47.420Z;functions.check_payment_type;  PRESS BUTTON OK 2
+29-11-2023 12:49:54.527Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 12:50:02.094Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+29-11-2023 12:50:03.224Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+29-11-2023 12:50:04.287Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+29-11-2023 12:50:09.463Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+29-11-2023 12:50:10.357Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+29-11-2023 12:50:11.293Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+29-11-2023 12:50:12.167Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+29-11-2023 12:50:36.871Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:50:38.873Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.
+29-11-2023 12:50:42.189Z;functions.process_lancamentos;  CLICK NO LOG APÓS A EXECUÇÃO
+29-11-2023 12:50:44.842Z;functions.process_lancamentos;  Lançamento Ref. 846316: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 850181: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 850208: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 853397: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 854678: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 854685: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 854721: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 855221: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 855225: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 856118: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 858471: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 858765: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 859689: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 859699: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 860579: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 860680: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 860852: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 861143: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 863168: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 863447: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 864111: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 864132: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+29-11-2023 12:50:45.727Z;functions.process_lancamentos;  CLICK EM FECHAR.
+29-11-2023 12:52:24.281Z;functions.proccess_bordero;  CLICA EM CONVÊNIO TRÊS PONTINHOS
+29-11-2023 12:52:26.272Z;functions.proccess_bordero;  CLICA EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+29-11-2023 12:52:28.003Z;functions.proccess_bordero;  CLICA EM ID DO CONVÊNIO
+29-11-2023 12:52:30.111Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+29-11-2023 12:52:32.216Z;functions.proccess_bordero;  ESCREVE O ID 7
+29-11-2023 12:52:34.318Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 7 - SISPAG FORNECEDOR
+29-11-2023 12:52:36.422Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 7 - SISPAG FORNECEDOR
+29-11-2023 12:52:39.329Z;functions.proccess_bordero;  CLICA EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+29-11-2023 12:52:58.524Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:53:00.526Z;functions.proccess_bordero;  O PROCESSAMENTO DO BORDERO FOI EXECUTADO COM SUCESSO.
+29-11-2023 12:53:04.062Z;functions.proccess_bordero;  COPIA O LOG DO PROCESSAMENTO DO BORDERO
+29-11-2023 12:53:04.063Z;functions.proccess_bordero;  Borderô gerado com sucesso.
+
+29-11-2023 12:53:06.921Z;functions.proccess_bordero;  CLICK EM FECHAR.
+29-11-2023 12:53:32.559Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+29-11-2023 12:53:42.676Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+29-11-2023 12:53:54.894Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+29-11-2023 12:54:15.077Z;functions.waitForImage;  FILTER CLEAN image found.
+29-11-2023 12:54:17.201Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+29-11-2023 12:54:20.490Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+29-11-2023 12:54:21.716Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+29-11-2023 12:54:23.689Z;functions.movimentacao_bancaria;  HOVER FILTER
+29-11-2023 12:54:23.829Z;functions.movimentacao_bancaria;  CLICK FILTER
+29-11-2023 12:54:27.046Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+29-11-2023 12:54:30.238Z;functions.movimentacao_bancaria;  SELECIONA TODAS AS TUPLAS COM STATUS PENDENTE
+29-11-2023 12:54:32.346Z;functions.movimentacao_bancaria;  CLICA EM PROCESSOS
+29-11-2023 12:54:34.449Z;functions.movimentacao_bancaria;  APERTA PARA BAIXO
+29-11-2023 12:54:36.552Z;functions.movimentacao_bancaria;  APERTA ENTER
+29-11-2023 12:54:39.469Z;functions.movimentacao_bancaria;  CLICK EM EXECUTAR BORDERO DE PAGAMENTO
+29-11-2023 12:54:44.400Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:54:46.402Z;functions.movimentacao_bancaria;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+29-11-2023 12:54:49.283Z;functions.movimentacao_bancaria;  CLICK EM FECHAR.
+29-11-2023 12:55:11.466Z;functions.waitForImage;  FILTER CLEAN image found.
+29-11-2023 12:55:13.588Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+29-11-2023 12:55:16.889Z;functions.processo_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+29-11-2023 12:55:18.116Z;functions.processo_pagamento;  12 PASSOS PARA DIREITA NA TABELA >>
+29-11-2023 12:55:20.034Z;functions.processo_pagamento;  HOVER FILTER
+29-11-2023 12:55:22.160Z;functions.processo_pagamento;  CLICK FILTER
+29-11-2023 12:55:26.377Z;functions.processo_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+29-11-2023 12:55:29.578Z;functions.processo_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO
+29-11-2023 12:55:31.685Z;functions.processo_pagamento;  CLICA EM PROCESSOS
+29-11-2023 12:55:33.788Z;functions.processo_pagamento;  APERTA PARA BAIXO 1
+29-11-2023 12:55:35.891Z;functions.processo_pagamento;  APERTA PARA BAIXO 2
+29-11-2023 12:55:37.994Z;functions.processo_pagamento;  APERTA PARA BAIXO 3
+29-11-2023 12:55:40.097Z;functions.processo_pagamento;  APERTA ENTER
+29-11-2023 12:55:43.002Z;functions.processo_pagamento;  CLICA EM REMESSAS DE PAGAMENTO
+29-11-2023 12:55:57.636Z;functions.processo_pagamento;  CLICA EM AVANÇAR
+29-11-2023 12:55:58.900Z;functions.processo_pagamento;  DESMARCA CHECKBOX PARA SALVAR ARQUIVO DE REMESSA
+29-11-2023 12:55:59.810Z;functions.processo_pagamento;  CLICA EM AVANCAR PARA CONCLUIR
+29-11-2023 12:56:01.209Z;functions.processo_pagamento;  CLICA EM EXECUTAR
+29-11-2023 12:56:18.393Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:56:20.394Z;functions.processo_pagamento;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+29-11-2023 12:56:24.481Z;functions.processo_pagamento;  <clicknium.core.models.uielement.UiElement object at 0x000001EF71B73410>
+29-11-2023 12:56:30.688Z;functions.processo_pagamento;  ENTER EM FECHAR.
+29-11-2023 12:56:32.793Z;functions.processo_pagamento;  FECHA A ABA MOVIMENTAÇÃO BANCÁRIA
+29-11-2023 12:56:32.799Z;functions.rename_arq;  DATA INICIO 29-11-2023
+29-11-2023 12:56:32.801Z;functions.rename_arq;  DATA FIM 05-12-2023
+29-11-2023 12:56:32.803Z;functions.rename_arq;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+29-11-2023 12:56:32.807Z;functions.rename_arq;  QUARTA-FEIRA: 29-11-2023
+29-11-2023 12:56:32.810Z;functions.rename_arq;  TERCA-FEIRA: 05-12-2023
+29-11-2023 12:56:33.001Z;functions.rename_arq;  A PRÓXIMA LETRA SERÁ: F
+29-11-2023 12:56:33.005Z;functions.rename_arq;  NOME ARQUIVO: B290523F.txt
+29-11-2023 12:56:33.011Z;functions.rename_arq;  Arquivo renomeado com sucesso para B290523F.txt
+29-11-2023 12:56:35.632Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+29-11-2023 12:56:35.681Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+29-11-2023 12:56:35.700Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+29-11-2023 12:56:35.704Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+29-11-2023 12:56:35.710Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+29-11-2023 12:56:35.718Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+29-11-2023 12:56:35.962Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+29-11-2023 12:56:36.080Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+29-11-2023 12:56:36.089Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+29-11-2023 12:56:36.095Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+29-11-2023 12:56:36.102Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+29-11-2023 12:56:36.108Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+29-11-2023 12:56:36.112Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+29-11-2023 12:56:36.162Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+29-11-2023 12:56:36.182Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+29-11-2023 12:56:36.185Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+29-11-2023 12:56:36.190Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+29-11-2023 12:56:36.203Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+29-11-2023 12:56:38.646Z;functions.emailSuccess;  Success e-mail sent.
+29-11-2023 12:56:39.482Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+29-11-2023 12:56:41.004Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+29-11-2023 12:56:41.953Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+29-11-2023 12:56:49.078Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+29-11-2023 12:56:49.957Z;functions.waitForImage;  LANÇAMENTOS image found.
+29-11-2023 12:56:52.078Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+29-11-2023 12:56:54.080Z;functions.data_filter;  DATA INICIO 29-11-2023
+29-11-2023 12:56:54.088Z;functions.data_filter;  DATA FIM 05-12-2023
+29-11-2023 12:56:54.094Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+29-11-2023 12:56:54.099Z;functions.data_filter;  QUARTA-FEIRA: 29-11-2023
+29-11-2023 12:56:54.104Z;functions.data_filter;  TERCA-FEIRA: 05-12-2023
+29-11-2023 12:56:55.685Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+29-11-2023 12:56:57.195Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+29-11-2023 12:56:59.846Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 29-11-2023
+29-11-2023 12:57:02.131Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 05-12-2023
+29-11-2023 12:57:03.052Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+29-11-2023 12:57:24.463Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+29-11-2023 12:57:26.469Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+29-11-2023 12:57:28.697Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+29-11-2023 12:57:31.053Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+29-11-2023 12:57:33.410Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+29-11-2023 12:57:48.598Z;functions.waitForImage;  FILTER CLEAN image found.
+29-11-2023 12:57:50.733Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+29-11-2023 12:57:54.086Z;functions.filter_forma_pagamento;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+29-11-2023 12:57:55.414Z;functions.filter_forma_pagamento;  12 PASSOS PARA DIREITA NA TABELA >>
+29-11-2023 12:57:56.027Z;functions.filter_forma_pagamento;  6 PASSOS PARA ESQUERDA NA TABELA >>
+29-11-2023 12:58:02.124Z;functions.filter_forma_pagamento;  HOVER NOME DA COLUNA FORMA DE PAGAMENTO
+29-11-2023 12:58:02.258Z;functions.filter_forma_pagamento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+29-11-2023 12:58:05.590Z;functions.filter_forma_pagamento;  CLICA NO FILTRO PERSONALIZAR
+29-11-2023 12:58:10.774Z;functions.filter_forma_pagamento;  7 PASSOS PARA ESQUERDA NA TABELA <<
+29-11-2023 12:58:10.775Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+29-11-2023 12:58:23.725Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 9 registros?
+29-11-2023 12:58:25.729Z;functions.check_table_record;  NUMERO DE TUPLAS: 9
+29-11-2023 12:58:25.730Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+29-11-2023 12:58:29.657Z;functions.check_table_record;  CLICK NÃO
+29-11-2023 12:58:45.817Z;functions.select_all_func;  SELECIONA TODOS OS REGISTROS
+29-11-2023 12:58:45.820Z;functions.check_ted_register;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+29-11-2023 12:58:47.564Z;functions.check_ted_register;  CLICA NA PRIMEIRA LINHA DA TABELA
+29-11-2023 12:58:47.567Z;functions.check_ted_register;  rows_int check_ted_register(): 9
+29-11-2023 12:58:56.786Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 12:58:56.891Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 12:58:56.995Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 12:59:06.102Z;functions.check_ted_register;  REFERENCIA LANÇAMENTO: 859360
+29-11-2023 12:59:06.103Z;functions.check_ted_register;  CLIENTE: 005486
+29-11-2023 12:59:06.211Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 12:59:06.314Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 12:59:06.418Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 12:59:08.419Z;functions.check_ted_register;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+29-11-2023 12:59:15.784Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 12:59:17.911Z;functions.check_ted_register;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 12:59:17.913Z;functions.check_ted_register;  VERIFICANDO INFORMAÇÕES
+29-11-2023 12:59:33.037Z;functions.check_ted_register;  ENTROU DADOS BANCÁRIOS
+29-11-2023 12:59:33.142Z;functions.check_ted_register;  APERTA TAB
+29-11-2023 12:59:41.198Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 12:59:43.328Z;functions.check_ted_register;  PRESS BUTTON OK
+29-11-2023 12:59:45.528Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 12:59:47.651Z;functions.check_ted_register;  PRESS BUTTON OK 2
+29-11-2023 12:59:54.761Z;functions.check_ted_register;  RETIRANDO A REFERENCIA: 859360 DO PROCESSAMENTO TED CIP TRANSFORMANDO PARA PIX
+29-11-2023 12:59:58.865Z;functions.check_ted_register;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 13:00:10.072Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:00:10.177Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:00:10.281Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:00:19.386Z;functions.check_ted_register;  REFERENCIA LANÇAMENTO: 859367
+29-11-2023 13:00:19.387Z;functions.check_ted_register;  CLIENTE: 005486
+29-11-2023 13:00:19.496Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:00:19.599Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:00:19.703Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:00:21.704Z;functions.check_ted_register;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+29-11-2023 13:00:29.036Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 13:00:31.159Z;functions.check_ted_register;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 13:00:31.160Z;functions.check_ted_register;  VERIFICANDO INFORMAÇÕES
+29-11-2023 13:00:46.300Z;functions.check_ted_register;  ENTROU DADOS BANCÁRIOS
+29-11-2023 13:00:46.404Z;functions.check_ted_register;  APERTA TAB
+29-11-2023 13:00:54.467Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:00:56.600Z;functions.check_ted_register;  PRESS BUTTON OK
+29-11-2023 13:00:58.784Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 13:01:00.897Z;functions.check_ted_register;  PRESS BUTTON OK 2
+29-11-2023 13:01:08.005Z;functions.check_ted_register;  RETIRANDO A REFERENCIA: 859367 DO PROCESSAMENTO TED CIP TRANSFORMANDO PARA PIX
+29-11-2023 13:01:12.109Z;functions.check_ted_register;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 13:01:23.316Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:01:23.420Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:01:23.524Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:01:32.629Z;functions.check_ted_register;  REFERENCIA LANÇAMENTO: 859369
+29-11-2023 13:01:32.630Z;functions.check_ted_register;  CLIENTE: 005486
+29-11-2023 13:01:32.741Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:01:32.856Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:01:32.961Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:01:34.962Z;functions.check_ted_register;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+29-11-2023 13:01:42.221Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 13:01:44.328Z;functions.check_ted_register;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 13:01:44.329Z;functions.check_ted_register;  VERIFICANDO INFORMAÇÕES
+29-11-2023 13:01:59.460Z;functions.check_ted_register;  ENTROU DADOS BANCÁRIOS
+29-11-2023 13:01:59.565Z;functions.check_ted_register;  APERTA TAB
+29-11-2023 13:02:07.622Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:02:09.751Z;functions.check_ted_register;  PRESS BUTTON OK
+29-11-2023 13:02:11.924Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 13:02:14.045Z;functions.check_ted_register;  PRESS BUTTON OK 2
+29-11-2023 13:02:21.150Z;functions.check_ted_register;  RETIRANDO A REFERENCIA: 859369 DO PROCESSAMENTO TED CIP TRANSFORMANDO PARA PIX
+29-11-2023 13:02:25.255Z;functions.check_ted_register;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 13:02:36.464Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:02:36.567Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:02:36.671Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:02:45.776Z;functions.check_ted_register;  REFERENCIA LANÇAMENTO: 859391
+29-11-2023 13:02:45.777Z;functions.check_ted_register;  CLIENTE: 005486
+29-11-2023 13:02:45.885Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:02:45.989Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:02:46.094Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:02:48.095Z;functions.check_ted_register;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+29-11-2023 13:02:55.417Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 13:02:57.550Z;functions.check_ted_register;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 13:02:57.551Z;functions.check_ted_register;  VERIFICANDO INFORMAÇÕES
+29-11-2023 13:03:12.683Z;functions.check_ted_register;  ENTROU DADOS BANCÁRIOS
+29-11-2023 13:03:12.790Z;functions.check_ted_register;  APERTA TAB
+29-11-2023 13:03:20.828Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:03:22.946Z;functions.check_ted_register;  PRESS BUTTON OK
+29-11-2023 13:03:25.121Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 13:03:27.251Z;functions.check_ted_register;  PRESS BUTTON OK 2
+29-11-2023 13:03:34.356Z;functions.check_ted_register;  RETIRANDO A REFERENCIA: 859391 DO PROCESSAMENTO TED CIP TRANSFORMANDO PARA PIX
+29-11-2023 13:03:38.459Z;functions.check_ted_register;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 13:03:49.667Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:03:49.771Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:03:49.875Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:03:58.980Z;functions.check_ted_register;  REFERENCIA LANÇAMENTO: 859435
+29-11-2023 13:03:58.981Z;functions.check_ted_register;  CLIENTE: 005486
+29-11-2023 13:03:59.089Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:03:59.193Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:03:59.296Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:04:01.297Z;functions.check_ted_register;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+29-11-2023 13:04:07.962Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 13:04:10.079Z;functions.check_ted_register;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 13:04:10.080Z;functions.check_ted_register;  VERIFICANDO INFORMAÇÕES
+29-11-2023 13:04:25.216Z;functions.check_ted_register;  ENTROU DADOS BANCÁRIOS
+29-11-2023 13:04:25.320Z;functions.check_ted_register;  APERTA TAB
+29-11-2023 13:04:33.370Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:04:35.494Z;functions.check_ted_register;  PRESS BUTTON OK
+29-11-2023 13:04:37.679Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 13:04:39.800Z;functions.check_ted_register;  PRESS BUTTON OK 2
+29-11-2023 13:04:46.906Z;functions.check_ted_register;  RETIRANDO A REFERENCIA: 859435 DO PROCESSAMENTO TED CIP TRANSFORMANDO PARA PIX
+29-11-2023 13:04:51.010Z;functions.check_ted_register;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 13:05:02.216Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:05:02.320Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:05:02.423Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:05:11.527Z;functions.check_ted_register;  REFERENCIA LANÇAMENTO: 859442
+29-11-2023 13:05:11.528Z;functions.check_ted_register;  CLIENTE: 009834
+29-11-2023 13:05:11.639Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:05:11.744Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:05:11.848Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:05:13.850Z;functions.check_ted_register;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+29-11-2023 13:05:20.538Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 13:05:22.662Z;functions.check_ted_register;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 13:05:22.671Z;functions.check_ted_register;  VERIFICANDO INFORMAÇÕES
+29-11-2023 13:05:37.796Z;functions.check_ted_register;  ENTROU DADOS BANCÁRIOS
+29-11-2023 13:05:37.901Z;functions.check_ted_register;  APERTA TAB
+29-11-2023 13:05:45.955Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:05:48.072Z;functions.check_ted_register;  PRESS BUTTON OK
+29-11-2023 13:05:50.257Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 13:05:52.363Z;functions.check_ted_register;  PRESS BUTTON OK 2
+29-11-2023 13:05:59.469Z;functions.check_ted_register;  RETIRANDO A REFERENCIA: 859442 DO PROCESSAMENTO TED CIP TRANSFORMANDO PARA PIX
+29-11-2023 13:06:03.574Z;functions.check_ted_register;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 13:06:14.782Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:06:14.887Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:06:14.991Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:06:24.097Z;functions.check_ted_register;  REFERENCIA LANÇAMENTO: 861325
+29-11-2023 13:06:24.098Z;functions.check_ted_register;  CLIENTE: 006490
+29-11-2023 13:06:24.206Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:06:24.311Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:06:24.415Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:06:26.416Z;functions.check_ted_register;  CLIENTE CONTIDO NA LISTA A REFERENCIA: 861325 NÃO SERÁ MODIFICADO PARA PIX
+29-11-2023 13:06:26.417Z;functions.check_ted_register;  VERIFICANDO OS DADOS DE TED CIP
+29-11-2023 13:06:31.528Z;functions.check_ted_register;  VERIFICANDO INFORMAÇÕES
+29-11-2023 13:06:33.075Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 13:06:35.191Z;functions.check_ted_register;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 13:06:50.316Z;functions.check_ted_register;  ENTROU DADOS BANCÁRIOS
+29-11-2023 13:06:50.421Z;functions.check_ted_register;  APERTA TAB
+29-11-2023 13:06:58.800Z;functions.waitForImage;  FORMA DE PAGAMENTO TED CIP image found.
+29-11-2023 13:07:00.803Z;functions.check_ted_register;  FORMA DE PAGAMENTO TED CIP
+29-11-2023 13:07:00.988Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:07:03.095Z;functions.check_ted_register;  PRESS BUTTON OK
+29-11-2023 13:07:05.286Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 13:07:07.410Z;functions.check_ted_register;  PRESS BUTTON OK 2
+29-11-2023 13:07:14.516Z;functions.check_ted_register;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 13:07:25.723Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:07:25.828Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:07:25.932Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:07:35.037Z;functions.check_ted_register;  REFERENCIA LANÇAMENTO: 863479
+29-11-2023 13:07:35.038Z;functions.check_ted_register;  CLIENTE: 009297
+29-11-2023 13:07:35.146Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:07:35.250Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:07:35.354Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:07:37.356Z;functions.check_ted_register;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+29-11-2023 13:07:44.678Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 13:07:46.809Z;functions.check_ted_register;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 13:07:46.810Z;functions.check_ted_register;  VERIFICANDO INFORMAÇÕES
+29-11-2023 13:08:01.946Z;functions.check_ted_register;  ENTROU DADOS BANCÁRIOS
+29-11-2023 13:08:02.051Z;functions.check_ted_register;  APERTA TAB
+29-11-2023 13:08:10.101Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:08:12.231Z;functions.check_ted_register;  PRESS BUTTON OK
+29-11-2023 13:08:14.414Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 13:08:16.529Z;functions.check_ted_register;  PRESS BUTTON OK 2
+29-11-2023 13:08:23.636Z;functions.check_ted_register;  RETIRANDO A REFERENCIA: 863479 DO PROCESSAMENTO TED CIP TRANSFORMANDO PARA PIX
+29-11-2023 13:08:27.741Z;functions.check_ted_register;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 13:08:38.948Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:08:39.053Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:08:39.157Z;functions.check_ted_register;  3 PASSOS PARA DIREITA >>
+29-11-2023 13:08:48.261Z;functions.check_ted_register;  REFERENCIA LANÇAMENTO: 863841
+29-11-2023 13:08:48.262Z;functions.check_ted_register;  CLIENTE: 007466
+29-11-2023 13:08:48.370Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:08:48.474Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:08:48.578Z;functions.check_ted_register;  3 PASSOS PARA ESQUERDA <<
+29-11-2023 13:08:50.579Z;functions.check_ted_register;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+29-11-2023 13:08:57.311Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 13:08:59.423Z;functions.check_ted_register;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 13:08:59.424Z;functions.check_ted_register;  VERIFICANDO INFORMAÇÕES
+29-11-2023 13:09:14.566Z;functions.check_ted_register;  ENTROU DADOS BANCÁRIOS
+29-11-2023 13:09:14.671Z;functions.check_ted_register;  APERTA TAB
+29-11-2023 13:09:22.709Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:09:24.838Z;functions.check_ted_register;  PRESS BUTTON OK
+29-11-2023 13:09:27.023Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+29-11-2023 13:09:29.156Z;functions.check_ted_register;  PRESS BUTTON OK 2
+29-11-2023 13:09:36.262Z;functions.check_ted_register;  RETIRANDO A REFERENCIA: 863841 DO PROCESSAMENTO TED CIP TRANSFORMANDO PARA PIX
+29-11-2023 13:09:40.366Z;functions.check_ted_register;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 13:09:47.378Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+29-11-2023 13:09:48.699Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+29-11-2023 13:09:50.157Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+29-11-2023 13:09:55.269Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+29-11-2023 13:09:56.408Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+29-11-2023 13:09:57.630Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+29-11-2023 13:09:58.707Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+29-11-2023 13:10:07.618Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:10:09.620Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.
+29-11-2023 13:10:12.891Z;functions.process_lancamentos;  CLICK NO LOG APÓS A EXECUÇÃO
+29-11-2023 13:10:15.545Z;functions.process_lancamentos;  Lançamento Ref. 861325: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+29-11-2023 13:10:16.430Z;functions.process_lancamentos;  CLICK EM FECHAR.
+29-11-2023 13:11:53.515Z;functions.proccess_bordero;  CLICA EM CONVÊNIO TRÊS PONTINHOS
+29-11-2023 13:11:55.586Z;functions.proccess_bordero;  CLICA EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+29-11-2023 13:11:57.331Z;functions.proccess_bordero;  CLICA EM ID DO CONVÊNIO
+29-11-2023 13:11:59.475Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+29-11-2023 13:12:01.579Z;functions.proccess_bordero;  ESCREVE O ID 7
+29-11-2023 13:12:03.681Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 7 - SISPAG FORNECEDOR
+29-11-2023 13:12:05.785Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 7 - SISPAG FORNECEDOR
+29-11-2023 13:12:08.703Z;functions.proccess_bordero;  CLICA EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+29-11-2023 13:12:33.206Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:12:35.208Z;functions.proccess_bordero;  O PROCESSAMENTO DO BORDERO FOI EXECUTADO COM SUCESSO.
+29-11-2023 13:12:38.764Z;functions.proccess_bordero;  COPIA O LOG DO PROCESSAMENTO DO BORDERO
+29-11-2023 13:12:38.765Z;functions.proccess_bordero;  Borderô gerado com sucesso.
+
+29-11-2023 13:12:41.626Z;functions.proccess_bordero;  CLICK EM FECHAR.
+29-11-2023 13:12:58.807Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+29-11-2023 13:13:08.943Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+29-11-2023 13:13:21.154Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+29-11-2023 13:13:41.341Z;functions.waitForImage;  FILTER CLEAN image found.
+29-11-2023 13:13:43.463Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+29-11-2023 13:13:46.800Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+29-11-2023 13:13:48.029Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+29-11-2023 13:13:49.985Z;functions.movimentacao_bancaria;  HOVER FILTER
+29-11-2023 13:13:50.119Z;functions.movimentacao_bancaria;  CLICK FILTER
+29-11-2023 13:13:53.335Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+29-11-2023 13:13:56.517Z;functions.movimentacao_bancaria;  SELECIONA TODAS AS TUPLAS COM STATUS PENDENTE
+29-11-2023 13:13:58.625Z;functions.movimentacao_bancaria;  CLICA EM PROCESSOS
+29-11-2023 13:14:00.729Z;functions.movimentacao_bancaria;  APERTA PARA BAIXO
+29-11-2023 13:14:02.832Z;functions.movimentacao_bancaria;  APERTA ENTER
+29-11-2023 13:14:05.775Z;functions.movimentacao_bancaria;  CLICK EM EXECUTAR BORDERO DE PAGAMENTO
+29-11-2023 13:14:12.701Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:14:14.702Z;functions.movimentacao_bancaria;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+29-11-2023 13:14:17.559Z;functions.movimentacao_bancaria;  CLICK EM FECHAR.
+29-11-2023 13:14:39.736Z;functions.waitForImage;  FILTER CLEAN image found.
+29-11-2023 13:14:41.862Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+29-11-2023 13:14:45.446Z;functions.processo_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+29-11-2023 13:14:46.674Z;functions.processo_pagamento;  12 PASSOS PARA DIREITA NA TABELA >>
+29-11-2023 13:14:48.664Z;functions.processo_pagamento;  HOVER FILTER
+29-11-2023 13:14:50.791Z;functions.processo_pagamento;  CLICK FILTER
+29-11-2023 13:14:55.008Z;functions.processo_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+29-11-2023 13:14:58.180Z;functions.processo_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO
+29-11-2023 13:15:00.288Z;functions.processo_pagamento;  CLICA EM PROCESSOS
+29-11-2023 13:15:02.391Z;functions.processo_pagamento;  APERTA PARA BAIXO 1
+29-11-2023 13:15:04.495Z;functions.processo_pagamento;  APERTA PARA BAIXO 2
+29-11-2023 13:15:06.598Z;functions.processo_pagamento;  APERTA PARA BAIXO 3
+29-11-2023 13:15:08.700Z;functions.processo_pagamento;  APERTA ENTER
+29-11-2023 13:15:11.617Z;functions.processo_pagamento;  CLICA EM REMESSAS DE PAGAMENTO
+29-11-2023 13:15:26.261Z;functions.processo_pagamento;  CLICA EM AVANÇAR
+29-11-2023 13:15:27.417Z;functions.processo_pagamento;  DESMARCA CHECKBOX PARA SALVAR ARQUIVO DE REMESSA
+29-11-2023 13:15:28.362Z;functions.processo_pagamento;  CLICA EM AVANCAR PARA CONCLUIR
+29-11-2023 13:15:29.804Z;functions.processo_pagamento;  CLICA EM EXECUTAR
+29-11-2023 13:15:40.828Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:15:42.829Z;functions.processo_pagamento;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+29-11-2023 13:15:46.991Z;functions.processo_pagamento;  <clicknium.core.models.uielement.UiElement object at 0x000001EF72DA5690>
+29-11-2023 13:15:53.197Z;functions.processo_pagamento;  ENTER EM FECHAR.
+29-11-2023 13:15:55.301Z;functions.processo_pagamento;  FECHA A ABA MOVIMENTAÇÃO BANCÁRIA
+29-11-2023 13:15:55.305Z;functions.rename_arq;  DATA INICIO 29-11-2023
+29-11-2023 13:15:55.307Z;functions.rename_arq;  DATA FIM 05-12-2023
+29-11-2023 13:15:55.309Z;functions.rename_arq;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+29-11-2023 13:15:55.312Z;functions.rename_arq;  QUARTA-FEIRA: 29-11-2023
+29-11-2023 13:15:55.314Z;functions.rename_arq;  TERCA-FEIRA: 05-12-2023
+29-11-2023 13:15:55.534Z;functions.rename_arq;  A PRÓXIMA LETRA SERÁ: G
+29-11-2023 13:15:55.543Z;functions.rename_arq;  NOME ARQUIVO: B290523G.txt
+29-11-2023 13:15:55.558Z;functions.rename_arq;  Arquivo renomeado com sucesso para B290523G.txt
+29-11-2023 13:15:57.020Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+29-11-2023 13:15:59.324Z;functions.emailSuccess;  Success e-mail sent.
+29-11-2023 13:16:00.190Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+29-11-2023 13:16:01.705Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+29-11-2023 13:16:04.512Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+29-11-2023 13:16:11.640Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+29-11-2023 13:16:12.500Z;functions.waitForImage;  LANÇAMENTOS image found.
+29-11-2023 13:16:14.629Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+29-11-2023 13:16:16.655Z;functions.data_filter;  DATA INICIO 29-11-2023
+29-11-2023 13:16:16.661Z;functions.data_filter;  DATA FIM 05-12-2023
+29-11-2023 13:16:16.668Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+29-11-2023 13:16:16.671Z;functions.data_filter;  QUARTA-FEIRA: 29-11-2023
+29-11-2023 13:16:16.677Z;functions.data_filter;  TERCA-FEIRA: 05-12-2023
+29-11-2023 13:16:17.550Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+29-11-2023 13:16:18.896Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+29-11-2023 13:16:21.707Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 29-11-2023
+29-11-2023 13:16:24.016Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 05-12-2023
+29-11-2023 13:16:24.951Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+29-11-2023 13:16:43.824Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+29-11-2023 13:16:45.765Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+29-11-2023 13:16:47.812Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+29-11-2023 13:16:50.003Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+29-11-2023 13:16:52.357Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+29-11-2023 13:17:07.547Z;functions.waitForImage;  FILTER CLEAN image found.
+29-11-2023 13:17:09.681Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+29-11-2023 13:17:13.078Z;functions.filter_forma_pagamento_branco;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+29-11-2023 13:17:14.406Z;functions.filter_forma_pagamento_branco;  12 PASSOS PARA DIREITA NA TABELA >>
+29-11-2023 13:17:15.018Z;functions.filter_forma_pagamento_branco;  6 PASSOS PARA ESQUERDA NA TABELA >>
+29-11-2023 13:17:20.541Z;functions.filter_forma_pagamento_branco;  HOVER NOME DA COLUNA FORMA DE PAGAMENTO
+29-11-2023 13:17:20.673Z;functions.filter_forma_pagamento_branco;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+29-11-2023 13:17:24.005Z;functions.filter_forma_pagamento_branco;  CLICA NO FILTRO PERSONALIZAR
+29-11-2023 13:17:30.239Z;functions.filter_forma_pagamento_branco;  7 PASSOS PARA ESQUERDA NA TABELA <<
+29-11-2023 13:17:30.240Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+29-11-2023 13:17:43.201Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 3 registros?
+29-11-2023 13:17:45.204Z;functions.check_table_record;  NUMERO DE TUPLAS: 3
+29-11-2023 13:17:45.205Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+29-11-2023 13:17:49.134Z;functions.check_table_record;  CLICK NÃO
+29-11-2023 13:17:54.135Z;functions.check_ted_branco;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+29-11-2023 13:17:55.461Z;functions.check_ted_branco;  CLICA NA PRIMEIRA LINHA DA TABELA
+29-11-2023 13:17:55.568Z;functions.check_ted_branco;  2 PASSOS PARA DIREITA >>
+29-11-2023 13:17:55.672Z;functions.check_ted_branco;  2 PASSOS PARA DIREITA >>
+29-11-2023 13:18:06.778Z;functions.check_ted_branco;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+29-11-2023 13:18:14.021Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 13:18:16.136Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 13:18:16.137Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+29-11-2023 13:18:32.924Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+29-11-2023 13:18:34.927Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 753534
+29-11-2023 13:18:39.636Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:18:41.763Z;functions.check_ted_branco;  PRESS BUTTON OK
+29-11-2023 13:18:54.224Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+29-11-2023 13:18:56.328Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 13:19:09.433Z;functions.check_ted_branco;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+29-11-2023 13:19:16.760Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 13:19:18.874Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 13:19:18.876Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+29-11-2023 13:19:35.680Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+29-11-2023 13:19:37.682Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 753597
+29-11-2023 13:19:42.390Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:19:44.513Z;functions.check_ted_branco;  PRESS BUTTON OK
+29-11-2023 13:19:56.975Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+29-11-2023 13:19:59.078Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 13:20:12.184Z;functions.check_ted_branco;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+29-11-2023 13:20:20.082Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+29-11-2023 13:20:22.194Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+29-11-2023 13:20:22.195Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+29-11-2023 13:20:39.003Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+29-11-2023 13:20:41.005Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 753657
+29-11-2023 13:20:45.703Z;functions.waitForImage;  PRESS BUTTON OK image found.
+29-11-2023 13:20:47.812Z;functions.check_ted_branco;  PRESS BUTTON OK
+29-11-2023 13:21:00.254Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+29-11-2023 13:21:02.358Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+29-11-2023 13:21:06.339Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+29-11-2023 13:21:08.789Z;functions.emailSuccess;  Success e-mail sent.
+29-11-2023 13:21:08.790Z;main.<module>;  O PROGRAMA SERÁ ENCERRADO
+29-11-2023 13:21:08.901Z;functions.end_RM;  FECHA O PROGRAMA
+29-11-2023 13:21:11.004Z;functions.end_RM;  RM ENCERRADO

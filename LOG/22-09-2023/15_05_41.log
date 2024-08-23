@@ -1,0 +1,12 @@
+22-09-2023 15:05:43.134Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+22-09-2023 15:05:44.465Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+22-09-2023 15:05:47.158Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+22-09-2023 15:05:52.626Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+22-09-2023 15:06:12.277Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 18, in <module>
+    enter_contas_a_pagar()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 84, in enter_contas_a_pagar
+    lancamentos.click()
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

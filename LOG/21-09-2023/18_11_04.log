@@ -1,0 +1,30 @@
+21-09-2023 18:11:04.485Z;functions.bot_text_art;      __     
+21-09-2023 18:11:04.486Z;functions.bot_text_art;     [____]    
+21-09-2023 18:11:04.486Z;functions.bot_text_art;   |=]()()[=|  
+21-09-2023 18:11:04.487Z;functions.bot_text_art;     _\==/__    _____    ____              _____    ___   _  __
+21-09-2023 18:11:04.488Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+21-09-2023 18:11:04.489Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+21-09-2023 18:11:04.490Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+21-09-2023 18:11:04.491Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+21-09-2023 18:11:04.493Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+21-09-2023 18:11:04.494Z;functions.bot_text_art;     |_||_|                                                     
+21-09-2023 18:11:04.495Z;functions.bot_text_art;     | ||_|_   
+21-09-2023 18:11:04.495Z;functions.bot_text_art;   |___||___|  
+21-09-2023 18:11:04.496Z;functions.bot_text_art;               
+21-09-2023 18:11:04.502Z;functions.open_RM;  OPEN PROGRAM RM
+21-09-2023 18:11:12.705Z;functions.loggin_RM;  ENTER USER_NAME
+21-09-2023 18:11:13.810Z;functions.loggin_RM;  ENTER PASSWORD
+21-09-2023 18:11:14.725Z;functions.loggin_RM;  ENTER RM
+21-09-2023 18:11:36.851Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+21-09-2023 18:11:41.108Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+21-09-2023 18:11:43.710Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+21-09-2023 18:11:46.899Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+21-09-2023 18:12:28.019Z;functions.enter_contas_a_pagar;  CLICK - LANCAMENTOS
+21-09-2023 18:13:10.280Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 18, in <module>
+    select_tipo_documento()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 139, in select_tipo_documento
+    tipo_doc.click()
+    ^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

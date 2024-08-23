@@ -1,0 +1,57 @@
+17-01-2024 16:10:50.154Z;functions.bot_text_art;      ____   
+17-01-2024 16:10:50.154Z;functions.bot_text_art;     [____]    
+17-01-2024 16:10:50.154Z;functions.bot_text_art;   |=]()()[=|  
+17-01-2024 16:10:50.154Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+17-01-2024 16:10:50.154Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+17-01-2024 16:10:50.154Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+17-01-2024 16:10:50.154Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+17-01-2024 16:10:50.154Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+17-01-2024 16:10:50.154Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+17-01-2024 16:10:50.154Z;functions.bot_text_art;     |_||_|                                                     
+17-01-2024 16:10:50.154Z;functions.bot_text_art;     | ||_|_   
+17-01-2024 16:10:50.154Z;functions.bot_text_art;   |___||___|  
+17-01-2024 16:10:50.154Z;functions.bot_text_art;               
+17-01-2024 16:10:50.170Z;functions.open_RM;  OPEN PROGRAM RM
+17-01-2024 16:10:56.701Z;functions.loggin_RM;  ENTER USER_NAME
+17-01-2024 16:10:57.555Z;functions.loggin_RM;  ENTER PASSWORD
+17-01-2024 16:10:58.255Z;functions.loggin_RM;  ENTER RM
+17-01-2024 16:11:25.451Z;functions.enter_coligada;  CLICK CONTEXTO
+17-01-2024 16:11:29.419Z;functions.enter_coligada;  CLICK COLIGADA 1
+17-01-2024 16:11:30.829Z;functions.enter_coligada;  CLICK AVANÇAR
+17-01-2024 16:11:32.482Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+17-01-2024 16:11:32.584Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+17-01-2024 16:11:33.482Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+17-01-2024 16:11:34.357Z;functions.enter_coligada;  CLICK CONCLUIR
+17-01-2024 16:11:45.438Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+17-01-2024 16:11:46.045Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+17-01-2024 16:11:47.138Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+17-01-2024 16:11:49.482Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+17-01-2024 16:11:54.795Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+17-01-2024 16:11:54.904Z;functions.waitForImage;  LANÇAMENTOS image found.
+17-01-2024 16:11:57.013Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+17-01-2024 16:12:10.279Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 14, in <module>
+    enter_contas_a_pagar()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 124, in enter_contas_a_pagar
+    licencas = waitForImage(image = licencas_excedidas, timeout=10, name = 'LICENCAS EXCEDIDAS')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 1315, in waitForImage
+    location = pyautogui.locateOnScreen(image=image, confidence=0.9)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyautogui\__init__.py", line 210, in locateOnScreen
+    return pyscreeze.locateOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyscreeze\__init__.py", line 378, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyscreeze\__init__.py", line 356, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyscreeze\__init__.py", line 225, in _locateAll_opencv
+    result = cv2.matchTemplate(haystackImage, needleImage, cv2.TM_CCOEFF_NORMED)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

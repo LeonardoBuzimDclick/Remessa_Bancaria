@@ -1,0 +1,39 @@
+21-09-2023 18:28:24.123Z;functions.bot_text_art;      __     
+21-09-2023 18:28:24.124Z;functions.bot_text_art;     [____]    
+21-09-2023 18:28:24.125Z;functions.bot_text_art;   |=]()()[=|  
+21-09-2023 18:28:24.125Z;functions.bot_text_art;     _\==/__    _____    ____              _____    ___   _  __
+21-09-2023 18:28:24.125Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+21-09-2023 18:28:24.126Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+21-09-2023 18:28:24.126Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+21-09-2023 18:28:24.127Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+21-09-2023 18:28:24.129Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+21-09-2023 18:28:24.129Z;functions.bot_text_art;     |_||_|                                                     
+21-09-2023 18:28:24.130Z;functions.bot_text_art;     | ||_|_   
+21-09-2023 18:28:24.131Z;functions.bot_text_art;   |___||___|  
+21-09-2023 18:28:24.131Z;functions.bot_text_art;               
+21-09-2023 18:28:24.139Z;functions.open_RM;  OPEN PROGRAM RM
+21-09-2023 18:28:33.035Z;functions.loggin_RM;  ENTER USER_NAME
+21-09-2023 18:28:34.149Z;functions.loggin_RM;  ENTER PASSWORD
+21-09-2023 18:28:35.140Z;functions.loggin_RM;  ENTER RM
+21-09-2023 18:28:58.064Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+21-09-2023 18:29:02.366Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+21-09-2023 18:29:05.155Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+21-09-2023 18:29:08.873Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+21-09-2023 18:29:49.937Z;functions.enter_contas_a_pagar;  CLICK - LANCAMENTOS
+21-09-2023 18:29:49.940Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+21-09-2023 18:29:49.941Z;functions.data_filter;  QUARTA-FEIRA: 20-09-2023
+21-09-2023 18:29:49.941Z;functions.data_filter;  TERCA-FEIRA: 26-09-2023
+21-09-2023 18:29:56.899Z;functions.data_filter;  CLICK - SELECIONA FILTRO
+21-09-2023 18:29:58.315Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+21-09-2023 18:30:00.726Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 20-09-2023
+21-09-2023 18:30:02.650Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 26-09-2023
+21-09-2023 18:30:03.550Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+21-09-2023 18:30:08.375Z;functions.select_tipo_documento;  MOUSE SOBRE O CAMPO TIPO DE DOCUMENTO
+21-09-2023 18:30:31.278Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 18, in <module>
+    select_tipo_documento()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 148, in select_tipo_documento
+    tipo_doc2.click()
+    ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

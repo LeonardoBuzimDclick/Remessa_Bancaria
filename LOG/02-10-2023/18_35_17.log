@@ -1,0 +1,29 @@
+02-10-2023 18:35:17.741Z;functions.bot_text_art;      ____   
+02-10-2023 18:35:17.742Z;functions.bot_text_art;     [____]    
+02-10-2023 18:35:17.743Z;functions.bot_text_art;   |=]()()[=|  
+02-10-2023 18:35:17.744Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+02-10-2023 18:35:17.745Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+02-10-2023 18:35:17.745Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+02-10-2023 18:35:17.747Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+02-10-2023 18:35:17.748Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+02-10-2023 18:35:17.751Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+02-10-2023 18:35:17.752Z;functions.bot_text_art;     |_||_|                                                     
+02-10-2023 18:35:17.753Z;functions.bot_text_art;     | ||_|_   
+02-10-2023 18:35:17.754Z;functions.bot_text_art;   |___||___|  
+02-10-2023 18:35:17.755Z;functions.bot_text_art;               
+02-10-2023 18:35:17.767Z;functions.open_RM;  OPEN PROGRAM RM
+02-10-2023 18:35:26.305Z;functions.loggin_RM;  ENTER USER_NAME
+02-10-2023 18:35:27.409Z;functions.loggin_RM;  ENTER PASSWORD
+02-10-2023 18:35:28.342Z;functions.loggin_RM;  ENTER RM
+02-10-2023 18:35:52.777Z;functions.enter_coligada;  CLICK CONTEXTO
+02-10-2023 18:35:57.304Z;functions.enter_coligada;  CLICK COLIGADA 1
+02-10-2023 18:35:59.170Z;functions.enter_coligada;  CLICK AVANÇAR
+02-10-2023 18:36:02.067Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+02-10-2023 18:36:17.818Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 15, in <module>
+    enter_coligada()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 86, in enter_coligada
+    click_avancar_final.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

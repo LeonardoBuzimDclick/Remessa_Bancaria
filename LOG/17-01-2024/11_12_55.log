@@ -1,0 +1,77 @@
+17-01-2024 11:12:57.694Z;functions.bot_text_art;      ____   
+17-01-2024 11:12:57.694Z;functions.bot_text_art;     [____]    
+17-01-2024 11:12:57.700Z;functions.bot_text_art;   |=]()()[=|  
+17-01-2024 11:12:57.700Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+17-01-2024 11:12:57.700Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+17-01-2024 11:12:57.700Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+17-01-2024 11:12:57.700Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+17-01-2024 11:12:57.700Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+17-01-2024 11:12:57.700Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+17-01-2024 11:12:57.700Z;functions.bot_text_art;     |_||_|                                                     
+17-01-2024 11:12:57.700Z;functions.bot_text_art;     | ||_|_   
+17-01-2024 11:12:57.700Z;functions.bot_text_art;   |___||___|  
+17-01-2024 11:12:57.700Z;functions.bot_text_art;               
+17-01-2024 11:12:58.052Z;functions.open_RM;  OPEN PROGRAM RM
+17-01-2024 11:13:08.645Z;functions.loggin_RM;  ENTER USER_NAME
+17-01-2024 11:13:09.563Z;functions.loggin_RM;  ENTER PASSWORD
+17-01-2024 11:13:10.270Z;functions.loggin_RM;  ENTER RM
+17-01-2024 11:13:51.022Z;functions.enter_coligada;  CLICK CONTEXTO
+17-01-2024 11:13:54.989Z;functions.enter_coligada;  CLICK COLIGADA 1
+17-01-2024 11:13:56.364Z;functions.enter_coligada;  CLICK AVANÇAR
+17-01-2024 11:13:57.942Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+17-01-2024 11:13:58.044Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+17-01-2024 11:13:59.458Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+17-01-2024 11:14:00.270Z;functions.enter_coligada;  CLICK CONCLUIR
+17-01-2024 11:14:11.317Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+17-01-2024 11:14:11.927Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+17-01-2024 11:14:12.989Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+17-01-2024 11:14:13.708Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+17-01-2024 11:14:19.395Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+17-01-2024 11:14:19.505Z;functions.waitForImage;  LANÇAMENTOS image found.
+17-01-2024 11:14:21.622Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+17-01-2024 11:14:26.849Z;functions.show_exception_and_exit;  Failed to read C:\Projetos_Remessas\Remessa_Bancaria/IMAGES/licencas_excedidas.PNG because file is missing, has improper permissions, or is an unsupported or invalid format
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 14, in <module>
+    enter_contas_a_pagar()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 122, in enter_contas_a_pagar
+    licencas = waitForImage(image = licencas_excedidas, timeout=10, name = 'licencas_excedidas')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 1309, in waitForImage
+    location = pyautogui.locateOnScreen(image=image, confidence=0.9)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyautogui\__init__.py", line 210, in locateOnScreen
+    return pyscreeze.locateOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyscreeze\__init__.py", line 378, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyscreeze\__init__.py", line 356, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyscreeze\__init__.py", line 205, in _locateAll_opencv
+    needleImage = _load_cv2(needleImage, grayscale)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyscreeze\__init__.py", line 167, in _load_cv2
+    raise IOError(
+OSError: Failed to read C:\Projetos_Remessas\Remessa_Bancaria/IMAGES/licencas_excedidas.PNG because file is missing, has improper permissions, or is an unsupported or invalid format
+17-01-2024 11:14:29.052Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+17-01-2024 11:14:29.052Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+17-01-2024 11:14:29.052Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+17-01-2024 11:14:29.052Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+17-01-2024 11:14:29.067Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+17-01-2024 11:14:29.067Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+17-01-2024 11:14:29.114Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+17-01-2024 11:14:29.145Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+17-01-2024 11:14:29.145Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+17-01-2024 11:14:29.145Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+17-01-2024 11:14:29.145Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+17-01-2024 11:14:29.145Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+17-01-2024 11:14:29.145Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+17-01-2024 11:14:29.161Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+17-01-2024 11:14:29.161Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+17-01-2024 11:14:29.161Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+17-01-2024 11:14:29.161Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+17-01-2024 11:14:29.177Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

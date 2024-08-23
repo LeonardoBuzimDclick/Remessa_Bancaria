@@ -1,0 +1,79 @@
+29-01-2024 17:37:32.642Z;functions.bot_text_art;      ____   
+29-01-2024 17:37:32.643Z;functions.bot_text_art;     [____]    
+29-01-2024 17:37:32.643Z;functions.bot_text_art;   |=]()()[=|  
+29-01-2024 17:37:32.643Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+29-01-2024 17:37:32.643Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+29-01-2024 17:37:32.643Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+29-01-2024 17:37:32.643Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+29-01-2024 17:37:32.643Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+29-01-2024 17:37:32.644Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+29-01-2024 17:37:32.644Z;functions.bot_text_art;     |_||_|                                                     
+29-01-2024 17:37:32.644Z;functions.bot_text_art;     | ||_|_   
+29-01-2024 17:37:32.644Z;functions.bot_text_art;   |___||___|  
+29-01-2024 17:37:32.644Z;functions.bot_text_art;               
+29-01-2024 17:37:32.647Z;functions.open_RM;  OPEN PROGRAM RM
+29-01-2024 17:37:38.762Z;functions.loggin_RM;  ENTER USER_NAME
+29-01-2024 17:37:39.629Z;functions.loggin_RM;  ENTER PASSWORD
+29-01-2024 17:37:40.357Z;functions.loggin_RM;  ENTER RM
+29-01-2024 17:38:05.707Z;functions.enter_coligada;  CLICK CONTEXTO
+29-01-2024 17:38:09.645Z;functions.enter_coligada;  CLICK COLIGADA 1
+29-01-2024 17:38:11.051Z;functions.enter_coligada;  CLICK AVANÇAR
+29-01-2024 17:38:12.635Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+29-01-2024 17:38:12.736Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+29-01-2024 17:38:13.583Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+29-01-2024 17:38:14.394Z;functions.enter_coligada;  CLICK CONCLUIR
+29-01-2024 17:38:24.110Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+29-01-2024 17:38:24.739Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+29-01-2024 17:38:25.864Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+29-01-2024 17:38:28.208Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+29-01-2024 17:38:32.895Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+29-01-2024 17:38:32.987Z;functions.waitForImage;  LANÇAMENTOS image found.
+29-01-2024 17:38:35.121Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+29-01-2024 17:38:50.671Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+29-01-2024 17:38:50.671Z;functions.data_filter;  DATA INICIO 31-01-2024
+29-01-2024 17:38:50.671Z;functions.data_filter;  DATA FIM 06-02-2024
+29-01-2024 17:38:50.671Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+29-01-2024 17:38:50.671Z;functions.data_filter;  QUARTA-FEIRA: 31-01-2024
+29-01-2024 17:38:50.671Z;functions.data_filter;  TERCA-FEIRA: 06-02-2024
+29-01-2024 17:38:51.353Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+29-01-2024 17:38:52.363Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+29-01-2024 17:38:54.256Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 31-01-2024
+29-01-2024 17:38:55.747Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 06-02-2024
+29-01-2024 17:38:56.394Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+29-01-2024 17:39:48.457Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+29-01-2024 17:39:49.297Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+29-01-2024 17:39:50.141Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+29-01-2024 17:39:51.045Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+29-01-2024 17:39:51.954Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+29-01-2024 17:40:02.044Z;functions.waitForImage;  FILTER CLEAN image found.
+29-01-2024 17:40:04.151Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+29-01-2024 17:40:06.151Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+29-01-2024 17:40:36.497Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 18, in <module>
+    result = check_table_record()
+             ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 332, in check_table_record
+    txt_table = numero_registros.get_text()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+29-01-2024 17:40:38.241Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+29-01-2024 17:40:38.250Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+29-01-2024 17:40:38.252Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+29-01-2024 17:40:38.253Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+29-01-2024 17:40:38.253Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+29-01-2024 17:40:38.254Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+29-01-2024 17:40:38.303Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+29-01-2024 17:40:38.329Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+29-01-2024 17:40:38.330Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+29-01-2024 17:40:38.331Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+29-01-2024 17:40:38.331Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+29-01-2024 17:40:38.332Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+29-01-2024 17:40:38.332Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+29-01-2024 17:40:38.342Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+29-01-2024 17:40:38.346Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+29-01-2024 17:40:38.346Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+29-01-2024 17:40:38.346Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+29-01-2024 17:40:38.347Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+29-01-2024 17:40:40.530Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'get_text'
+29-01-2024 17:40:40.530Z;functions.show_exception_and_exit;  RM FECHADO

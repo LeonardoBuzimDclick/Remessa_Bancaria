@@ -1,0 +1,50 @@
+28-09-2023 17:21:08.843Z;functions.bot_text_art;      __     
+28-09-2023 17:21:08.844Z;functions.bot_text_art;     [____]    
+28-09-2023 17:21:08.844Z;functions.bot_text_art;   |=]()()[=|  
+28-09-2023 17:21:08.845Z;functions.bot_text_art;     _\==/__    _____    ____              _____    ___   _  __
+28-09-2023 17:21:08.845Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+28-09-2023 17:21:08.845Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+28-09-2023 17:21:08.846Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+28-09-2023 17:21:08.847Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+28-09-2023 17:21:08.849Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+28-09-2023 17:21:08.850Z;functions.bot_text_art;     |_||_|                                                     
+28-09-2023 17:21:08.851Z;functions.bot_text_art;     | ||_|_   
+28-09-2023 17:21:08.852Z;functions.bot_text_art;   |___||___|  
+28-09-2023 17:21:08.852Z;functions.bot_text_art;               
+28-09-2023 17:21:08.862Z;functions.open_RM;  OPEN PROGRAM RM
+28-09-2023 17:21:17.740Z;functions.loggin_RM;  ENTER USER_NAME
+28-09-2023 17:21:18.989Z;functions.loggin_RM;  ENTER PASSWORD
+28-09-2023 17:21:19.939Z;functions.loggin_RM;  ENTER RM
+28-09-2023 17:21:42.635Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+28-09-2023 17:21:46.885Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+28-09-2023 17:21:49.652Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+28-09-2023 17:21:53.251Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+28-09-2023 17:21:54.303Z;functions.enter_contas_a_pagar;  CLICK - LANCAMENTOS
+28-09-2023 17:21:54.308Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+28-09-2023 17:21:54.308Z;functions.data_filter;  QUARTA-FEIRA: 27-09-2023
+28-09-2023 17:21:54.309Z;functions.data_filter;  TERCA-FEIRA: 03-10-2023
+28-09-2023 17:22:04.610Z;functions.waitForImage;  FILTER CLEAN image not found.
+28-09-2023 17:22:05.576Z;functions.data_filter;  CLICK - SELECIONA FILTRO
+28-09-2023 17:22:06.873Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+28-09-2023 17:22:09.262Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 27-09-2023
+28-09-2023 17:22:11.236Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 03-10-2023
+28-09-2023 17:22:12.177Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+28-09-2023 17:22:17.967Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+28-09-2023 17:22:19.562Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+28-09-2023 17:22:19.714Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+28-09-2023 17:22:20.075Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+28-09-2023 17:22:21.552Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+28-09-2023 17:22:28.902Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+28-09-2023 17:22:30.510Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+28-09-2023 17:22:31.822Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+28-09-2023 17:22:33.176Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+28-09-2023 17:22:34.596Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+28-09-2023 17:22:36.117Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+28-09-2023 17:22:53.905Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 18, in <module>
+    filter_IPTE()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 262, in filter_IPTE
+    row_select.click()
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

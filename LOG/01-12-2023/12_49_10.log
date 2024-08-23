@@ -1,0 +1,25 @@
+01-12-2023 12:49:12.860Z;functions.bot_text_art;      ____   
+01-12-2023 12:49:12.861Z;functions.bot_text_art;     [____]    
+01-12-2023 12:49:12.862Z;functions.bot_text_art;   |=]()()[=|  
+01-12-2023 12:49:12.862Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+01-12-2023 12:49:12.863Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+01-12-2023 12:49:12.863Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+01-12-2023 12:49:12.864Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+01-12-2023 12:49:12.864Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+01-12-2023 12:49:12.866Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+01-12-2023 12:49:12.867Z;functions.bot_text_art;     |_||_|                                                     
+01-12-2023 12:49:12.867Z;functions.bot_text_art;     | ||_|_   
+01-12-2023 12:49:12.867Z;functions.bot_text_art;   |___||___|  
+01-12-2023 12:49:12.868Z;functions.bot_text_art;               
+01-12-2023 12:49:12.880Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "C:\Projetos\Remessa_Bancaria\main.py", line 11, in <module>
+    open_RM()
+  File "C:\Projetos\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 49, in open_RM
+    subprocess.Popen(programa)
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

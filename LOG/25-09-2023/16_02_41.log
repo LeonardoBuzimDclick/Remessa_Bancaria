@@ -1,0 +1,55 @@
+25-09-2023 16:02:41.571Z;functions.bot_text_art;      __     
+25-09-2023 16:02:41.571Z;functions.bot_text_art;     [____]    
+25-09-2023 16:02:41.572Z;functions.bot_text_art;   |=]()()[=|  
+25-09-2023 16:02:41.572Z;functions.bot_text_art;     _\==/__    _____    ____              _____    ___   _  __
+25-09-2023 16:02:41.572Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+25-09-2023 16:02:41.573Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+25-09-2023 16:02:41.573Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+25-09-2023 16:02:41.574Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+25-09-2023 16:02:41.575Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+25-09-2023 16:02:41.576Z;functions.bot_text_art;     |_||_|                                                     
+25-09-2023 16:02:41.577Z;functions.bot_text_art;     | ||_|_   
+25-09-2023 16:02:41.577Z;functions.bot_text_art;   |___||___|  
+25-09-2023 16:02:41.577Z;functions.bot_text_art;               
+25-09-2023 16:02:41.584Z;functions.open_RM;  OPEN PROGRAM RM
+25-09-2023 16:02:50.258Z;functions.loggin_RM;  ENTER USER_NAME
+25-09-2023 16:02:51.316Z;functions.loggin_RM;  ENTER PASSWORD
+25-09-2023 16:02:52.249Z;functions.loggin_RM;  ENTER RM
+25-09-2023 16:03:14.877Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+25-09-2023 16:03:19.062Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+25-09-2023 16:03:21.774Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+25-09-2023 16:03:25.240Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+25-09-2023 16:03:26.156Z;functions.enter_contas_a_pagar;  CLICK - LANCAMENTOS
+25-09-2023 16:03:26.157Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+25-09-2023 16:03:26.158Z;functions.data_filter;  QUARTA-FEIRA: 27-09-2023
+25-09-2023 16:03:26.158Z;functions.data_filter;  TERCA-FEIRA: 03-10-2023
+25-09-2023 16:03:32.128Z;functions.data_filter;  CLICK - SELECIONA FILTRO
+25-09-2023 16:03:33.340Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+25-09-2023 16:03:35.580Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 27-09-2023
+25-09-2023 16:03:37.347Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 03-10-2023
+25-09-2023 16:03:38.162Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+25-09-2023 16:03:43.144Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+25-09-2023 16:03:44.580Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+25-09-2023 16:03:44.713Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+25-09-2023 16:03:45.023Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+25-09-2023 16:03:57.011Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+25-09-2023 16:03:58.204Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR: Não é igual a
+25-09-2023 16:03:59.192Z;functions.select_tipo_documento;  ENVIAR A HOTKEY INV
+25-09-2023 16:04:00.033Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+25-09-2023 16:04:01.375Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+25-09-2023 16:04:02.501Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+25-09-2023 16:04:03.668Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+25-09-2023 16:04:04.980Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+25-09-2023 16:04:06.611Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+25-09-2023 16:04:07.931Z;functions.filter_IPTE;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+25-09-2023 16:04:22.924Z;functions.filter_IPTE;  147 PASSOS PARA DIREITA NA TABELA >>
+25-09-2023 16:04:26.498Z;functions.filter_IPTE;  HOVER FILTER
+25-09-2023 16:04:26.631Z;functions.filter_IPTE;  CLICK FILTER
+25-09-2023 16:04:26.632Z;functions.show_exception_and_exit;  'builtin_function_or_method' object has no attribute 'sleep'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 19, in <module>
+    filter_IPTE()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 247, in filter_IPTE
+    time.sleep(2)
+    ^^^^^^^^^^
+AttributeError: 'builtin_function_or_method' object has no attribute 'sleep'

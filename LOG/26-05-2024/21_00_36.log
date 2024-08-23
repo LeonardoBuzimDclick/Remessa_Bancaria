@@ -1,0 +1,24 @@
+26-05-2024 21:00:37.162Z;functions.bot_text_art;      ____   
+26-05-2024 21:00:37.162Z;functions.bot_text_art;     [____]    
+26-05-2024 21:00:37.162Z;functions.bot_text_art;   |=]()()[=|  
+26-05-2024 21:00:37.162Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+26-05-2024 21:00:37.162Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+26-05-2024 21:00:37.162Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+26-05-2024 21:00:37.162Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+26-05-2024 21:00:37.162Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+26-05-2024 21:00:37.162Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+26-05-2024 21:00:37.162Z;functions.bot_text_art;     |_||_|                                                     
+26-05-2024 21:00:37.162Z;functions.bot_text_art;     | ||_|_   
+26-05-2024 21:00:37.162Z;functions.bot_text_art;   |___||___|  
+26-05-2024 21:00:37.162Z;functions.bot_text_art;               
+26-05-2024 21:00:37.631Z;functions.open_RM;  OPEN PROGRAM RM
+26-05-2024 21:01:00.844Z;functions.show_exception_and_exit;  Failed to set focus.
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 13, in <module>
+    loggin_RM()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 87, in loggin_RM
+    user_rm.send_hotkey(f'{user}')
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 157, in wrapper
+    raise exception;
+    ^^^^^^^^^^^^^^^
+clicknium.common.models.exceptions.WindowError: Failed to set focus.

@@ -1,0 +1,34 @@
+16-10-2023 18:20:49.136Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+16-10-2023 18:20:50.061Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+16-10-2023 18:21:02.274Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+16-10-2023 18:21:03.544Z;functions.waitForImage;  FILTER CLEAN image found.
+16-10-2023 18:21:05.660Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+16-10-2023 18:21:08.651Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+16-10-2023 18:21:09.884Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+16-10-2023 18:21:11.433Z;functions.movimentacao_bancaria;  HOVER FILTER
+16-10-2023 18:21:11.568Z;functions.movimentacao_bancaria;  CLICK FILTER
+16-10-2023 18:21:15.915Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+16-10-2023 18:21:18.018Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+16-10-2023 18:21:20.142Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+16-10-2023 18:21:22.244Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+16-10-2023 18:21:39.496Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+16-10-2023 18:21:40.364Z;functions.movimentacao_bancaria;  SELECIONA TODAS AS TUPLAS COM STATUS PENDENTE
+16-10-2023 18:21:42.474Z;functions.movimentacao_bancaria;  CLICA EM PROCESSOS
+16-10-2023 18:21:44.577Z;functions.movimentacao_bancaria;  APERTA PARA BAIXO
+16-10-2023 18:21:46.682Z;functions.movimentacao_bancaria;  APERTA ENTER
+16-10-2023 18:21:49.497Z;functions.movimentacao_bancaria;  CLICK EM EXECUTAR BORDERO DE PAGAMENTO
+16-10-2023 18:22:03.404Z;functions.waitForImage;  PRESS BUTTON OK image found.
+16-10-2023 18:22:05.405Z;functions.movimentacao_bancaria;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+16-10-2023 18:22:08.222Z;functions.movimentacao_bancaria;  CLICK EM FECHAR.
+16-10-2023 18:22:10.348Z;functions.waitForImage;  FILTER CLEAN image found.
+16-10-2023 18:22:12.472Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+16-10-2023 18:22:15.504Z;functions.processo_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+16-10-2023 18:22:16.750Z;functions.processo_pagamento;  12 PASSOS PARA DIREITA NA TABELA >>
+16-10-2023 18:22:18.232Z;functions.processo_pagamento;  HOVER FILTER
+16-10-2023 18:22:20.351Z;functions.processo_pagamento;  CLICK FILTER
+16-10-2023 18:22:24.713Z;functions.processo_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+16-10-2023 18:22:26.816Z;functions.processo_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+16-10-2023 18:22:28.953Z;functions.processo_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+16-10-2023 18:22:31.058Z;functions.processo_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+16-10-2023 18:22:34.054Z;functions.processo_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO
+16-10-2023 18:22:36.164Z;functions.processo_pagamento;  CLICA EM PROCESSOS

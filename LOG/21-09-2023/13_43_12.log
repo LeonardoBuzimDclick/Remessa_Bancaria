@@ -1,0 +1,8 @@
+21-09-2023 13:43:13.046Z;functions.show_exception_and_exit;  strptime() argument 1 must be str, not datetime.date
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 43, in <module>
+    lancamento_date()
+  File "c:\projetos\remessas\main.py", line 19, in lancamento_date
+    data_obj_atual = datetime.strptime(data_atual, "%Y-%m-%d")
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: strptime() argument 1 must be str, not datetime.date

@@ -1,0 +1,58 @@
+09-07-2024 12:03:20.586Z;functions.bot_text_art;      ____   
+09-07-2024 12:03:20.587Z;functions.bot_text_art;     [____]    
+09-07-2024 12:03:20.588Z;functions.bot_text_art;   |=]()()[=|  
+09-07-2024 12:03:20.589Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+09-07-2024 12:03:20.590Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+09-07-2024 12:03:20.591Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+09-07-2024 12:03:20.592Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+09-07-2024 12:03:20.593Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+09-07-2024 12:03:20.597Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+09-07-2024 12:03:20.599Z;functions.bot_text_art;     |_||_|                                                     
+09-07-2024 12:03:20.600Z;functions.bot_text_art;     | ||_|_   
+09-07-2024 12:03:20.600Z;functions.bot_text_art;   |___||___|  
+09-07-2024 12:03:20.601Z;functions.bot_text_art;               
+09-07-2024 12:03:20.619Z;functions.open_RM;  OPEN PROGRAM RM
+09-07-2024 12:03:20.620Z;functions.caps;  DESATIVANDO CAPS
+09-07-2024 12:03:20.621Z;functions.loggin_RM;  BUSCANDO LOGGIN RM
+09-07-2024 12:03:40.262Z;functions.loggin_RM;  ENTER USER_NAME
+09-07-2024 12:03:45.105Z;functions.loggin_RM;  ENTER PASSWORD
+09-07-2024 12:03:46.701Z;functions.loggin_RM;  ENTER RM
+09-07-2024 12:05:36.340Z;functions.enter_coligada;  CLICK CONTEXTO
+09-07-2024 12:05:39.371Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+09-07-2024 12:05:43.990Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+09-07-2024 12:05:44.093Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+09-07-2024 12:05:46.309Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+09-07-2024 12:05:47.715Z;functions.enter_coligada;  CLICK CONCLUIR
+09-07-2024 12:06:08.121Z;functions.waitForImage;  TROCA COLIGADA image not found.
+09-07-2024 12:06:28.278Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+09-07-2024 12:06:29.309Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+09-07-2024 12:06:31.309Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+09-07-2024 12:06:34.153Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+09-07-2024 12:06:34.153Z;functions.movimentacao_bancaria;  AGUARDANDO 1
+09-07-2024 12:06:40.621Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+09-07-2024 12:06:41.606Z;functions.waitForImage;  IMAGEM BORDERO image found.
+09-07-2024 12:06:43.723Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+09-07-2024 12:06:54.199Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+09-07-2024 12:06:54.950Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+09-07-2024 12:06:55.030Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+09-07-2024 12:07:02.336Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+09-07-2024 12:07:07.559Z;functions.waitForImage;  FILTER CLEAN image found.
+09-07-2024 12:07:09.692Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+09-07-2024 12:07:09.902Z;functions.waitForImage;  FILTER CLEAN image found.
+09-07-2024 12:07:12.035Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+09-07-2024 12:07:27.340Z;functions.waitForImage;  FILTER CLEAN image not found.
+09-07-2024 12:07:29.028Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+09-07-2024 12:07:30.778Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+09-07-2024 12:07:32.003Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+09-07-2024 12:07:34.608Z;functions.movimentacao_bancaria;  HOVER FILTER
+09-07-2024 12:07:35.286Z;functions.movimentacao_bancaria;  CLICK FILTER
+09-07-2024 12:07:39.600Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+09-07-2024 12:07:40.027Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Bancaria\main.py", line 16, in <module>
+    check_movimentacao_bancaria()
+  File "c:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 200, in check_movimentacao_bancaria
+    movimentacao_bancaria()
+  File "c:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 1133, in movimentacao_bancaria
+    time.sleep(2)
+KeyboardInterrupt

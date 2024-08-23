@@ -1,0 +1,71 @@
+05-08-2024 19:15:22.259Z;functions.bot_text_art;      ____   
+05-08-2024 19:15:22.261Z;functions.bot_text_art;     [____]    
+05-08-2024 19:15:22.261Z;functions.bot_text_art;   |=]()()[=|  
+05-08-2024 19:15:22.262Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+05-08-2024 19:15:22.262Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+05-08-2024 19:15:22.262Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+05-08-2024 19:15:22.263Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+05-08-2024 19:15:22.263Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+05-08-2024 19:15:22.265Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+05-08-2024 19:15:22.266Z;functions.bot_text_art;     |_||_|                                                     
+05-08-2024 19:15:22.266Z;functions.bot_text_art;     | ||_|_   
+05-08-2024 19:15:22.267Z;functions.bot_text_art;   |___||___|  
+05-08-2024 19:15:22.267Z;functions.bot_text_art;               
+05-08-2024 19:15:22.274Z;functions.open_RM;  OPEN PROGRAM RM
+05-08-2024 19:15:22.275Z;functions.caps;  DESATIVANDO CAPS
+05-08-2024 19:15:22.275Z;functions.loggin_RM;  BUSCANDO LOGGIN RM
+05-08-2024 19:15:29.857Z;functions.loggin_RM;  ENTER USER_NAME
+05-08-2024 19:15:33.914Z;functions.loggin_RM;  ENTER PASSWORD
+05-08-2024 19:15:34.812Z;functions.loggin_RM;  ENTER RM
+05-08-2024 19:15:55.279Z;functions.enter_coligada;  CLICK CONTEXTO
+05-08-2024 19:15:59.279Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+05-08-2024 19:16:01.889Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+05-08-2024 19:16:01.990Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+05-08-2024 19:16:02.999Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+05-08-2024 19:16:03.967Z;functions.enter_coligada;  CLICK CONCLUIR
+05-08-2024 19:16:04.012Z;functions.show_exception_and_exit;  The confidence keyword argument is only available if OpenCV is installed.
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Bancaria\main.py", line 15, in <module>
+    enter_coligada()
+  File "c:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 177, in enter_coligada
+    troca = waitForImage(image = troca_coligada, timeout=20, name = 'TROCA COLIGADA')
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 2494, in waitForImage
+    location = pyautogui.locateOnScreen(image=image, confidence=0.9)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 210, in locateOnScreen
+    return pyscreeze.locateOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyscreeze\__init__.py", line 273, in _locateAll_pillow
+    raise NotImplementedError('The confidence keyword argument is only available if OpenCV is installed.')
+NotImplementedError: The confidence keyword argument is only available if OpenCV is installed.
+05-08-2024 19:16:04.233Z;functions.show_exception_and_exit;  PRINT SALVO
+05-08-2024 19:16:04.360Z;functions.show_exception_and_exit;  RM FECHADO
+05-08-2024 19:16:06.670Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+05-08-2024 19:16:06.687Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+05-08-2024 19:16:06.690Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+05-08-2024 19:16:06.690Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+05-08-2024 19:16:06.691Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+05-08-2024 19:16:06.692Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+05-08-2024 19:16:06.740Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+05-08-2024 19:16:06.765Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+05-08-2024 19:16:06.767Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+05-08-2024 19:16:06.768Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+05-08-2024 19:16:06.769Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+05-08-2024 19:16:06.770Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+05-08-2024 19:16:06.771Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+05-08-2024 19:16:06.782Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+05-08-2024 19:16:06.785Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+05-08-2024 19:16:06.786Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+05-08-2024 19:16:06.787Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+05-08-2024 19:16:06.788Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+05-08-2024 19:16:10.749Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO

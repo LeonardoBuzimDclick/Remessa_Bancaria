@@ -1,0 +1,135 @@
+28-11-2023 16:44:10.458Z;functions.bot_text_art;      ____   
+28-11-2023 16:44:10.458Z;functions.bot_text_art;     [____]    
+28-11-2023 16:44:10.459Z;functions.bot_text_art;   |=]()()[=|  
+28-11-2023 16:44:10.459Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+28-11-2023 16:44:10.459Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+28-11-2023 16:44:10.460Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+28-11-2023 16:44:10.460Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+28-11-2023 16:44:10.460Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+28-11-2023 16:44:10.462Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+28-11-2023 16:44:10.462Z;functions.bot_text_art;     |_||_|                                                     
+28-11-2023 16:44:10.462Z;functions.bot_text_art;     | ||_|_   
+28-11-2023 16:44:10.462Z;functions.bot_text_art;   |___||___|  
+28-11-2023 16:44:10.463Z;functions.bot_text_art;               
+28-11-2023 16:44:10.821Z;functions.open_RM;  OPEN PROGRAM RM
+28-11-2023 16:47:55.754Z;functions.loggin_RM;  ENTER USER_NAME
+28-11-2023 16:47:57.153Z;functions.loggin_RM;  ENTER PASSWORD
+28-11-2023 16:47:58.316Z;functions.loggin_RM;  ENTER RM
+28-11-2023 16:48:33.724Z;functions.enter_coligada;  CLICK CONTEXTO
+28-11-2023 16:48:39.075Z;functions.enter_coligada;  CLICK COLIGADA 1
+28-11-2023 16:48:41.269Z;functions.enter_coligada;  CLICK AVANÇAR
+28-11-2023 16:48:44.087Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+28-11-2023 16:48:44.211Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+28-11-2023 16:48:45.594Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+28-11-2023 16:48:46.870Z;functions.enter_coligada;  CLICK CONCLUIR
+28-11-2023 16:49:09.722Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+28-11-2023 16:49:10.571Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+28-11-2023 16:49:12.421Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+28-11-2023 16:49:15.235Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+28-11-2023 16:49:22.115Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+28-11-2023 16:49:23.043Z;functions.waitForImage;  LANÇAMENTOS image found.
+28-11-2023 16:49:25.173Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+28-11-2023 16:49:27.174Z;functions.data_filter;  DATA INICIO 22-11-2023
+28-11-2023 16:49:27.175Z;functions.data_filter;  DATA FIM 28-11-2023
+28-11-2023 16:49:27.178Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+28-11-2023 16:49:27.180Z;functions.data_filter;  QUARTA-FEIRA: 22-11-2023
+28-11-2023 16:49:27.182Z;functions.data_filter;  TERCA-FEIRA: 28-11-2023
+28-11-2023 16:49:33.923Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+28-11-2023 16:49:36.161Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+28-11-2023 16:49:39.321Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 22-11-2023
+28-11-2023 16:49:41.603Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 28-11-2023
+28-11-2023 16:49:42.564Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+28-11-2023 16:49:54.151Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+28-11-2023 16:49:56.084Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+28-11-2023 16:49:58.173Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+28-11-2023 16:50:00.391Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+28-11-2023 16:50:02.775Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+28-11-2023 16:50:17.959Z;functions.waitForImage;  FILTER CLEAN image found.
+28-11-2023 16:50:20.091Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+28-11-2023 16:50:22.092Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+28-11-2023 16:50:35.083Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 8 registros?
+28-11-2023 16:50:37.086Z;functions.check_table_record;  TIPO: <class 'list'>
+28-11-2023 16:50:37.087Z;functions.check_table_record;  NUMERO DE TUPLAS: 8
+28-11-2023 16:50:37.093Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+28-11-2023 16:50:41.013Z;functions.check_table_record;  CLICK NÃO
+28-11-2023 16:50:57.666Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+28-11-2023 16:50:59.394Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+28-11-2023 16:50:59.527Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+28-11-2023 16:50:59.855Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+28-11-2023 16:51:02.069Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+28-11-2023 16:51:09.365Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+28-11-2023 16:51:24.331Z;functions.filter_IPTE;  HOVER FILTER
+28-11-2023 16:51:24.464Z;functions.filter_IPTE;  CLICK FILTER
+28-11-2023 16:51:28.792Z;functions.filter_IPTE;  CLICA NO FILTRO PERSONALIZAR
+28-11-2023 16:51:33.794Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+28-11-2023 16:51:46.749Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 3 registros?
+28-11-2023 16:51:48.751Z;functions.check_table_record;  TIPO: <class 'list'>
+28-11-2023 16:51:48.752Z;functions.check_table_record;  NUMERO DE TUPLAS: 3
+28-11-2023 16:51:48.757Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+28-11-2023 16:51:52.680Z;functions.check_table_record;  CLICK NÃO
+28-11-2023 16:52:08.843Z;functions.select_all_func;  SELECIONA TODOS OS REGISTROS
+28-11-2023 16:52:08.847Z;functions.check_payment_type;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+28-11-2023 16:52:10.428Z;functions.check_payment_type;  CLICA NA PRIMEIRA LINHA DA TABELA
+28-11-2023 16:52:18.535Z;functions.check_payment_type;  REF. LANÇAMENTO: 2
+28-11-2023 16:52:18.642Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+28-11-2023 16:52:29.050Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+28-11-2023 16:52:31.169Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+28-11-2023 16:52:31.170Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+28-11-2023 16:52:46.305Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+28-11-2023 16:52:46.410Z;functions.check_payment_type;  APERTA TAB
+28-11-2023 16:52:48.516Z;functions.check_payment_type;  CTRL C
+28-11-2023 16:53:07.129Z;functions.waitForImage;  FORMA DE PAGAMENTO image not found.
+28-11-2023 16:53:07.130Z;functions.check_payment_type;  FORMA DE PAGAMENTO NÃO É BOLETO
+28-11-2023 16:53:13.606Z;functions.waitForImage;  PRESS BUTTON OK image found.
+28-11-2023 16:53:15.737Z;functions.check_payment_type;  PRESS BUTTON OK
+28-11-2023 16:53:17.940Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+28-11-2023 16:53:20.058Z;functions.check_payment_type;  PRESS BUTTON OK 2
+28-11-2023 16:53:27.163Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+28-11-2023 16:53:37.267Z;functions.check_payment_type;  REF. LANÇAMENTO: 2
+28-11-2023 16:53:37.374Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+28-11-2023 16:53:44.189Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+28-11-2023 16:53:46.297Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+28-11-2023 16:53:46.298Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+28-11-2023 16:54:01.435Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+28-11-2023 16:54:01.539Z;functions.check_payment_type;  APERTA TAB
+28-11-2023 16:54:03.644Z;functions.check_payment_type;  CTRL C
+28-11-2023 16:54:04.645Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+28-11-2023 16:54:04.847Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+28-11-2023 16:54:06.848Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+28-11-2023 16:54:09.050Z;functions.waitForImage;  PRESS BUTTON OK image found.
+28-11-2023 16:54:11.185Z;functions.check_payment_type;  PRESS BUTTON OK
+28-11-2023 16:54:13.394Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+28-11-2023 16:54:15.518Z;functions.check_payment_type;  PRESS BUTTON OK 2
+28-11-2023 16:54:22.624Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+28-11-2023 16:54:32.729Z;functions.check_payment_type;  REF. LANÇAMENTO: 2
+28-11-2023 16:54:32.836Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+28-11-2023 16:54:38.385Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+28-11-2023 16:54:40.508Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+28-11-2023 16:54:40.510Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+28-11-2023 16:54:55.649Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+28-11-2023 16:54:55.755Z;functions.check_payment_type;  APERTA TAB
+28-11-2023 16:54:57.858Z;functions.check_payment_type;  CTRL C
+28-11-2023 16:54:58.859Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+28-11-2023 16:54:59.061Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+28-11-2023 16:55:01.062Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+28-11-2023 16:55:03.257Z;functions.waitForImage;  PRESS BUTTON OK image found.
+28-11-2023 16:55:05.379Z;functions.check_payment_type;  PRESS BUTTON OK
+28-11-2023 16:55:07.578Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+28-11-2023 16:55:09.689Z;functions.check_payment_type;  PRESS BUTTON OK 2
+28-11-2023 16:55:16.796Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+28-11-2023 16:55:24.489Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+28-11-2023 16:55:25.883Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+28-11-2023 16:55:27.199Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+28-11-2023 16:55:29.625Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+28-11-2023 16:55:30.757Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+28-11-2023 16:55:31.989Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+28-11-2023 16:55:33.128Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+28-11-2023 16:55:46.374Z;functions.process_lancamentos;  EXECUÇÃO FINALIZADA
+28-11-2023 16:55:56.846Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+28-11-2023 16:55:56.847Z;functions.process_lancamentos;  LANÇAMENTO COM ERRO

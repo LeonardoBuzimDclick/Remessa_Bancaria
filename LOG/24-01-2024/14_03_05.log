@@ -1,0 +1,42 @@
+24-01-2024 14:03:07.158Z;functions.bot_text_art;      ____   
+24-01-2024 14:03:07.158Z;functions.bot_text_art;     [____]    
+24-01-2024 14:03:07.159Z;functions.bot_text_art;   |=]()()[=|  
+24-01-2024 14:03:07.159Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+24-01-2024 14:03:07.159Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+24-01-2024 14:03:07.159Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+24-01-2024 14:03:07.159Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+24-01-2024 14:03:07.159Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+24-01-2024 14:03:07.160Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+24-01-2024 14:03:07.160Z;functions.bot_text_art;     |_||_|                                                     
+24-01-2024 14:03:07.160Z;functions.bot_text_art;     | ||_|_   
+24-01-2024 14:03:07.160Z;functions.bot_text_art;   |___||___|  
+24-01-2024 14:03:07.160Z;functions.bot_text_art;               
+24-01-2024 14:03:07.163Z;functions.open_RM;  OPEN PROGRAM RM
+24-01-2024 14:03:13.780Z;functions.show_exception_and_exit;  Failed to set focus.
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 12, in <module>
+    loggin_RM()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 61, in loggin_RM
+    user_rm.send_hotkey(f'{user}')
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 157, in wrapper
+    raise exception;
+    ^^^^^^^^^^^^^^^
+clicknium.common.models.exceptions.WindowError: Failed to set focus.
+24-01-2024 14:03:15.150Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+24-01-2024 14:03:15.159Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+24-01-2024 14:03:15.162Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+24-01-2024 14:03:15.162Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+24-01-2024 14:03:15.163Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+24-01-2024 14:03:15.163Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+24-01-2024 14:03:15.211Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+24-01-2024 14:03:15.237Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+24-01-2024 14:03:15.238Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+24-01-2024 14:03:15.239Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+24-01-2024 14:03:15.240Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+24-01-2024 14:03:15.241Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+24-01-2024 14:03:15.241Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+24-01-2024 14:03:15.252Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+24-01-2024 14:03:15.257Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+24-01-2024 14:03:15.257Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+24-01-2024 14:03:15.257Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+24-01-2024 14:03:15.258Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

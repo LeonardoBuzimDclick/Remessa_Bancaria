@@ -1,0 +1,44 @@
+22-09-2023 16:55:35.661Z;functions.bot_text_art;      __     
+22-09-2023 16:55:35.662Z;functions.bot_text_art;     [____]    
+22-09-2023 16:55:35.662Z;functions.bot_text_art;   |=]()()[=|  
+22-09-2023 16:55:35.663Z;functions.bot_text_art;     _\==/__    _____    ____              _____    ___   _  __
+22-09-2023 16:55:35.663Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+22-09-2023 16:55:35.664Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+22-09-2023 16:55:35.664Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+22-09-2023 16:55:35.665Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+22-09-2023 16:55:35.667Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+22-09-2023 16:55:35.668Z;functions.bot_text_art;     |_||_|                                                     
+22-09-2023 16:55:35.668Z;functions.bot_text_art;     | ||_|_   
+22-09-2023 16:55:35.669Z;functions.bot_text_art;   |___||___|  
+22-09-2023 16:55:35.669Z;functions.bot_text_art;               
+22-09-2023 16:55:35.676Z;functions.open_RM;  OPEN PROGRAM RM
+22-09-2023 16:55:44.025Z;functions.loggin_RM;  ENTER USER_NAME
+22-09-2023 16:55:45.155Z;functions.loggin_RM;  ENTER PASSWORD
+22-09-2023 16:55:46.028Z;functions.loggin_RM;  ENTER RM
+22-09-2023 16:56:08.260Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+22-09-2023 16:56:12.634Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+22-09-2023 16:56:15.291Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+22-09-2023 16:56:18.759Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+22-09-2023 16:56:20.090Z;functions.enter_contas_a_pagar;  CLICK - LANCAMENTOS
+22-09-2023 16:56:20.093Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+22-09-2023 16:56:20.094Z;functions.data_filter;  QUARTA-FEIRA: 20-09-2023
+22-09-2023 16:56:20.095Z;functions.data_filter;  TERCA-FEIRA: 26-09-2023
+22-09-2023 16:56:35.636Z;functions.show_exception_and_exit;  PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 125, in data_filter
+    select_filter.click()
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 16, in <module>
+    data_filter()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 130, in data_filter
+    pyautogui.click(505, 357)
+  File "C:\projetos\remessas\venv\Lib\site-packages\pyautogui\__init__.py", line 593, in wrapper
+    failSafeCheck()
+  File "C:\projetos\remessas\venv\Lib\site-packages\pyautogui\__init__.py", line 1734, in failSafeCheck
+    raise FailSafeException(
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.

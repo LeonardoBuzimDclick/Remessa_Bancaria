@@ -1,0 +1,8 @@
+21-09-2023 13:32:29.698Z;functions.show_exception_and_exit;  type object 'datetime.datetime' has no attribute 'timedelta'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 32, in <module>
+    lancamento_date()
+  File "c:\projetos\remessas\main.py", line 18, in lancamento_date
+    data_nova = data_atual + datetime.timedelta(days=2)
+                             ^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'datetime.datetime' has no attribute 'timedelta'

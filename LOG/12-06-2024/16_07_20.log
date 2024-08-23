@@ -1,0 +1,12 @@
+12-06-2024 16:07:20.640Z;functions.caps;  DESATIVANDO CAPS
+12-06-2024 16:07:20.640Z;functions.loggin_RM;  BUSCANDO LOGGIN RM
+12-06-2024 16:07:22.774Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'double_click'
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Bancaria\main.py", line 14, in <module>
+    loggin_RM()
+  File "c:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 88, in loggin_RM
+    user_rm.double_click()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'double_click'
+12-06-2024 16:07:23.076Z;functions.show_exception_and_exit;  PRINT SALVO
+12-06-2024 16:07:23.336Z;functions.show_exception_and_exit;  RM FECHADO

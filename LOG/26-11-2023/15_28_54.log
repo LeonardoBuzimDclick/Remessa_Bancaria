@@ -1,0 +1,42 @@
+26-11-2023 15:28:57.929Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+26-11-2023 15:28:59.258Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+26-11-2023 15:29:11.469Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+26-11-2023 15:29:21.684Z;functions.waitForImage;  FILTER CLEAN image found.
+26-11-2023 15:29:23.792Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+26-11-2023 15:29:27.089Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+26-11-2023 15:29:28.314Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+26-11-2023 15:29:30.331Z;functions.movimentacao_bancaria;  HOVER FILTER
+26-11-2023 15:29:30.437Z;functions.movimentacao_bancaria;  CLICK FILTER
+26-11-2023 15:29:33.659Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+26-11-2023 15:29:36.840Z;functions.movimentacao_bancaria;  SELECIONA TODAS AS TUPLAS COM STATUS PENDENTE
+26-11-2023 15:29:38.947Z;functions.movimentacao_bancaria;  CLICA EM PROCESSOS
+26-11-2023 15:29:41.052Z;functions.movimentacao_bancaria;  APERTA PARA BAIXO
+26-11-2023 15:29:43.155Z;functions.movimentacao_bancaria;  APERTA ENTER
+26-11-2023 15:29:46.129Z;functions.movimentacao_bancaria;  CLICK EM EXECUTAR BORDERO DE PAGAMENTO
+26-11-2023 15:29:53.128Z;functions.waitForImage;  PRESS BUTTON OK image found.
+26-11-2023 15:29:55.129Z;functions.movimentacao_bancaria;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+26-11-2023 15:29:57.993Z;functions.movimentacao_bancaria;  CLICK EM FECHAR.
+26-11-2023 15:30:00.177Z;functions.waitForImage;  FILTER CLEAN image found.
+26-11-2023 15:30:02.312Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+26-11-2023 15:30:05.610Z;functions.processo_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+26-11-2023 15:30:06.833Z;functions.processo_pagamento;  12 PASSOS PARA DIREITA NA TABELA >>
+26-11-2023 15:30:08.835Z;functions.processo_pagamento;  HOVER FILTER
+26-11-2023 15:30:10.968Z;functions.processo_pagamento;  CLICK FILTER
+26-11-2023 15:30:15.189Z;functions.processo_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+26-11-2023 15:30:18.366Z;functions.processo_pagamento;  SELECIONA TODAS AS TUPLAS COM STATUS AUTORIZADO
+26-11-2023 15:30:20.474Z;functions.processo_pagamento;  CLICA EM PROCESSOS
+26-11-2023 15:30:22.580Z;functions.processo_pagamento;  APERTA PARA BAIXO 1
+26-11-2023 15:30:24.683Z;functions.processo_pagamento;  APERTA PARA BAIXO 2
+26-11-2023 15:30:26.787Z;functions.processo_pagamento;  APERTA PARA BAIXO 3
+26-11-2023 15:30:28.890Z;functions.processo_pagamento;  APERTA ENTER
+26-11-2023 15:30:31.811Z;functions.processo_pagamento;  CLICA EM REMESSAS DE PAGAMENTO
+26-11-2023 15:30:46.443Z;functions.processo_pagamento;  CLICA EM AVANÇAR
+26-11-2023 15:30:47.696Z;functions.processo_pagamento;  DESMARCA CHECKBOX PARA SALVAR ARQUIVO DE REMESSA
+26-11-2023 15:30:48.611Z;functions.processo_pagamento;  CLICA EM AVANCAR PARA CONCLUIR
+26-11-2023 15:30:49.968Z;functions.processo_pagamento;  CLICA EM EXECUTAR
+26-11-2023 15:31:01.140Z;functions.waitForImage;  PRESS BUTTON OK image found.
+26-11-2023 15:31:03.143Z;functions.processo_pagamento;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+26-11-2023 15:31:05.860Z;functions.processo_pagamento;  7 TABs ATE SELECIONAR FECHAR
+26-11-2023 15:31:07.981Z;functions.processo_pagamento;  ENTER EM FECHAR.
+26-11-2023 15:31:10.086Z;functions.processo_pagamento;  FECHA A ABA MOVIMENTAÇÃO BANCÁRIA
+26-11-2023 15:31:12.191Z;functions.processo_pagamento;  FECHA A ABA LANCAMENTOS

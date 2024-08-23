@@ -1,0 +1,942 @@
+04-07-2024 21:00:54.857Z;functions.bot_text_art;      ____   
+04-07-2024 21:00:54.873Z;functions.bot_text_art;     [____]    
+04-07-2024 21:00:54.873Z;functions.bot_text_art;   |=]()()[=|  
+04-07-2024 21:00:54.873Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+04-07-2024 21:00:54.873Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+04-07-2024 21:00:54.873Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+04-07-2024 21:00:54.873Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+04-07-2024 21:00:54.873Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+04-07-2024 21:00:54.873Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+04-07-2024 21:00:54.873Z;functions.bot_text_art;     |_||_|                                                     
+04-07-2024 21:00:54.873Z;functions.bot_text_art;     | ||_|_   
+04-07-2024 21:00:54.873Z;functions.bot_text_art;   |___||___|  
+04-07-2024 21:00:54.873Z;functions.bot_text_art;               
+04-07-2024 21:00:54.888Z;functions.open_RM;  OPEN PROGRAM RM
+04-07-2024 21:00:54.888Z;functions.caps;  DESATIVANDO CAPS
+04-07-2024 21:00:54.888Z;functions.loggin_RM;  BUSCANDO LOGGIN RM
+04-07-2024 21:01:15.257Z;functions.loggin_RM;  ENTER USER_NAME
+04-07-2024 21:01:19.961Z;functions.loggin_RM;  ENTER PASSWORD
+04-07-2024 21:01:21.367Z;functions.loggin_RM;  ENTER RM
+04-07-2024 21:03:05.897Z;functions.enter_coligada;  CLICK CONTEXTO
+04-07-2024 21:03:08.522Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+04-07-2024 21:03:12.475Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+04-07-2024 21:03:12.582Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+04-07-2024 21:03:14.741Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+04-07-2024 21:03:16.116Z;functions.enter_coligada;  CLICK CONCLUIR
+04-07-2024 21:03:36.475Z;functions.waitForImage;  TROCA COLIGADA image not found.
+04-07-2024 21:03:55.233Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+04-07-2024 21:03:56.397Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+04-07-2024 21:03:58.210Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+04-07-2024 21:04:00.897Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+04-07-2024 21:04:00.897Z;functions.movimentacao_bancaria;  AGUARDANDO 1
+04-07-2024 21:04:06.680Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+04-07-2024 21:04:07.600Z;functions.waitForImage;  IMAGEM BORDERO image found.
+04-07-2024 21:04:09.725Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+04-07-2024 21:04:19.756Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+04-07-2024 21:04:20.460Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+04-07-2024 21:04:20.522Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+04-07-2024 21:04:27.831Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+04-07-2024 21:04:33.053Z;functions.waitForImage;  FILTER CLEAN image found.
+04-07-2024 21:04:35.186Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+04-07-2024 21:04:35.397Z;functions.waitForImage;  FILTER CLEAN image found.
+04-07-2024 21:04:37.530Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+04-07-2024 21:04:52.835Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-07-2024 21:04:54.522Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+04-07-2024 21:04:56.147Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+04-07-2024 21:04:57.373Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+04-07-2024 21:04:59.569Z;functions.movimentacao_bancaria;  HOVER FILTER
+04-07-2024 21:05:00.148Z;functions.movimentacao_bancaria;  CLICK FILTER
+04-07-2024 21:05:04.475Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+04-07-2024 21:05:06.577Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+04-07-2024 21:05:08.692Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+04-07-2024 21:05:10.795Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+04-07-2024 21:05:31.389Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO PENDENTE
+04-07-2024 21:05:41.587Z;functions.waitForImage;  FILTER CLEAN image found.
+04-07-2024 21:05:43.719Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+04-07-2024 21:05:59.022Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-07-2024 21:06:14.335Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-07-2024 21:06:16.209Z;functions.processo_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+04-07-2024 21:06:18.397Z;functions.processo_pagamento;  HOVER FILTER
+04-07-2024 21:06:18.973Z;functions.processo_pagamento;  CLICK FILTER
+04-07-2024 21:06:23.307Z;functions.processo_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+04-07-2024 21:06:25.410Z;functions.processo_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+04-07-2024 21:06:27.528Z;functions.processo_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+04-07-2024 21:06:29.631Z;functions.processo_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+04-07-2024 21:06:50.225Z;functions.processo_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+04-07-2024 21:06:51.329Z;functions.processo_pagamento;  FECHA ABA MOVIMENTAÇÕES BANCÁRIAS
+04-07-2024 21:06:53.147Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+04-07-2024 21:06:54.647Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+04-07-2024 21:06:57.366Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+04-07-2024 21:07:03.522Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+04-07-2024 21:07:04.459Z;functions.waitForImage;  LANÇAMENTOS image found.
+04-07-2024 21:07:06.593Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+04-07-2024 21:07:21.944Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+04-07-2024 21:07:21.944Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 21
+04-07-2024 21:07:21.959Z;functions.obter_intervalo_data;  Data Inicial BANCARIA antes da remoção: None
+04-07-2024 21:07:21.959Z;functions.obter_intervalo_data;  Data Final BANCARIA antes da remoção: None
+04-07-2024 21:07:21.959Z;functions.obter_intervalo_data;  Data Inicial BANCARIA após a remoção: None
+04-07-2024 21:07:21.959Z;functions.obter_intervalo_data;  Data Final BANCARIA após a remoção: None
+04-07-2024 21:07:21.975Z;functions.obter_intervalo_data;  hoje -  2024-07-04 21:07:21.975267
+04-07-2024 21:07:21.975Z;functions.data_filter;  DATA INICIO 10-07-2024
+04-07-2024 21:07:21.975Z;functions.data_filter;  DATA FIM 16-07-2024
+04-07-2024 21:07:21.975Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+04-07-2024 21:07:21.975Z;functions.data_filter;  QUARTA-FEIRA: 10-07-2024
+04-07-2024 21:07:21.975Z;functions.data_filter;  TERCA-FEIRA: 16-07-2024
+04-07-2024 21:07:35.053Z;functions.data_filter;  CLICK - BOTAO DE SELECAO DE FILTRO
+04-07-2024 21:07:39.850Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 10-07-2024
+04-07-2024 21:07:44.256Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 16-07-2024
+04-07-2024 21:07:45.397Z;functions.data_filter;  CLICK - BOTAO DE EXECUTAR O FILTRO
+04-07-2024 21:07:50.401Z;functions.desmark_filter;  AGUARDANDO 1
+04-07-2024 21:07:55.209Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+04-07-2024 21:07:57.868Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+04-07-2024 21:08:00.600Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+04-07-2024 21:08:03.647Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+04-07-2024 21:08:07.225Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+04-07-2024 21:08:12.459Z;functions.waitForImage;  FILTER CLEAN image found.
+04-07-2024 21:08:14.574Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+04-07-2024 21:08:29.865Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-07-2024 21:08:45.178Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-07-2024 21:08:45.178Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+04-07-2024 21:08:48.490Z;functions.check_table_record;  Texto extraido 1/124
+04-07-2024 21:08:48.506Z;functions.check_table_record;  Count 124
+04-07-2024 21:08:48.506Z;functions.check_table_record;  Type <class 'int'>
+04-07-2024 21:08:48.506Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+04-07-2024 21:09:00.568Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+04-07-2024 21:09:02.568Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+04-07-2024 21:09:03.455Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+04-07-2024 21:09:05.053Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+04-07-2024 21:09:11.494Z;functions.select_tipo_documento;  FILTRO "NÃO É IGUAL A INV" DEFINIDO
+04-07-2024 21:09:12.553Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+04-07-2024 21:09:17.557Z;functions.filter_IPTE;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+04-07-2024 21:09:19.272Z;functions.filter_IPTE;  CLICA NA PRIMEIRA LINHA DA TABELA
+04-07-2024 21:09:43.037Z;functions.filter_IPTE;  HOVER FILTER
+04-07-2024 21:09:44.904Z;functions.filter_IPTE;  CLICK FILTER
+04-07-2024 21:09:49.235Z;functions.filter_IPTE;  CLICA NO FILTRO PERSONALIZAR
+04-07-2024 21:09:55.486Z;functions.filter_IPTE;  TABELA CONTÉM REGISTROS
+04-07-2024 21:09:58.149Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+04-07-2024 21:10:01.522Z;functions.check_table_record;  Texto extraido 1/4
+04-07-2024 21:10:01.522Z;functions.check_table_record;  Count 4
+04-07-2024 21:10:01.522Z;functions.check_table_record;  Type <class 'int'>
+04-07-2024 21:10:01.537Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+04-07-2024 21:10:01.537Z;functions.check_payment_type;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+04-07-2024 21:10:03.146Z;functions.check_payment_type;  CLICA NA PRIMEIRA LINHA DA TABELA
+04-07-2024 21:10:07.255Z;functions.check_payment_type;  REF. LANÇAMENTO: 970778
+04-07-2024 21:10:07.362Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+04-07-2024 21:10:27.051Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:10:29.185Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:10:29.185Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:10:32.396Z;functions.waitForImage;  DADOS BANCARIOS image found.
+04-07-2024 21:10:32.531Z;functions.check_payment_type;  DADOS BANCARIOS
+04-07-2024 21:10:42.532Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+04-07-2024 21:10:42.635Z;functions.check_payment_type;  APERTA TAB
+04-07-2024 21:10:44.975Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:10:47.093Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:10:51.287Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:10:53.404Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:10:55.508Z;functions.check_payment_type;  INCLUIDOS: 970778 REFERENCIAS NO PROCESSAMENTO
+04-07-2024 21:10:57.611Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:11:03.716Z;functions.check_payment_type;  REF. LANÇAMENTO: 953199
+04-07-2024 21:11:03.823Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+04-07-2024 21:11:09.412Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:11:11.529Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:11:11.529Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:11:14.740Z;functions.waitForImage;  DADOS BANCARIOS image found.
+04-07-2024 21:11:14.875Z;functions.check_payment_type;  DADOS BANCARIOS
+04-07-2024 21:11:24.876Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+04-07-2024 21:11:24.979Z;functions.check_payment_type;  APERTA TAB
+04-07-2024 21:11:27.334Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:11:29.467Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:11:33.662Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:11:35.781Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:11:37.885Z;functions.check_payment_type;  INCLUIDOS: 953199 REFERENCIAS NO PROCESSAMENTO
+04-07-2024 21:11:39.988Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:11:46.097Z;functions.check_payment_type;  REF. LANÇAMENTO: 953445
+04-07-2024 21:11:46.202Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+04-07-2024 21:11:51.927Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:11:54.060Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:11:54.060Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:11:57.271Z;functions.waitForImage;  DADOS BANCARIOS image found.
+04-07-2024 21:11:57.406Z;functions.check_payment_type;  DADOS BANCARIOS
+04-07-2024 21:12:07.407Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+04-07-2024 21:12:07.510Z;functions.check_payment_type;  APERTA TAB
+04-07-2024 21:12:09.834Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:12:11.966Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:12:16.162Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:12:18.312Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:12:20.416Z;functions.check_payment_type;  INCLUIDOS: 953445 REFERENCIAS NO PROCESSAMENTO
+04-07-2024 21:12:22.519Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:12:28.624Z;functions.check_payment_type;  REF. LANÇAMENTO: 953454
+04-07-2024 21:12:28.730Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+04-07-2024 21:12:34.365Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:12:36.499Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:12:36.499Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:12:39.693Z;functions.waitForImage;  DADOS BANCARIOS image found.
+04-07-2024 21:12:39.842Z;functions.check_payment_type;  DADOS BANCARIOS
+04-07-2024 21:12:49.843Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+04-07-2024 21:12:49.946Z;functions.check_payment_type;  APERTA TAB
+04-07-2024 21:12:52.286Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:12:54.437Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:12:58.631Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:13:00.750Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:13:02.854Z;functions.check_payment_type;  INCLUIDOS: 953454 REFERENCIAS NO PROCESSAMENTO
+04-07-2024 21:13:02.854Z;functions.check_payment_type;  FORAM INCLUIDOS: 4 REFERENCIAS NO PROCESSAMENTO
+04-07-2024 21:13:09.146Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+04-07-2024 21:13:10.523Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+04-07-2024 21:13:12.021Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+04-07-2024 21:13:17.134Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+04-07-2024 21:13:18.458Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+04-07-2024 21:13:19.802Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+04-07-2024 21:13:21.083Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+04-07-2024 21:13:49.646Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+04-07-2024 21:13:49.646Z;functions.process_lancamentos;  LANÇAMENTO COM ERRO
+04-07-2024 21:13:57.422Z;functions.process_lancamentos;  ERRO: Lançamento Ref. 953199: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 953445: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 953454: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 970778: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-953199:
+O cliente/fornecedor "012551" está inativo.
+
+   at RM.Fin.CliFor.FinCFOMod.ValidaCliFor(IFinCFOValidacaoPar cliFor)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteCliFor(FinLanCxt lanCxt, FinLanValidateEnum autorizaLan, Boolean validaDadosCliFor, DateTime dataSistema)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteCamposDefaultPreenchimento(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-953445:
+O cliente/fornecedor "012551" está inativo.
+
+   at RM.Fin.CliFor.FinCFOMod.ValidaCliFor(IFinCFOValidacaoPar cliFor)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteCliFor(FinLanCxt lanCxt, FinLanValidateEnum autorizaLan, Boolean validaDadosCliFor, DateTime dataSistema)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteCamposDefaultPreenchimento(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-953454:
+O cliente/fornecedor "012551" está inativo.
+
+   at RM.Fin.CliFor.FinCFOMod.ValidaCliFor(IFinCFOValidacaoPar cliFor)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteCliFor(FinLanCxt lanCxt, FinLanValidateEnum autorizaLan, Boolean validaDadosCliFor, DateTime dataSistema)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteCamposDefaultPreenchimento(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-970778:
+O cliente/fornecedor "013354" está inativo.
+
+   at RM.Fin.CliFor.FinCFOMod.ValidaCliFor(IFinCFOValidacaoPar cliFor)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteCliFor(FinLanCxt lanCxt, FinLanValidateEnum autorizaLan, Boolean validaDadosCliFor, DateTime dataSistema)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteCamposDefaultPreenchimento(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+
+04-07-2024 21:13:57.422Z;functions.process_lancamentos;  CORRESPONDENCIA ['953199', '953445', '953454', '970778']
+04-07-2024 21:13:57.422Z;functions.process_lancamentos;  NUMERO DE REFERENCIAS QUE SERÃO TIRADOS DA REMESSA ['953199', '953445', '953454', '970778']
+04-07-2024 21:13:58.449Z;functions.process_lancamentos;  CLICK EM FECHAR.
+04-07-2024 21:14:04.318Z;functions.process_lancamentos;  NUMERO DE REFERENCIAS QUE SERAO TIRADOS IGUAL AO NUMERO DE REGISTROS
+04-07-2024 21:14:04.318Z;functions.process_lancamentos;  PASSAR PARA O PRÓXIMO LANCAMENTO
+04-07-2024 21:14:04.318Z;functions.movimentacao_bancaria;  AGUARDANDO 1
+04-07-2024 21:14:05.552Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+04-07-2024 21:14:05.771Z;functions.waitForImage;  IMAGEM BORDERO image found.
+04-07-2024 21:14:07.887Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+04-07-2024 21:14:18.161Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+04-07-2024 21:14:18.896Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+04-07-2024 21:14:18.958Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+04-07-2024 21:14:26.268Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+04-07-2024 21:14:31.490Z;functions.waitForImage;  FILTER CLEAN image found.
+04-07-2024 21:14:33.623Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+04-07-2024 21:14:48.927Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-07-2024 21:15:04.240Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-07-2024 21:15:05.833Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+04-07-2024 21:15:07.352Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+04-07-2024 21:15:08.591Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+04-07-2024 21:15:10.786Z;functions.movimentacao_bancaria;  HOVER FILTER
+04-07-2024 21:15:11.379Z;functions.movimentacao_bancaria;  CLICK FILTER
+04-07-2024 21:15:15.713Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+04-07-2024 21:15:17.816Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+04-07-2024 21:15:19.933Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+04-07-2024 21:15:22.036Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+04-07-2024 21:15:42.742Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO PENDENTE
+04-07-2024 21:15:52.958Z;functions.waitForImage;  FILTER CLEAN image found.
+04-07-2024 21:15:55.091Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+04-07-2024 21:16:10.364Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-07-2024 21:16:25.645Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-07-2024 21:16:27.552Z;functions.processo_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+04-07-2024 21:16:29.771Z;functions.processo_pagamento;  HOVER FILTER
+04-07-2024 21:16:30.362Z;functions.processo_pagamento;  CLICK FILTER
+04-07-2024 21:16:34.697Z;functions.processo_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+04-07-2024 21:16:36.800Z;functions.processo_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+04-07-2024 21:16:38.922Z;functions.processo_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+04-07-2024 21:16:41.025Z;functions.processo_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+04-07-2024 21:17:01.817Z;functions.processo_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+04-07-2024 21:17:02.921Z;functions.processo_pagamento;  FECHA ABA MOVIMENTAÇÕES BANCÁRIAS
+04-07-2024 21:17:04.114Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+04-07-2024 21:17:05.646Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+04-07-2024 21:17:08.395Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+04-07-2024 21:17:14.770Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+04-07-2024 21:17:15.692Z;functions.waitForImage;  LANÇAMENTOS image found.
+04-07-2024 21:17:17.813Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+04-07-2024 21:17:33.114Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+04-07-2024 21:17:33.114Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 21
+04-07-2024 21:17:33.145Z;functions.obter_intervalo_data;  Data Inicial BANCARIA antes da remoção: None
+04-07-2024 21:17:33.145Z;functions.obter_intervalo_data;  Data Final BANCARIA antes da remoção: None
+04-07-2024 21:17:33.161Z;functions.obter_intervalo_data;  Data Inicial BANCARIA após a remoção: None
+04-07-2024 21:17:33.161Z;functions.obter_intervalo_data;  Data Final BANCARIA após a remoção: None
+04-07-2024 21:17:33.161Z;functions.obter_intervalo_data;  hoje -  2024-07-04 21:17:33.161336
+04-07-2024 21:17:33.161Z;functions.data_filter;  DATA INICIO 10-07-2024
+04-07-2024 21:17:33.161Z;functions.data_filter;  DATA FIM 16-07-2024
+04-07-2024 21:17:33.161Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+04-07-2024 21:17:33.161Z;functions.data_filter;  QUARTA-FEIRA: 10-07-2024
+04-07-2024 21:17:33.161Z;functions.data_filter;  TERCA-FEIRA: 16-07-2024
+04-07-2024 21:17:45.989Z;functions.data_filter;  CLICK - BOTAO DE SELECAO DE FILTRO
+04-07-2024 21:17:50.786Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 10-07-2024
+04-07-2024 21:17:55.192Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 16-07-2024
+04-07-2024 21:17:56.333Z;functions.data_filter;  CLICK - BOTAO DE EXECUTAR O FILTRO
+04-07-2024 21:18:01.336Z;functions.desmark_filter;  AGUARDANDO 1
+04-07-2024 21:18:03.927Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+04-07-2024 21:18:06.551Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+04-07-2024 21:18:09.395Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+04-07-2024 21:18:12.385Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+04-07-2024 21:18:15.583Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+04-07-2024 21:18:20.801Z;functions.waitForImage;  FILTER CLEAN image found.
+04-07-2024 21:18:22.908Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+04-07-2024 21:18:38.208Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-07-2024 21:18:53.520Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-07-2024 21:18:54.833Z;functions.filter_forma_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA
+04-07-2024 21:18:55.114Z;functions.filter_forma_pagamento;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+04-07-2024 21:19:11.418Z;functions.filter_forma_pagamento;  160 PASSOS PARA DIREITA NA TABELA >>
+04-07-2024 21:19:17.789Z;functions.filter_forma_pagamento;  HOVER NOME DA COLUNA FORMA DE PAGAMENTO
+04-07-2024 21:19:19.840Z;functions.filter_forma_pagamento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+04-07-2024 21:19:23.197Z;functions.filter_forma_pagamento;  CLICA NO FILTRO PERSONALIZAR
+04-07-2024 21:19:36.128Z;functions.filter_forma_pagamento;  Texto extraido 0/0
+04-07-2024 21:19:36.128Z;functions.filter_forma_pagamento;  Count 0
+04-07-2024 21:19:36.128Z;functions.filter_forma_pagamento;  Type <class 'int'>
+04-07-2024 21:19:36.128Z;functions.filter_forma_pagamento;  SEM REGISTROS
+04-07-2024 21:19:38.140Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+04-07-2024 21:19:41.573Z;functions.check_table_record;  Texto extraido 0/0
+04-07-2024 21:19:41.573Z;functions.check_table_record;  Count 0
+04-07-2024 21:19:41.573Z;functions.check_table_record;  Type <class 'int'>
+04-07-2024 21:19:41.573Z;functions.check_table_record;  SEM REGISTROS
+04-07-2024 21:19:45.587Z;main.<module>;  SEM REMESSA DE TED CIP
+04-07-2024 21:19:47.114Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+04-07-2024 21:19:48.614Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+04-07-2024 21:19:51.332Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+04-07-2024 21:19:57.742Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+04-07-2024 21:19:58.661Z;functions.waitForImage;  LANÇAMENTOS image found.
+04-07-2024 21:20:00.779Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+04-07-2024 21:20:16.114Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+04-07-2024 21:20:16.114Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 21
+04-07-2024 21:20:16.130Z;functions.obter_intervalo_data;  Data Inicial BANCARIA antes da remoção: None
+04-07-2024 21:20:16.130Z;functions.obter_intervalo_data;  Data Final BANCARIA antes da remoção: None
+04-07-2024 21:20:16.130Z;functions.obter_intervalo_data;  Data Inicial BANCARIA após a remoção: None
+04-07-2024 21:20:16.130Z;functions.obter_intervalo_data;  Data Final BANCARIA após a remoção: None
+04-07-2024 21:20:16.130Z;functions.obter_intervalo_data;  hoje -  2024-07-04 21:20:16.130092
+04-07-2024 21:20:16.130Z;functions.data_filter;  DATA INICIO 10-07-2024
+04-07-2024 21:20:16.130Z;functions.data_filter;  DATA FIM 16-07-2024
+04-07-2024 21:20:16.130Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+04-07-2024 21:20:16.130Z;functions.data_filter;  QUARTA-FEIRA: 10-07-2024
+04-07-2024 21:20:16.130Z;functions.data_filter;  TERCA-FEIRA: 16-07-2024
+04-07-2024 21:20:28.895Z;functions.data_filter;  CLICK - BOTAO DE SELECAO DE FILTRO
+04-07-2024 21:20:33.661Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 10-07-2024
+04-07-2024 21:20:38.098Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 16-07-2024
+04-07-2024 21:20:39.239Z;functions.data_filter;  CLICK - BOTAO DE EXECUTAR O FILTRO
+04-07-2024 21:20:44.242Z;functions.desmark_filter;  AGUARDANDO 1
+04-07-2024 21:20:46.613Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+04-07-2024 21:20:49.239Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+04-07-2024 21:20:52.051Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+04-07-2024 21:20:55.048Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+04-07-2024 21:20:57.814Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+04-07-2024 21:21:03.020Z;functions.waitForImage;  FILTER CLEAN image found.
+04-07-2024 21:21:05.130Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+04-07-2024 21:21:20.426Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-07-2024 21:21:35.738Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-07-2024 21:21:37.395Z;functions.filter_forma_pagamento_branco;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+04-07-2024 21:21:53.691Z;functions.filter_forma_pagamento_branco;  160 PASSOS PARA DIREITA NA TABELA >>
+04-07-2024 21:22:00.239Z;functions.filter_forma_pagamento_branco;  HOVER NOME DA COLUNA FORMA DE PAGAMENTO
+04-07-2024 21:22:02.185Z;functions.filter_forma_pagamento_branco;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+04-07-2024 21:22:05.519Z;functions.filter_forma_pagamento_branco;  CLICA NO FILTRO PERSONALIZAR
+04-07-2024 21:22:14.551Z;functions.filter_forma_pagamento_branco;  Texto extraido 1/35
+04-07-2024 21:22:14.551Z;functions.filter_forma_pagamento_branco;  Count 35
+04-07-2024 21:22:14.551Z;functions.filter_forma_pagamento_branco;  Type <class 'int'>
+04-07-2024 21:22:14.551Z;functions.filter_forma_pagamento_branco;  TABELA CONTÉM REGISTROS
+04-07-2024 21:22:22.798Z;functions.filter_forma_pagamento_branco;  MOVIDO PRA CIMA 35 VEZES
+04-07-2024 21:22:26.812Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+04-07-2024 21:22:30.035Z;functions.check_table_record;  Texto extraido 1/35
+04-07-2024 21:22:30.035Z;functions.check_table_record;  Count 35
+04-07-2024 21:22:30.035Z;functions.check_table_record;  Type <class 'int'>
+04-07-2024 21:22:30.035Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+04-07-2024 21:22:30.035Z;functions.check_ted_branco;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+04-07-2024 21:22:31.645Z;functions.check_ted_branco;  CLICA NA PRIMEIRA LINHA DA TABELA
+04-07-2024 21:22:35.753Z;functions.check_ted_branco;  REFERNCIA: 947447
+04-07-2024 21:22:36.055Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:22:41.567Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:22:41.686Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:22:41.686Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:22:42.616Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:22:55.245Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:22:55.457Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:22:57.462Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 947447
+04-07-2024 21:23:01.174Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:23:01.379Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:23:03.527Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:23:15.801Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:23:21.051Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:23:25.168Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:23:29.273Z;functions.check_ted_branco;  REFERNCIA: 954635
+04-07-2024 21:23:29.574Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:23:35.910Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:23:36.028Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:23:36.028Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:23:36.957Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:23:49.585Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:23:49.801Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:23:51.810Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 954635
+04-07-2024 21:23:55.522Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:23:55.707Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:23:57.840Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:24:10.113Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:24:15.379Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:24:19.486Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:24:23.591Z;functions.check_ted_branco;  REFERNCIA: 956609
+04-07-2024 21:24:23.893Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:24:30.160Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:24:30.279Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:24:30.279Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:24:30.486Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:24:43.112Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:24:43.332Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:24:45.338Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 956609
+04-07-2024 21:24:49.051Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:24:49.254Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:24:51.371Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:25:03.644Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:25:08.894Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:25:13.011Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:25:17.115Z;functions.check_ted_branco;  REFERNCIA: 967747
+04-07-2024 21:25:17.417Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:25:23.629Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:25:23.745Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:25:23.745Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:25:24.676Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:25:37.307Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:25:37.519Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:25:39.533Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 967747
+04-07-2024 21:25:43.246Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:25:43.472Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:25:45.590Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:25:57.869Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:26:03.129Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:26:07.235Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:26:11.340Z;functions.check_ted_branco;  REFERNCIA: 973615
+04-07-2024 21:26:11.641Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:26:17.879Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:26:17.996Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:26:17.996Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:26:18.925Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:26:31.555Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:26:31.769Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:26:33.778Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 973615
+04-07-2024 21:26:37.490Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:26:37.707Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:26:39.839Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:26:52.113Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:26:57.347Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:27:01.455Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:27:05.560Z;functions.check_ted_branco;  REFERNCIA: 973616
+04-07-2024 21:27:05.861Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:27:11.332Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:27:11.465Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:27:11.465Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:27:12.363Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:27:24.997Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:27:25.206Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:27:27.218Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 973616
+04-07-2024 21:27:30.932Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:27:31.144Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:27:33.278Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:27:45.550Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:27:50.816Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:27:54.926Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:27:59.031Z;functions.check_ted_branco;  REFERNCIA: 973617
+04-07-2024 21:27:59.333Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:28:04.875Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:28:04.996Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:28:04.996Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:28:05.910Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:28:18.550Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:28:18.769Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:28:20.773Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 973617
+04-07-2024 21:28:24.485Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:28:24.691Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:28:26.839Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:28:39.113Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:28:44.394Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:28:48.510Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:28:52.614Z;functions.check_ted_branco;  REFERNCIA: 973990
+04-07-2024 21:28:52.917Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:28:59.128Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:28:59.245Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:28:59.245Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:28:59.451Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:29:12.079Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:29:12.300Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:29:14.314Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 973990
+04-07-2024 21:29:18.027Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:29:18.238Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:29:20.370Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:29:32.645Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:29:37.909Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:29:42.013Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:29:46.118Z;functions.check_ted_branco;  REFERNCIA: 974050
+04-07-2024 21:29:46.419Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:29:51.972Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:29:52.089Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:29:52.089Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:29:53.019Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:30:05.650Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:30:05.863Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:30:07.868Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 974050
+04-07-2024 21:30:11.581Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:30:11.784Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:30:13.904Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:30:26.175Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:30:31.441Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:30:35.547Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:30:39.652Z;functions.check_ted_branco;  REFERNCIA: 974539
+04-07-2024 21:30:39.953Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:30:46.143Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:30:46.284Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:30:46.284Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:30:46.443Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:30:59.070Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:30:59.269Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:31:01.273Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 974539
+04-07-2024 21:31:04.986Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:31:05.191Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:31:07.339Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:31:19.644Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:31:24.894Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:31:29.009Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:31:33.113Z;functions.check_ted_branco;  REFERNCIA: 974999
+04-07-2024 21:31:33.415Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:31:39.659Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:31:39.778Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:31:39.778Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:31:40.675Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:31:53.305Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:31:53.518Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:31:55.524Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 974999
+04-07-2024 21:31:59.237Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:31:59.441Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:32:01.560Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:32:13.801Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:32:19.066Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:32:23.172Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:32:27.277Z;functions.check_ted_branco;  REFERNCIA: 975000
+04-07-2024 21:32:27.578Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:32:33.753Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:32:33.871Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:32:33.871Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:32:34.768Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:32:47.402Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:32:47.614Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:32:49.617Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975000
+04-07-2024 21:32:53.330Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:32:53.549Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:32:55.683Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:33:07.956Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:33:13.206Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:33:17.321Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:33:21.425Z;functions.check_ted_branco;  REFERNCIA: 975005
+04-07-2024 21:33:21.727Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:33:27.972Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:33:28.091Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:33:28.091Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:33:28.306Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:33:40.937Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:33:41.143Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:33:43.150Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975005
+04-07-2024 21:33:46.862Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:33:47.050Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:33:49.182Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:34:01.456Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:34:06.721Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:34:10.828Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:34:14.933Z;functions.check_ted_branco;  REFERNCIA: 975183
+04-07-2024 21:34:15.234Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:34:22.237Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:34:22.370Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:34:22.370Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:34:22.580Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:34:35.214Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:34:35.424Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:34:37.430Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975183
+04-07-2024 21:34:41.143Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:34:41.346Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:34:43.497Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:34:46.424Z;functions.waitForImage;  ERROR GENERICO image found.
+04-07-2024 21:35:00.237Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:35:04.354Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:35:08.459Z;functions.check_ted_branco;  REFERNCIA: 975184
+04-07-2024 21:35:08.760Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:35:15.003Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:35:15.119Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:35:15.119Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:35:15.342Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:35:27.969Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:35:28.174Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:35:30.187Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975184
+04-07-2024 21:35:33.900Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:35:34.112Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:35:36.244Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:35:38.456Z;functions.waitForImage;  ERROR GENERICO image found.
+04-07-2024 21:35:52.237Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:35:56.354Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:36:00.459Z;functions.check_ted_branco;  REFERNCIA: 975185
+04-07-2024 21:36:00.761Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:36:06.316Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:36:06.433Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:36:06.433Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:36:06.581Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:36:19.223Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:36:19.424Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:36:21.439Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975185
+04-07-2024 21:36:25.153Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:36:25.362Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:36:27.497Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:36:29.706Z;functions.waitForImage;  ERROR GENERICO image found.
+04-07-2024 21:36:43.502Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:36:47.608Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:36:51.713Z;functions.check_ted_branco;  REFERNCIA: 975186
+04-07-2024 21:36:52.014Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:36:58.299Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:36:58.434Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:36:58.434Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:36:58.580Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:37:11.210Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:37:11.424Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:37:13.430Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975186
+04-07-2024 21:37:17.142Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:37:17.346Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:37:19.495Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:37:21.705Z;functions.waitForImage;  ERROR GENERICO image found.
+04-07-2024 21:37:35.502Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:37:39.610Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:37:43.715Z;functions.check_ted_branco;  REFERNCIA: 975187
+04-07-2024 21:37:44.016Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:37:50.253Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:37:50.371Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:37:50.371Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:37:50.583Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:38:03.209Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:38:03.424Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:38:05.430Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975187
+04-07-2024 21:38:09.143Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:38:09.346Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:38:11.465Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:38:13.674Z;functions.waitForImage;  ERROR GENERICO image found.
+04-07-2024 21:38:27.487Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:38:31.601Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:38:35.706Z;functions.check_ted_branco;  REFERNCIA: 975188
+04-07-2024 21:38:36.008Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:38:42.924Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:38:43.057Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:38:43.057Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:38:43.268Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:38:55.896Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:38:56.112Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:38:58.124Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975188
+04-07-2024 21:39:01.839Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:39:02.049Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:39:04.181Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:39:06.393Z;functions.waitForImage;  ERROR GENERICO image found.
+04-07-2024 21:39:20.205Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:39:24.320Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:39:28.424Z;functions.check_ted_branco;  REFERNCIA: 975189
+04-07-2024 21:39:28.726Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:39:35.002Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:39:35.121Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:39:35.121Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:39:35.303Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:39:47.942Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:39:48.143Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:39:50.153Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975189
+04-07-2024 21:39:53.867Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:39:54.080Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:39:56.215Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:39:58.424Z;functions.waitForImage;  ERROR GENERICO image found.
+04-07-2024 21:40:12.252Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:40:16.357Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:40:20.462Z;functions.check_ted_branco;  REFERNCIA: 975192
+04-07-2024 21:40:20.764Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:40:27.075Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:40:27.184Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:40:27.184Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:40:27.392Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:40:40.027Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:40:40.236Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:40:42.241Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975192
+04-07-2024 21:40:45.954Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:40:46.190Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:40:48.308Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:40:50.518Z;functions.waitForImage;  ERROR GENERICO image found.
+04-07-2024 21:41:04.330Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:41:08.448Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:41:12.553Z;functions.check_ted_branco;  REFERNCIA: 975209
+04-07-2024 21:41:12.854Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:41:19.017Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:41:19.152Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:41:19.152Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:41:19.362Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:41:32.009Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:41:32.205Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:41:34.210Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975209
+04-07-2024 21:41:37.922Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:41:38.142Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:41:40.275Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:41:52.548Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:41:57.815Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:42:01.919Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:42:06.024Z;functions.check_ted_branco;  REFERNCIA: 975211
+04-07-2024 21:42:06.325Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:42:11.877Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:42:11.994Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:42:11.994Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:42:12.880Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:42:25.507Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:42:25.705Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:42:27.708Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975211
+04-07-2024 21:42:31.421Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:42:31.627Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:42:33.776Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:42:46.017Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:42:51.314Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:42:55.427Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:42:59.531Z;functions.check_ted_branco;  REFERNCIA: 975223
+04-07-2024 21:42:59.833Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:43:06.049Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:43:06.181Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:43:06.181Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:43:06.392Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:43:19.020Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:43:19.236Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:43:21.241Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975223
+04-07-2024 21:43:24.952Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:43:25.173Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:43:27.306Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:43:29.517Z;functions.waitForImage;  ERROR GENERICO image found.
+04-07-2024 21:43:43.330Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:43:47.445Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:43:51.550Z;functions.check_ted_branco;  REFERNCIA: 975224
+04-07-2024 21:43:51.851Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:43:57.377Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:43:57.496Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:43:57.496Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:43:58.423Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:44:11.052Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:44:11.267Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:44:13.271Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975224
+04-07-2024 21:44:16.984Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:44:17.173Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:44:19.308Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:44:31.580Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:44:36.845Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:44:40.954Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:44:45.058Z;functions.check_ted_branco;  REFERNCIA: 975226
+04-07-2024 21:44:45.359Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:44:51.533Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:44:51.650Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:44:51.650Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:44:51.856Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:45:04.483Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:45:04.704Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:45:06.711Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975226
+04-07-2024 21:45:10.423Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:45:10.642Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:45:12.777Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:45:14.986Z;functions.waitForImage;  ERROR GENERICO image found.
+04-07-2024 21:45:28.814Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:45:32.919Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:45:37.024Z;functions.check_ted_branco;  REFERNCIA: 975229
+04-07-2024 21:45:37.326Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:45:42.885Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:45:42.993Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:45:42.993Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:45:43.189Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:45:55.818Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:45:56.017Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:45:58.019Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975229
+04-07-2024 21:46:01.732Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:46:01.939Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:46:04.089Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:46:06.298Z;functions.waitForImage;  ERROR GENERICO image found.
+04-07-2024 21:46:20.158Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:46:24.265Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:46:28.370Z;functions.check_ted_branco;  REFERNCIA: 975487
+04-07-2024 21:46:28.672Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:46:34.876Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:46:34.995Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:46:34.995Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:46:35.165Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:46:47.800Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:46:48.017Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:46:50.022Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975487
+04-07-2024 21:46:53.736Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:46:53.970Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:46:56.087Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:47:08.361Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:47:13.626Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:47:17.736Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:47:21.841Z;functions.check_ted_branco;  REFERNCIA: 975605
+04-07-2024 21:47:22.142Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:47:28.423Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:47:28.557Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:47:28.557Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:47:28.765Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:47:41.387Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:47:41.611Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:47:43.613Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975605
+04-07-2024 21:47:47.326Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:47:47.532Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:47:49.651Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:48:01.923Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:48:07.204Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:48:11.321Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:48:15.426Z;functions.check_ted_branco;  REFERNCIA: 975636
+04-07-2024 21:48:15.727Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:48:21.214Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:48:21.338Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:48:21.338Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:48:21.545Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:48:34.172Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:48:34.407Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:48:36.409Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975636
+04-07-2024 21:48:40.122Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:48:40.329Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:48:42.465Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:48:54.736Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:48:59.985Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:49:04.101Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:49:08.206Z;functions.check_ted_branco;  REFERNCIA: 975663
+04-07-2024 21:49:08.507Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:49:14.860Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:49:14.995Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:49:14.995Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:49:15.198Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:49:27.826Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:49:28.048Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:49:30.053Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975663
+04-07-2024 21:49:33.765Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:49:33.970Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:49:36.089Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:49:48.360Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:49:53.626Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:49:57.732Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:50:01.837Z;functions.check_ted_branco;  REFERNCIA: 975741
+04-07-2024 21:50:02.138Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:50:08.439Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:50:08.556Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:50:08.556Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:50:08.767Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:50:21.394Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:50:21.610Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:50:23.617Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975741
+04-07-2024 21:50:27.329Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:50:27.532Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:50:29.681Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:50:41.954Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:50:47.204Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:50:51.322Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:50:55.427Z;functions.check_ted_branco;  REFERNCIA: 972802
+04-07-2024 21:50:55.729Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:51:01.954Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:51:02.088Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:51:02.088Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:51:02.285Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:51:14.912Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:51:15.110Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:51:17.123Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 972802
+04-07-2024 21:51:20.836Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:51:21.047Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:51:23.182Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:51:35.454Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:51:40.704Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:51:44.818Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:51:48.923Z;functions.check_ted_branco;  REFERNCIA: 975502
+04-07-2024 21:51:49.225Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:51:55.563Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:51:55.682Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:51:55.682Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:51:55.891Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:52:08.523Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:52:08.735Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:52:10.742Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 975502
+04-07-2024 21:52:14.455Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:52:14.672Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:52:16.807Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:52:29.016Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:52:34.345Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:52:38.450Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+04-07-2024 21:52:42.555Z;functions.check_ted_branco;  REFERNCIA: 722365
+04-07-2024 21:52:42.857Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+04-07-2024 21:52:49.126Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+04-07-2024 21:52:49.245Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+04-07-2024 21:52:49.245Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+04-07-2024 21:52:50.141Z;functions.waitForImage;  TRES PONTINHOS image found.
+04-07-2024 21:53:02.782Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+04-07-2024 21:53:02.985Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+04-07-2024 21:53:04.998Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 722365
+04-07-2024 21:53:08.712Z;functions.check_ted_branco;  APERTA EM CANCELAR
+04-07-2024 21:53:08.907Z;functions.waitForImage;  PRESS BUTTON OK image found.
+04-07-2024 21:53:11.056Z;functions.click_ok;  PRESS BUTTON OK
+04-07-2024 21:53:23.328Z;functions.waitForImage;  ERROR GENERICO image not found.
+04-07-2024 21:53:28.594Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+04-07-2024 21:53:28.594Z;functions.check_ted_branco;  FORAI VERIFICADO: 35 REFERENCIAS NO PROCESSAMENTO FORMA DE PAGAMENTO ELETRONICA EM BRANCO
+04-07-2024 21:53:31.454Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+04-07-2024 21:53:31.485Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+04-07-2024 21:53:31.501Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+04-07-2024 21:53:31.501Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+04-07-2024 21:53:31.501Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+04-07-2024 21:53:31.501Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+04-07-2024 21:53:31.720Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+04-07-2024 21:53:31.829Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+04-07-2024 21:53:31.829Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+04-07-2024 21:53:31.829Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+04-07-2024 21:53:31.829Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+04-07-2024 21:53:31.845Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+04-07-2024 21:53:31.845Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+04-07-2024 21:53:31.876Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+04-07-2024 21:53:31.891Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+04-07-2024 21:53:31.891Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+04-07-2024 21:53:31.891Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+04-07-2024 21:53:31.891Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+04-07-2024 21:53:35.470Z;functions.emailFinalizado;  Warning e-mail sent.
+04-07-2024 21:53:35.470Z;main.<module>;  Remessa Bancária TED CIP com filtro de pagamento eletronica em branco modificadas para pix 
+ PASSO 3 FINALIZADO
+04-07-2024 21:53:35.470Z;main.<module>;  O PROGRAMA SERÁ ENCERRADO
+04-07-2024 21:53:36.673Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+04-07-2024 21:53:39.970Z;functions.emailFinalizado;  Warning e-mail sent.
+04-07-2024 21:53:40.251Z;functions.end_RM;  RM ENCERRADO

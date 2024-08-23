@@ -1,0 +1,22 @@
+20-09-2023 19:17:07.376Z;functions.bot_text_art;      __     
+20-09-2023 19:17:07.377Z;functions.bot_text_art;     [____]    
+20-09-2023 19:17:07.378Z;functions.bot_text_art;   |=]()()[=|  
+20-09-2023 19:17:07.378Z;functions.bot_text_art;   _\==_/__   ___     ___   _        ___    ___   _  __
+20-09-2023 19:17:07.379Z;functions.bot_text_art;  |__|    |__| |  _ \   / ___| | |      |_   |  / ___| | |/ /
+20-09-2023 19:17:07.379Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |      | ' / 
+20-09-2023 19:17:07.380Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |      |  <  
+20-09-2023 19:17:07.380Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   | |  | |____  | . \ 
+20-09-2023 19:17:07.382Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+20-09-2023 19:17:07.382Z;functions.bot_text_art;     |_||_|                                                       
+20-09-2023 19:17:07.382Z;functions.bot_text_art;    |||_|_   
+20-09-2023 19:17:07.383Z;functions.bot_text_art;   |___||___|  
+20-09-2023 19:17:07.384Z;functions.bot_text_art;               
+20-09-2023 19:17:07.390Z;functions.open_RM;  OPEN PROGRAM RM
+20-09-2023 19:17:13.323Z;functions.show_exception_and_exit;  type object '_Clicknium' has no attribute 'locate'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 22, in <module>
+    loggin_RM()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 58, in loggin_RM
+    user_rm = cc.locate(locator.rm.user_field)
+              ^^^^^^^^^
+AttributeError: type object '_Clicknium' has no attribute 'locate'

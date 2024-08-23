@@ -1,0 +1,58 @@
+30-01-2024 17:13:29.345Z;functions.bot_text_art;      ____   
+30-01-2024 17:13:29.345Z;functions.bot_text_art;     [____]    
+30-01-2024 17:13:29.345Z;functions.bot_text_art;   |=]()()[=|  
+30-01-2024 17:13:29.345Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+30-01-2024 17:13:29.345Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+30-01-2024 17:13:29.346Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+30-01-2024 17:13:29.346Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+30-01-2024 17:13:29.346Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+30-01-2024 17:13:29.347Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+30-01-2024 17:13:29.347Z;functions.bot_text_art;     |_||_|                                                     
+30-01-2024 17:13:29.347Z;functions.bot_text_art;     | ||_|_   
+30-01-2024 17:13:29.347Z;functions.bot_text_art;   |___||___|  
+30-01-2024 17:13:29.348Z;functions.bot_text_art;               
+30-01-2024 17:13:29.756Z;functions.open_RM;  OPEN PROGRAM RM
+30-01-2024 17:17:13.549Z;functions.loggin_RM;  ENTER USER_NAME
+30-01-2024 17:17:14.462Z;functions.loggin_RM;  ENTER PASSWORD
+30-01-2024 17:17:15.263Z;functions.loggin_RM;  ENTER RM
+30-01-2024 17:17:44.575Z;functions.enter_coligada;  CLICK CONTEXTO
+30-01-2024 17:17:48.544Z;functions.enter_coligada;  CLICK COLIGADA 1
+30-01-2024 17:17:50.045Z;functions.enter_coligada;  CLICK AVANÇAR
+30-01-2024 17:17:51.659Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+30-01-2024 17:17:51.761Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+30-01-2024 17:17:52.669Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+30-01-2024 17:17:53.543Z;functions.enter_coligada;  CLICK CONCLUIR
+30-01-2024 17:18:04.423Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+30-01-2024 17:18:05.076Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+30-01-2024 17:18:06.201Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+30-01-2024 17:18:06.920Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+30-01-2024 17:18:13.169Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+30-01-2024 17:18:13.382Z;functions.waitForImage;  LANÇAMENTOS image found.
+30-01-2024 17:18:15.484Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+30-01-2024 17:18:30.489Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+30-01-2024 17:18:30.490Z;functions.data_filter;  DATA INICIO 31-01-2024
+30-01-2024 17:18:30.490Z;functions.data_filter;  DATA FIM 06-02-2024
+30-01-2024 17:18:30.491Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+30-01-2024 17:18:30.491Z;functions.data_filter;  QUARTA-FEIRA: 31-01-2024
+30-01-2024 17:18:30.492Z;functions.data_filter;  TERCA-FEIRA: 06-02-2024
+30-01-2024 17:18:31.174Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+30-01-2024 17:18:32.295Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+30-01-2024 17:18:34.211Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 31-01-2024
+30-01-2024 17:18:35.767Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 06-02-2024
+30-01-2024 17:18:36.420Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+30-01-2024 17:19:57.887Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+30-01-2024 17:19:58.747Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+30-01-2024 17:19:59.617Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+30-01-2024 17:20:00.618Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+30-01-2024 17:20:01.568Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+30-01-2024 17:20:11.720Z;functions.waitForImage;  FILTER CLEAN image found.
+30-01-2024 17:20:13.832Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+30-01-2024 17:20:15.833Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+30-01-2024 17:20:16.293Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Bancaria\main.py", line 18, in <module>
+    result = check_table_record()
+             ^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 337, in check_table_record
+    time.sleep(10)
+KeyboardInterrupt

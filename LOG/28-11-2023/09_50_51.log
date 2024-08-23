@@ -1,0 +1,196 @@
+28-11-2023 09:50:52.664Z;functions.bot_text_art;      ____   
+28-11-2023 09:50:52.665Z;functions.bot_text_art;     [____]    
+28-11-2023 09:50:52.666Z;functions.bot_text_art;   |=]()()[=|  
+28-11-2023 09:50:52.667Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+28-11-2023 09:50:52.668Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+28-11-2023 09:50:52.669Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+28-11-2023 09:50:52.670Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+28-11-2023 09:50:52.671Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+28-11-2023 09:50:52.674Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+28-11-2023 09:50:52.675Z;functions.bot_text_art;     |_||_|                                                     
+28-11-2023 09:50:52.676Z;functions.bot_text_art;     | ||_|_   
+28-11-2023 09:50:52.677Z;functions.bot_text_art;   |___||___|  
+28-11-2023 09:50:52.678Z;functions.bot_text_art;               
+28-11-2023 09:50:52.688Z;functions.open_RM;  OPEN PROGRAM RM
+28-11-2023 09:51:05.825Z;functions.loggin_RM;  ENTER USER_NAME
+28-11-2023 09:51:07.227Z;functions.loggin_RM;  ENTER PASSWORD
+28-11-2023 09:51:08.487Z;functions.loggin_RM;  ENTER RM
+28-11-2023 09:51:41.768Z;functions.enter_coligada;  CLICK CONTEXTO
+28-11-2023 09:51:46.903Z;functions.enter_coligada;  CLICK COLIGADA 1
+28-11-2023 09:51:49.105Z;functions.enter_coligada;  CLICK AVANÇAR
+28-11-2023 09:51:51.930Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+28-11-2023 09:51:52.142Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+28-11-2023 09:51:53.485Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+28-11-2023 09:51:54.772Z;functions.enter_coligada;  CLICK CONCLUIR
+28-11-2023 09:52:18.171Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+28-11-2023 09:52:18.902Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+28-11-2023 09:52:20.248Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+28-11-2023 09:52:22.980Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+28-11-2023 09:52:30.091Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+28-11-2023 09:52:31.005Z;functions.waitForImage;  LANÇAMENTOS image found.
+28-11-2023 09:52:33.135Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+28-11-2023 09:52:35.138Z;functions.data_filter;  DATA INICIO 22-11-2023
+28-11-2023 09:52:35.139Z;functions.data_filter;  DATA FIM 28-11-2023
+28-11-2023 09:52:35.140Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+28-11-2023 09:52:35.141Z;functions.data_filter;  QUARTA-FEIRA: 22-11-2023
+28-11-2023 09:52:35.142Z;functions.data_filter;  TERCA-FEIRA: 28-11-2023
+28-11-2023 09:52:42.154Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+28-11-2023 09:52:44.412Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+28-11-2023 09:52:47.344Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 22-11-2023
+28-11-2023 09:52:49.765Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 28-11-2023
+28-11-2023 09:52:50.674Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+28-11-2023 09:53:01.545Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+28-11-2023 09:53:03.485Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+28-11-2023 09:53:05.564Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+28-11-2023 09:53:07.799Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+28-11-2023 09:53:10.171Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+28-11-2023 09:53:25.360Z;functions.waitForImage;  FILTER CLEAN image found.
+28-11-2023 09:53:27.463Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+28-11-2023 09:53:29.465Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+28-11-2023 09:53:42.441Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 7 registros?
+28-11-2023 09:53:44.444Z;functions.check_table_record;  TIPO: <class 'list'>
+28-11-2023 09:53:44.445Z;functions.check_table_record;  NUMERO DE TUPLAS: 7
+28-11-2023 09:53:44.446Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+28-11-2023 09:53:48.383Z;functions.check_table_record;  CLICK NÃO
+28-11-2023 09:54:05.105Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+28-11-2023 09:54:07.070Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+28-11-2023 09:54:07.203Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+28-11-2023 09:54:07.527Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+28-11-2023 09:54:09.911Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+28-11-2023 09:54:17.207Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+28-11-2023 09:54:23.547Z;functions.filter_IPTE;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+28-11-2023 09:54:38.556Z;functions.filter_IPTE;  147 PASSOS PARA DIREITA NA TABELA >>
+28-11-2023 09:54:43.725Z;functions.filter_IPTE;  HOVER FILTER
+28-11-2023 09:54:43.862Z;functions.filter_IPTE;  CLICK FILTER
+28-11-2023 09:54:48.195Z;functions.filter_IPTE;  CLICA NO FILTRO PERSONALIZAR
+28-11-2023 09:55:05.138Z;functions.filter_IPTE;  147 PASSOS PARA ESQUERDA NA TABELA <<
+28-11-2023 09:55:05.139Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+28-11-2023 09:55:18.064Z;functions.check_table_record;  Para este processo é necessário que existam registros na visão.
+28-11-2023 09:55:22.066Z;functions.check_table_record;  SEM REMESSAS BANCARIA
+28-11-2023 09:55:24.169Z;main.<module>;  SEM REMESSA BANCÁRIA
+28-11-2023 09:55:27.012Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+28-11-2023 09:55:27.060Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+28-11-2023 09:55:27.080Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+28-11-2023 09:55:27.083Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+28-11-2023 09:55:27.090Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+28-11-2023 09:55:27.093Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+28-11-2023 09:55:27.356Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+28-11-2023 09:55:27.611Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+28-11-2023 09:55:27.635Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+28-11-2023 09:55:27.656Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+28-11-2023 09:55:27.680Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+28-11-2023 09:55:27.687Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+28-11-2023 09:55:27.691Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+28-11-2023 09:55:27.739Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+28-11-2023 09:55:27.759Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+28-11-2023 09:55:27.762Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+28-11-2023 09:55:27.765Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+28-11-2023 09:55:27.773Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+28-11-2023 09:55:29.857Z;functions.emailSuccess;  Success e-mail sent.
+28-11-2023 09:55:30.714Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+28-11-2023 09:55:32.241Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+28-11-2023 09:55:33.196Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+28-11-2023 09:55:40.237Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+28-11-2023 09:55:41.132Z;functions.waitForImage;  LANÇAMENTOS image found.
+28-11-2023 09:55:43.257Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+28-11-2023 09:55:45.260Z;functions.data_filter;  DATA INICIO 22-11-2023
+28-11-2023 09:55:45.261Z;functions.data_filter;  DATA FIM 28-11-2023
+28-11-2023 09:55:45.263Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+28-11-2023 09:55:45.264Z;functions.data_filter;  QUARTA-FEIRA: 22-11-2023
+28-11-2023 09:55:45.265Z;functions.data_filter;  TERCA-FEIRA: 28-11-2023
+28-11-2023 09:55:46.254Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+28-11-2023 09:55:47.803Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+28-11-2023 09:55:50.698Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 22-11-2023
+28-11-2023 09:55:53.187Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 28-11-2023
+28-11-2023 09:55:54.101Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+28-11-2023 09:56:00.868Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+28-11-2023 09:56:02.798Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+28-11-2023 09:56:04.972Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+28-11-2023 09:56:07.352Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+28-11-2023 09:56:09.769Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+28-11-2023 09:56:24.960Z;functions.waitForImage;  FILTER CLEAN image found.
+28-11-2023 09:56:27.065Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+28-11-2023 09:56:30.383Z;functions.filter_forma_pagamento;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+28-11-2023 09:56:46.885Z;functions.filter_forma_pagamento;  162 PASSOS PARA DIREITA NA TABELA >>
+28-11-2023 09:56:52.499Z;functions.filter_forma_pagamento;  HOVER NOME DA COLUNA FORMA DE PAGAMENTO
+28-11-2023 09:56:52.640Z;functions.filter_forma_pagamento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+28-11-2023 09:56:55.976Z;functions.filter_forma_pagamento;  CLICA NO FILTRO PERSONALIZAR
+28-11-2023 09:57:16.882Z;functions.filter_forma_pagamento;  162 PASSOS PARA ESQUERDA NA TABELA <<
+28-11-2023 09:57:16.883Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+28-11-2023 09:57:29.801Z;functions.check_table_record;  Para este processo é necessário que existam registros na visão.
+28-11-2023 09:57:33.804Z;functions.check_table_record;  SEM REMESSAS BANCARIA
+28-11-2023 09:57:37.908Z;main.<module>;  SEM REMESSA DE TED CIP
+28-11-2023 09:57:39.103Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+28-11-2023 09:57:41.061Z;functions.emailSuccess;  Success e-mail sent.
+28-11-2023 09:57:41.911Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+28-11-2023 09:57:43.463Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+28-11-2023 09:57:44.438Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+28-11-2023 09:57:51.507Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+28-11-2023 09:57:52.395Z;functions.waitForImage;  LANÇAMENTOS image found.
+28-11-2023 09:57:54.515Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+28-11-2023 09:57:56.519Z;functions.data_filter;  DATA INICIO 22-11-2023
+28-11-2023 09:57:56.520Z;functions.data_filter;  DATA FIM 28-11-2023
+28-11-2023 09:57:56.521Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+28-11-2023 09:57:56.522Z;functions.data_filter;  QUARTA-FEIRA: 22-11-2023
+28-11-2023 09:57:56.523Z;functions.data_filter;  TERCA-FEIRA: 28-11-2023
+28-11-2023 09:57:57.538Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+28-11-2023 09:57:59.056Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+28-11-2023 09:58:02.035Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 22-11-2023
+28-11-2023 09:58:04.445Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 28-11-2023
+28-11-2023 09:58:05.375Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+28-11-2023 09:58:12.275Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+28-11-2023 09:58:14.163Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+28-11-2023 09:58:16.235Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+28-11-2023 09:58:18.567Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+28-11-2023 09:58:20.983Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+28-11-2023 09:58:36.164Z;functions.waitForImage;  FILTER CLEAN image found.
+28-11-2023 09:58:38.284Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+28-11-2023 09:58:41.631Z;functions.filter_forma_pagamento_branco;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+28-11-2023 09:58:58.151Z;functions.filter_forma_pagamento_branco;  162 PASSOS PARA DIREITA NA TABELA >>
+28-11-2023 09:59:03.936Z;functions.filter_forma_pagamento_branco;  HOVER NOME DA COLUNA FORMA DE PAGAMENTO
+28-11-2023 09:59:04.078Z;functions.filter_forma_pagamento_branco;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+28-11-2023 09:59:07.412Z;functions.filter_forma_pagamento_branco;  CLICA NO FILTRO PERSONALIZAR
+28-11-2023 09:59:29.449Z;functions.filter_forma_pagamento_branco;  162 PASSOS PARA ESQUERDA NA TABELA <<
+28-11-2023 09:59:29.451Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+28-11-2023 09:59:42.436Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 7 registros?
+28-11-2023 09:59:44.439Z;functions.check_table_record;  TIPO: <class 'list'>
+28-11-2023 09:59:44.440Z;functions.check_table_record;  NUMERO DE TUPLAS: 7
+28-11-2023 09:59:44.441Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+28-11-2023 09:59:48.364Z;functions.check_table_record;  CLICK NÃO
+28-11-2023 09:59:53.366Z;functions.check_ted_branco;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+28-11-2023 09:59:54.693Z;functions.check_ted_branco;  CLICA NA PRIMEIRA LINHA DA TABELA
+28-11-2023 09:59:54.798Z;functions.check_ted_branco;  2 PASSOS PARA DIREITA >>
+28-11-2023 09:59:54.902Z;functions.check_ted_branco;  2 PASSOS PARA DIREITA >>
+28-11-2023 10:00:06.036Z;functions.check_ted_branco;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+28-11-2023 10:00:16.795Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+28-11-2023 10:00:18.927Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+28-11-2023 10:00:18.928Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+28-11-2023 10:00:35.747Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+28-11-2023 10:00:37.749Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 859347
+28-11-2023 10:00:42.461Z;functions.waitForImage;  PRESS BUTTON OK image found.
+28-11-2023 10:00:44.589Z;functions.check_ted_branco;  PRESS BUTTON OK
+28-11-2023 10:00:57.240Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+28-11-2023 10:00:59.345Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+28-11-2023 10:01:12.451Z;functions.check_ted_branco;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+28-11-2023 10:01:19.138Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+28-11-2023 10:01:21.259Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+28-11-2023 10:01:21.260Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+28-11-2023 10:02:08.442Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image not found.
+28-11-2023 10:02:10.443Z;functions.check_ted_branco;  PIX ENCONTRADO
+28-11-2023 10:02:12.548Z;functions.check_ted_branco;  ENTROU DADOS BANCÁRIOS
+28-11-2023 10:02:12.651Z;functions.check_ted_branco;  APERTA TAB
+28-11-2023 10:02:15.869Z;functions.show_exception_and_exit;  cannot access local variable 'forma_pag_pix' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Projetos\Remessa_Bancaria\main.py", line 58, in <module>
+    check_ted_branco()
+  File "c:\Projetos\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 1084, in check_ted_branco
+    forma_pag_pix = waitForImage(image = forma_pag_pix, timeout=30, name = 'CHECANDO DADOS BANCÁRIOS PIX')
+                                         ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'forma_pag_pix' where it is not associated with a value
+28-11-2023 10:02:17.202Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

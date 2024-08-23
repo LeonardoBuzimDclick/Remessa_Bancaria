@@ -1,0 +1,48 @@
+16-10-2023 17:00:03.025Z;functions.bot_text_art;      ____   
+16-10-2023 17:00:03.026Z;functions.bot_text_art;     [____]    
+16-10-2023 17:00:03.027Z;functions.bot_text_art;   |=]()()[=|  
+16-10-2023 17:00:03.027Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+16-10-2023 17:00:03.028Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+16-10-2023 17:00:03.029Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+16-10-2023 17:00:03.030Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+16-10-2023 17:00:03.032Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+16-10-2023 17:00:03.034Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+16-10-2023 17:00:03.035Z;functions.bot_text_art;     |_||_|                                                     
+16-10-2023 17:00:03.036Z;functions.bot_text_art;     | ||_|_   
+16-10-2023 17:00:03.036Z;functions.bot_text_art;   |___||___|  
+16-10-2023 17:00:03.037Z;functions.bot_text_art;               
+16-10-2023 17:00:03.448Z;functions.open_RM;  OPEN PROGRAM RM
+16-10-2023 17:04:57.818Z;functions.loggin_RM;  ENTER USER_NAME
+16-10-2023 17:04:59.000Z;functions.loggin_RM;  ENTER PASSWORD
+16-10-2023 17:05:00.056Z;functions.loggin_RM;  ENTER RM
+16-10-2023 17:05:23.677Z;functions.enter_coligada;  CLICK CONTEXTO
+16-10-2023 17:05:28.266Z;functions.enter_coligada;  CLICK COLIGADA 1
+16-10-2023 17:05:30.146Z;functions.enter_coligada;  CLICK AVANÇAR
+16-10-2023 17:05:32.486Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+16-10-2023 17:05:32.592Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+16-10-2023 17:05:33.949Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+16-10-2023 17:05:35.115Z;functions.enter_coligada;  CLICK CONCLUIR
+16-10-2023 17:05:54.812Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+16-10-2023 17:05:55.567Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+16-10-2023 17:05:57.040Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+16-10-2023 17:05:59.597Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+16-10-2023 17:06:05.443Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+16-10-2023 17:06:06.150Z;functions.waitForImage;  LANÇAMENTOS image found.
+16-10-2023 17:06:08.275Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+16-10-2023 17:06:10.279Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+16-10-2023 17:06:10.281Z;functions.data_filter;  QUARTA-FEIRA: 18-10-2023
+16-10-2023 17:06:10.283Z;functions.data_filter;  TERCA-FEIRA: 24-10-2023
+16-10-2023 17:06:18.186Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+16-10-2023 17:06:18.908Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+16-10-2023 17:06:21.531Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 18-10-2023
+16-10-2023 17:06:23.509Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 24-10-2023
+16-10-2023 17:06:24.309Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+16-10-2023 17:06:39.884Z;functions.waitForImage;  FILTER CLEAN image not found.
+16-10-2023 17:08:42.095Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 17, in <module>
+    select_tipo_documento()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 215, in select_tipo_documento
+    colunm_name = tipo_doc.get_text()
+                  ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'

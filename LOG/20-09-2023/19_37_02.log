@@ -1,0 +1,25 @@
+20-09-2023 19:37:02.913Z;functions.bot_text_art;      __     
+20-09-2023 19:37:02.913Z;functions.bot_text_art;     [____]    
+20-09-2023 19:37:02.914Z;functions.bot_text_art;   |=]()()[=|  
+20-09-2023 19:37:02.914Z;functions.bot_text_art;   _\==_/__   ___     ___   _        ___    ___   _  __
+20-09-2023 19:37:02.914Z;functions.bot_text_art;  |__|    |__| |  _ \   / ___| | |      |_   |  / ___| | |/ /
+20-09-2023 19:37:02.915Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |      | ' / 
+20-09-2023 19:37:02.915Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |      |  <  
+20-09-2023 19:37:02.916Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   | |  | |____  | . \ 
+20-09-2023 19:37:02.917Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+20-09-2023 19:37:02.917Z;functions.bot_text_art;     |_||_|                                                       
+20-09-2023 19:37:02.918Z;functions.bot_text_art;    |||_|_   
+20-09-2023 19:37:02.918Z;functions.bot_text_art;   |___||___|  
+20-09-2023 19:37:02.919Z;functions.bot_text_art;               
+20-09-2023 19:37:02.926Z;functions.open_RM;  OPEN PROGRAM RM
+20-09-2023 19:37:10.834Z;functions.loggin_RM;  ENTER USER_NAME
+20-09-2023 19:37:13.974Z;functions.show_exception_and_exit;  This element can not be set focus.
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 22, in <module>
+    loggin_RM()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 64, in loggin_RM
+    pass_rm.send_hotkey('arrobaint;321')
+  File "C:\projetos\remessas\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 157, in wrapper
+    raise exception;
+    ^^^^^^^^^^^^^^^
+clicknium.common.models.exceptions.WindowError: This element can not be set focus.

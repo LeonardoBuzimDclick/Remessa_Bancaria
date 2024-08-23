@@ -1,0 +1,2097 @@
+08-05-2024 15:00:13.973Z;functions.bot_text_art;      ____   
+08-05-2024 15:00:13.973Z;functions.bot_text_art;     [____]    
+08-05-2024 15:00:13.973Z;functions.bot_text_art;   |=]()()[=|  
+08-05-2024 15:00:13.973Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+08-05-2024 15:00:13.973Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+08-05-2024 15:00:13.973Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+08-05-2024 15:00:13.973Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+08-05-2024 15:00:13.973Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+08-05-2024 15:00:13.973Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+08-05-2024 15:00:13.973Z;functions.bot_text_art;     |_||_|                                                     
+08-05-2024 15:00:13.973Z;functions.bot_text_art;     | ||_|_   
+08-05-2024 15:00:13.973Z;functions.bot_text_art;   |___||___|  
+08-05-2024 15:00:13.973Z;functions.bot_text_art;               
+08-05-2024 15:00:13.973Z;functions.open_RM;  OPEN PROGRAM RM
+08-05-2024 15:00:21.318Z;functions.loggin_RM;  ENTER USER_NAME
+08-05-2024 15:00:25.161Z;functions.loggin_RM;  ENTER PASSWORD
+08-05-2024 15:00:25.832Z;functions.loggin_RM;  ENTER RM
+08-05-2024 15:02:33.723Z;functions.enter_coligada;  CLICK CONTEXTO
+08-05-2024 15:02:35.194Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+08-05-2024 15:02:37.467Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+08-05-2024 15:02:37.569Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+08-05-2024 15:02:38.438Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+08-05-2024 15:02:39.230Z;functions.enter_coligada;  CLICK CONCLUIR
+08-05-2024 15:02:51.504Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+08-05-2024 15:02:52.130Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+08-05-2024 15:02:53.163Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+08-05-2024 15:02:53.864Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+08-05-2024 15:02:56.205Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+08-05-2024 15:02:56.957Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-05-2024 15:02:59.087Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-05-2024 15:03:01.094Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-05-2024 15:03:01.094Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+08-05-2024 15:03:01.094Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 1
+08-05-2024 15:03:21.312Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-05-2024 15:03:23.435Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-05-2024 15:03:33.505Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+08-05-2024 15:03:34.067Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 15:03:34.083Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+08-05-2024 15:03:38.591Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+08-05-2024 15:03:43.688Z;functions.waitForImage;  FILTER CLEAN image found.
+08-05-2024 15:03:45.818Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+08-05-2024 15:04:01.188Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 15:04:16.505Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 15:04:17.312Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 15:04:18.255Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 15:04:19.475Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+08-05-2024 15:04:20.739Z;functions.movimentacao_bancaria;  HOVER FILTER
+08-05-2024 15:04:21.074Z;functions.movimentacao_bancaria;  CLICK FILTER
+08-05-2024 15:04:25.384Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+08-05-2024 15:04:27.486Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+08-05-2024 15:04:29.591Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+08-05-2024 15:04:31.692Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+08-05-2024 15:04:52.693Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO PENDENTE
+08-05-2024 15:05:02.787Z;functions.waitForImage;  FILTER CLEAN image found.
+08-05-2024 15:05:04.913Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+08-05-2024 15:05:20.143Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 15:05:35.390Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 15:05:36.224Z;functions.processo_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 15:05:37.504Z;functions.processo_pagamento;  HOVER FILTER
+08-05-2024 15:05:37.793Z;functions.processo_pagamento;  CLICK FILTER
+08-05-2024 15:05:42.105Z;functions.processo_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+08-05-2024 15:05:44.207Z;functions.processo_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+08-05-2024 15:05:46.313Z;functions.processo_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+08-05-2024 15:05:48.415Z;functions.processo_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+08-05-2024 15:06:09.402Z;functions.processo_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+08-05-2024 15:06:10.505Z;functions.processo_pagamento;  FECHA ABA MOVIMENTAÇÕES BANCÁRIAS
+08-05-2024 15:06:11.380Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+08-05-2024 15:06:12.328Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+08-05-2024 15:06:13.037Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+08-05-2024 15:06:17.880Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+08-05-2024 15:06:17.985Z;functions.waitForImage;  LANÇAMENTOS image found.
+08-05-2024 15:06:20.110Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+08-05-2024 15:06:25.236Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-05-2024 15:06:25.236Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+08-05-2024 15:06:25.236Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 1
+08-05-2024 15:06:40.457Z;functions.waitForImage;  LANÇAMENTOS image found.
+08-05-2024 15:06:42.591Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+08-05-2024 15:06:47.717Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-05-2024 15:06:47.717Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+08-05-2024 15:06:47.717Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 2
+08-05-2024 15:07:02.914Z;functions.waitForImage;  LANÇAMENTOS image found.
+08-05-2024 15:07:05.041Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+08-05-2024 15:07:20.552Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+08-05-2024 15:07:20.552Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 15
+08-05-2024 15:07:20.552Z;functions.obter_intervalo_data;  Data Inicial BANCARIA antes da remoção: None
+08-05-2024 15:07:20.552Z;functions.obter_intervalo_data;  Data Final BANCARIA antes da remoção: None
+08-05-2024 15:07:20.552Z;functions.obter_intervalo_data;  Data Inicial BANCARIA após a remoção: None
+08-05-2024 15:07:20.552Z;functions.obter_intervalo_data;  Data Final BANCARIA após a remoção: None
+08-05-2024 15:07:20.552Z;functions.obter_intervalo_data;  hoje -  2024-05-08 15:07:20.552237
+08-05-2024 15:07:20.552Z;functions.data_filter;  DATA INICIO 15-05-2024
+08-05-2024 15:07:20.552Z;functions.data_filter;  DATA FIM 21-05-2024
+08-05-2024 15:07:20.552Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+08-05-2024 15:07:20.552Z;functions.data_filter;  QUARTA-FEIRA: 15-05-2024
+08-05-2024 15:07:20.552Z;functions.data_filter;  TERCA-FEIRA: 21-05-2024
+08-05-2024 15:07:28.958Z;functions.data_filter;  CLICK - BOTAO DE SELECAO DE FILTRO
+08-05-2024 15:07:32.692Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 15-05-2024
+08-05-2024 15:07:36.176Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 21-05-2024
+08-05-2024 15:07:36.817Z;functions.data_filter;  CLICK - BOTAO DE EXECUTAR O FILTRO
+08-05-2024 15:11:48.693Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+08-05-2024 15:11:49.490Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+08-05-2024 15:11:50.326Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+08-05-2024 15:11:51.193Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+08-05-2024 15:11:52.099Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+08-05-2024 15:11:57.219Z;functions.waitForImage;  FILTER CLEAN image found.
+08-05-2024 15:11:59.340Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+08-05-2024 15:12:14.658Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 15:12:29.927Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 15:12:29.927Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+08-05-2024 15:12:30.865Z;functions.check_table_record;  Texto extraido 1/504
+08-05-2024 15:12:30.865Z;functions.check_table_record;  Count 504
+08-05-2024 15:12:30.865Z;functions.check_table_record;  Type <class 'int'>
+08-05-2024 15:12:30.865Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+08-05-2024 15:12:41.693Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+08-05-2024 15:12:42.916Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+08-05-2024 15:12:43.512Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+08-05-2024 15:12:44.252Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+08-05-2024 15:12:51.276Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+08-05-2024 15:12:56.277Z;functions.filter_IPTE;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+08-05-2024 15:12:57.036Z;functions.filter_IPTE;  CLICA NA PRIMEIRA LINHA DA TABELA
+08-05-2024 15:13:16.911Z;functions.filter_IPTE;  HOVER FILTER
+08-05-2024 15:13:17.489Z;functions.filter_IPTE;  CLICK FILTER
+08-05-2024 15:13:21.800Z;functions.filter_IPTE;  CLICA NO FILTRO PERSONALIZAR
+08-05-2024 15:13:29.713Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+08-05-2024 15:13:30.631Z;functions.check_table_record;  Texto extraido 1/22
+08-05-2024 15:13:30.631Z;functions.check_table_record;  Count 22
+08-05-2024 15:13:30.631Z;functions.check_table_record;  Type <class 'int'>
+08-05-2024 15:13:30.631Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+08-05-2024 15:13:30.631Z;functions.check_payment_type;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+08-05-2024 15:13:31.397Z;functions.check_payment_type;  CLICA NA PRIMEIRA LINHA DA TABELA
+08-05-2024 15:13:39.500Z;functions.check_payment_type;  REF. LANÇAMENTO: 949710
+08-05-2024 15:13:39.603Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:13:47.345Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:13:49.471Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:13:49.471Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:13:52.568Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:13:52.686Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:13:54.686Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:13:54.788Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:13:59.006Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:14:01.127Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:14:05.222Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:14:07.353Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:14:11.458Z;functions.check_payment_type;  INCLUIDOS: 949710 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:14:13.560Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:14:23.662Z;functions.check_payment_type;  REF. LANÇAMENTO: 949715
+08-05-2024 15:14:23.764Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:14:25.895Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:14:28.033Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:14:28.033Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:14:31.128Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:14:31.260Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:14:33.260Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:14:33.361Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:14:37.568Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:14:39.701Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:14:43.827Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:14:45.957Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:14:50.068Z;functions.check_payment_type;  INCLUIDOS: 949715 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:14:52.170Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:15:02.272Z;functions.check_payment_type;  REF. LANÇAMENTO: 949727
+08-05-2024 15:15:02.375Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:15:05.120Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:15:07.246Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:15:07.246Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:15:10.356Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:15:10.473Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:15:12.474Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:15:12.575Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:15:16.812Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:15:18.931Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:15:23.060Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:15:25.178Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:15:29.287Z;functions.check_payment_type;  INCLUIDOS: 949727 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:15:31.388Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:15:41.490Z;functions.check_payment_type;  REF. LANÇAMENTO: 949734
+08-05-2024 15:15:41.593Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:15:43.719Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:15:45.848Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:15:45.848Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:15:48.943Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:15:49.076Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:15:51.077Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:15:51.178Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:15:55.398Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:15:57.522Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:16:01.633Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:16:03.752Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:16:07.865Z;functions.check_payment_type;  INCLUIDOS: 949734 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:16:09.967Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:16:20.070Z;functions.check_payment_type;  REF. LANÇAMENTO: 949752
+08-05-2024 15:16:20.172Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:16:22.928Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:16:25.046Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:16:25.046Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:16:28.153Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:16:28.278Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:16:30.278Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:16:30.379Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:16:34.584Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:16:36.716Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:16:40.811Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:16:42.951Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:16:47.054Z;functions.check_payment_type;  INCLUIDOS: 949752 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:16:49.156Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:16:59.258Z;functions.check_payment_type;  REF. LANÇAMENTO: 949764
+08-05-2024 15:16:59.360Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:17:01.474Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:17:03.602Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:17:03.602Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:17:06.698Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:17:06.830Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:17:08.831Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:17:08.932Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:17:13.168Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:17:15.285Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:17:19.380Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:17:21.511Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:17:25.621Z;functions.check_payment_type;  INCLUIDOS: 949764 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:17:27.722Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:17:37.825Z;functions.check_payment_type;  REF. LANÇAMENTO: 949803
+08-05-2024 15:17:37.927Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:17:40.708Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:17:42.829Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:17:42.829Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:17:45.940Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:17:46.056Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:17:48.057Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:17:48.158Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:17:52.378Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:17:54.497Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:17:58.592Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:18:00.737Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:18:04.840Z;functions.check_payment_type;  INCLUIDOS: 949803 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:18:06.942Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:18:17.044Z;functions.check_payment_type;  REF. LANÇAMENTO: 949828
+08-05-2024 15:18:17.147Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:18:19.895Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:18:22.014Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:18:22.014Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:18:25.109Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:18:25.225Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:18:27.226Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:18:27.327Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:18:31.537Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:18:33.667Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:18:37.762Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:18:39.894Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:18:44.004Z;functions.check_payment_type;  INCLUIDOS: 949828 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:18:46.105Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:18:56.208Z;functions.check_payment_type;  REF. LANÇAMENTO: 949883
+08-05-2024 15:18:56.311Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:18:59.044Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:19:01.174Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:19:01.174Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:19:04.269Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:19:04.386Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:19:06.386Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:19:06.488Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:19:10.700Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:19:12.831Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:19:16.957Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:19:19.080Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:19:23.188Z;functions.check_payment_type;  INCLUIDOS: 949883 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:19:25.289Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:19:35.392Z;functions.check_payment_type;  REF. LANÇAMENTO: 949902
+08-05-2024 15:19:35.494Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:19:37.618Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:19:39.738Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:19:39.738Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:19:42.856Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:19:42.971Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:19:44.972Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:19:45.073Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:19:49.278Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:19:51.410Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:19:55.505Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:19:57.651Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:20:01.755Z;functions.check_payment_type;  INCLUIDOS: 949902 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:20:03.857Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:20:13.959Z;functions.check_payment_type;  REF. LANÇAMENTO: 943356
+08-05-2024 15:20:14.061Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:20:16.791Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:20:18.923Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:20:18.923Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:20:22.033Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:20:22.165Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:20:24.166Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:20:24.267Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:20:28.490Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:20:30.611Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:20:34.706Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:20:36.837Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:20:40.945Z;functions.check_payment_type;  INCLUIDOS: 943356 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:20:43.047Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:20:53.149Z;functions.check_payment_type;  REF. LANÇAMENTO: 949730
+08-05-2024 15:20:53.252Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:20:55.362Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:20:57.487Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:20:57.487Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:21:00.582Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:21:00.714Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:21:02.715Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:21:02.816Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:21:07.022Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:21:09.152Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:21:13.253Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:21:15.371Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:21:19.479Z;functions.check_payment_type;  INCLUIDOS: 949730 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:21:21.581Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:21:31.683Z;functions.check_payment_type;  REF. LANÇAMENTO: 949691
+08-05-2024 15:21:31.786Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:21:34.522Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:21:36.651Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:21:36.651Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:21:39.745Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:21:39.878Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:21:41.878Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:21:41.979Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:21:46.185Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:21:48.316Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:21:52.410Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:21:54.540Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:21:58.649Z;functions.check_payment_type;  INCLUIDOS: 949691 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:22:00.750Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:22:10.852Z;functions.check_payment_type;  REF. LANÇAMENTO: 949824
+08-05-2024 15:22:10.955Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:22:13.078Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:22:15.196Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:22:15.196Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:22:18.290Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:22:18.422Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:22:20.423Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:22:20.524Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:22:24.744Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:22:26.870Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:22:30.965Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:22:33.083Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:22:37.185Z;functions.check_payment_type;  INCLUIDOS: 949824 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:22:39.286Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:22:49.388Z;functions.check_payment_type;  REF. LANÇAMENTO: 949874
+08-05-2024 15:22:49.491Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:22:52.297Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:22:54.416Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:22:54.416Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:22:57.520Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:22:57.653Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:22:59.653Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:22:59.754Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:23:03.960Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:23:06.090Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:23:10.185Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:23:12.323Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:23:16.426Z;functions.check_payment_type;  INCLUIDOS: 949874 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:23:18.528Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:23:28.630Z;functions.check_payment_type;  REF. LANÇAMENTO: 949879
+08-05-2024 15:23:28.732Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:23:30.842Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:23:32.957Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:23:32.957Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:23:36.051Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:23:36.168Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:23:38.169Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:23:38.270Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:23:42.474Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:23:44.603Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:23:48.697Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:23:50.825Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:23:54.938Z;functions.check_payment_type;  INCLUIDOS: 949879 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:23:57.040Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:24:07.143Z;functions.check_payment_type;  REF. LANÇAMENTO: 949941
+08-05-2024 15:24:07.245Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:24:10.644Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:24:12.766Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:24:12.766Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:24:15.861Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:24:15.978Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:24:17.978Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:24:18.079Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:24:22.285Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:24:24.412Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:24:28.505Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:24:30.653Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:24:34.756Z;functions.check_payment_type;  INCLUIDOS: 949941 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:24:36.858Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:24:46.961Z;functions.check_payment_type;  REF. LANÇAMENTO: 938611
+08-05-2024 15:24:47.063Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:24:49.788Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:24:51.909Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:24:51.909Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:24:55.004Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:24:55.121Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:24:57.121Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:24:57.223Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:25:01.439Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:25:03.561Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:25:07.672Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:25:09.803Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:25:13.905Z;functions.check_payment_type;  INCLUIDOS: 938611 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:25:16.006Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:25:26.109Z;functions.check_payment_type;  REF. LANÇAMENTO: 944547
+08-05-2024 15:25:26.211Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:25:28.942Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:25:31.068Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:25:31.068Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:25:34.163Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:25:34.295Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:25:36.296Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:25:36.397Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:25:40.617Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:25:42.738Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:25:46.848Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:25:48.977Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:25:53.080Z;functions.check_payment_type;  INCLUIDOS: 944547 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:25:55.182Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:26:05.284Z;functions.check_payment_type;  REF. LANÇAMENTO: 944553
+08-05-2024 15:26:05.386Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:26:07.506Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:26:09.629Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:26:09.629Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:26:12.723Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:26:12.840Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:26:14.840Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:26:14.942Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:26:19.147Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:26:21.277Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:26:25.372Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:26:27.504Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:26:31.606Z;functions.check_payment_type;  INCLUIDOS: 944553 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:26:33.708Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:26:43.810Z;functions.check_payment_type;  REF. LANÇAMENTO: 944986
+08-05-2024 15:26:43.913Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:26:46.666Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:26:48.788Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:26:48.788Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:26:51.882Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:26:52.015Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:26:54.015Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:26:54.117Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:26:58.335Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:27:00.453Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:27:04.555Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:27:06.676Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:27:10.786Z;functions.check_payment_type;  INCLUIDOS: 944986 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:27:12.887Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:27:22.990Z;functions.check_payment_type;  REF. LANÇAMENTO: 949247
+08-05-2024 15:27:23.093Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+08-05-2024 15:27:25.203Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:27:27.325Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:27:27.325Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:27:30.420Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:27:30.537Z;functions.check_payment_type;  DADOS BANCARIOS
+08-05-2024 15:27:32.537Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:27:32.638Z;functions.check_payment_type;  APERTA TAB
+08-05-2024 15:27:36.842Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:27:38.972Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:27:43.069Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:27:45.187Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:27:49.293Z;functions.check_payment_type;  INCLUIDOS: 949247 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:27:49.293Z;functions.check_payment_type;  FORAM INCLUIDOS: 22 REFERENCIAS NO PROCESSAMENTO
+08-05-2024 15:27:54.021Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+08-05-2024 15:27:54.711Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+08-05-2024 15:27:55.405Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+08-05-2024 15:28:00.513Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+08-05-2024 15:28:01.217Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+08-05-2024 15:28:01.958Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+08-05-2024 15:28:02.661Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+08-05-2024 15:28:41.590Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+08-05-2024 15:28:41.590Z;functions.process_lancamentos;  LANÇAMENTO COM ERRO
+08-05-2024 15:28:48.511Z;functions.process_lancamentos;  ERRO: Lançamento Ref. 938611: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 943356: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 944547: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 944553: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 944986: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949247: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949691: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949710: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949715: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949727: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949730: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949734: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949752: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949764: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949803: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949824: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949828: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949874: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949879: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949883: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949902: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949941: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-943356:
+O cliente/fornecedor "010432" está inativo.
+
+   at RM.Fin.CliFor.FinCFOMod.ValidaCliFor(IFinCFOValidacaoPar cliFor)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteCliFor(FinLanCxt lanCxt, FinLanValidateEnum autorizaLan, Boolean validaDadosCliFor, DateTime dataSistema)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteCamposDefaultPreenchimento(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+
+08-05-2024 15:28:48.511Z;functions.process_lancamentos;  CORRESPONDENCIA ['943356']
+08-05-2024 15:28:48.511Z;functions.process_lancamentos;  NUMERO DE REFERENCIAS QUE SERÃO TIRADOS DA REMESSA ['943356']
+08-05-2024 15:28:49.105Z;functions.process_lancamentos;  CLICK EM FECHAR.
+08-05-2024 15:34:07.131Z;functions.remove_send;  CLICA NA PRIMEIRA LINHA DA TABELA
+08-05-2024 15:34:14.235Z;functions.remove_send;  ref_num_atual: 949710
+08-05-2024 15:34:14.235Z;functions.remove_send;  num_de_ref: ['943356']
+08-05-2024 15:34:28.439Z;functions.remove_send;  ref_num_atual: 949715
+08-05-2024 15:34:28.439Z;functions.remove_send;  num_de_ref: ['943356']
+08-05-2024 15:34:42.642Z;functions.remove_send;  ref_num_atual: 949727
+08-05-2024 15:34:42.642Z;functions.remove_send;  num_de_ref: ['943356']
+08-05-2024 15:34:56.847Z;functions.remove_send;  ref_num_atual: 949734
+08-05-2024 15:34:56.847Z;functions.remove_send;  num_de_ref: ['943356']
+08-05-2024 15:35:11.051Z;functions.remove_send;  ref_num_atual: 949752
+08-05-2024 15:35:11.051Z;functions.remove_send;  num_de_ref: ['943356']
+08-05-2024 15:35:25.255Z;functions.remove_send;  ref_num_atual: 949764
+08-05-2024 15:35:25.255Z;functions.remove_send;  num_de_ref: ['943356']
+08-05-2024 15:35:39.458Z;functions.remove_send;  ref_num_atual: 949803
+08-05-2024 15:35:39.458Z;functions.remove_send;  num_de_ref: ['943356']
+08-05-2024 15:35:53.662Z;functions.remove_send;  ref_num_atual: 949828
+08-05-2024 15:35:53.662Z;functions.remove_send;  num_de_ref: ['943356']
+08-05-2024 15:36:07.867Z;functions.remove_send;  ref_num_atual: 949883
+08-05-2024 15:36:07.867Z;functions.remove_send;  num_de_ref: ['943356']
+08-05-2024 15:36:22.072Z;functions.remove_send;  ref_num_atual: 949902
+08-05-2024 15:36:22.072Z;functions.remove_send;  num_de_ref: ['943356']
+08-05-2024 15:36:36.276Z;functions.remove_send;  ref_num_atual: 949975
+08-05-2024 15:36:36.276Z;functions.remove_send;  num_de_ref: ['943356']
+08-05-2024 15:36:50.481Z;functions.remove_send;  ref_num_atual: 943356
+08-05-2024 15:36:50.481Z;functions.remove_send;  num_de_ref: ['943356']
+08-05-2024 15:36:54.584Z;functions.remove_send;  Retirando a referencia: 943356
+08-05-2024 15:36:54.584Z;functions.remove_send;  SAINDO DO REMOVE_SEND E LIMPANDO O VETOR num_de_ref
+08-05-2024 15:36:59.295Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+08-05-2024 15:36:59.999Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+08-05-2024 15:37:00.724Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+08-05-2024 15:37:05.829Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+08-05-2024 15:37:06.506Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+08-05-2024 15:37:07.282Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+08-05-2024 15:37:07.997Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+08-05-2024 15:37:26.052Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:37:28.059Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.
+08-05-2024 15:37:34.992Z;functions.process_lancamentos;  ERRO: Lançamento Ref. 938611: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 944547: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 944553: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 944986: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949247: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949691: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949710: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949715: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949727: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949730: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949734: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949752: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949764: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949803: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949824: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949828: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949874: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949879: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949883: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949902: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 949941: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+08-05-2024 15:37:35.584Z;functions.process_lancamentos;  CLICK EM FECHAR.
+08-05-2024 15:41:52.874Z;functions.proccess_bordero;  SELECIONAR INCLUSÃO DE BORDERO
+08-05-2024 15:42:12.975Z;functions.waitForImage;  PRESS BUTON SIM image not found.
+08-05-2024 15:43:21.709Z;functions.proccess_bordero;  CLICA EM CONVÊNIO TRÊS PONTINHOS
+08-05-2024 15:43:22.886Z;functions.proccess_bordero;  CLICA EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+08-05-2024 15:43:23.647Z;functions.proccess_bordero;  CLICA EM ID DO CONVÊNIO
+08-05-2024 15:43:25.749Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+08-05-2024 15:43:27.851Z;functions.proccess_bordero;  ESCREVE O ID 7
+08-05-2024 15:43:29.952Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 7 - SISPAG FORNECEDOR
+08-05-2024 15:43:32.054Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 7 - SISPAG FORNECEDOR
+08-05-2024 15:43:34.694Z;functions.proccess_bordero;  CLICA EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+08-05-2024 15:43:57.969Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:43:59.970Z;functions.proccess_bordero;  O PROCESSAMENTO DO BORDERO FOI EXECUTADO COM SUCESSO.
+08-05-2024 15:44:02.844Z;functions.proccess_bordero;  COPIA O LOG DO PROCESSAMENTO DO BORDERO
+08-05-2024 15:44:02.844Z;functions.proccess_bordero;  Borderô gerado com sucesso.
+
+08-05-2024 15:44:05.465Z;functions.proccess_bordero;  CLICK EM FECHAR.
+08-05-2024 15:44:07.466Z;functions.process_lancamentos;  PASSAR PARA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 15:48:31.430Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+08-05-2024 15:48:31.569Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-05-2024 15:48:33.680Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-05-2024 15:48:44.257Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+08-05-2024 15:48:44.804Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 15:48:44.835Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+08-05-2024 15:48:49.343Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+08-05-2024 15:48:54.449Z;functions.waitForImage;  FILTER CLEAN image found.
+08-05-2024 15:48:56.592Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+08-05-2024 15:49:11.884Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 15:49:27.170Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 15:49:27.950Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 15:49:28.678Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 15:49:29.903Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+08-05-2024 15:49:31.178Z;functions.movimentacao_bancaria;  HOVER FILTER
+08-05-2024 15:49:31.468Z;functions.movimentacao_bancaria;  CLICK FILTER
+08-05-2024 15:49:35.780Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+08-05-2024 15:49:37.881Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+08-05-2024 15:49:39.986Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+08-05-2024 15:49:42.088Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+08-05-2024 15:49:48.507Z;functions.movimentacao_bancaria;  SELECIONA TODAS AS TUPLAS COM STATUS PENDENTE
+08-05-2024 15:49:50.610Z;functions.movimentacao_bancaria;  CLICA EM PROCESSOS
+08-05-2024 15:49:52.711Z;functions.movimentacao_bancaria;  APERTA PARA BAIXO
+08-05-2024 15:49:54.812Z;functions.movimentacao_bancaria;  APERTA ENTER
+08-05-2024 15:49:57.439Z;functions.movimentacao_bancaria;  CLICK EM EXECUTAR BORDERO DE PAGAMENTO
+08-05-2024 15:50:23.763Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:50:23.763Z;functions.movimentacao_bancaria;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+08-05-2024 15:50:24.373Z;functions.movimentacao_bancaria;  CLICK EM FECHAR.
+08-05-2024 15:50:34.474Z;functions.waitForImage;  FILTER CLEAN image found.
+08-05-2024 15:50:36.593Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+08-05-2024 15:50:51.811Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 15:51:07.074Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 15:51:07.919Z;functions.processo_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 15:51:09.218Z;functions.processo_pagamento;  HOVER FILTER
+08-05-2024 15:51:09.514Z;functions.processo_pagamento;  CLICK FILTER
+08-05-2024 15:51:13.826Z;functions.processo_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+08-05-2024 15:51:15.928Z;functions.processo_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+08-05-2024 15:51:18.034Z;functions.processo_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+08-05-2024 15:51:20.135Z;functions.processo_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+08-05-2024 15:51:26.491Z;functions.processo_pagamento;  6 PASSOS PARA ESQUERDA NA TABELA <<
+08-05-2024 15:51:27.381Z;functions.check_user_bot;  Texto extraido 1/1
+08-05-2024 15:51:27.381Z;functions.check_user_bot;  Count 1
+08-05-2024 15:51:27.381Z;functions.check_user_bot;  Type <class 'int'>
+08-05-2024 15:51:29.493Z;functions.check_user_bot;  CHECK USER BOT 1
+08-05-2024 15:51:31.493Z;functions.check_user_bot;  integracao
+08-05-2024 15:51:34.200Z;functions.check_user_bot;  7 PASSOS PARA DIREITA NA TABELA >>
+08-05-2024 15:51:38.302Z;functions.check_user_bot;  341 / 3212 / 02675 SISPAG FORNECEDOR
+08-05-2024 15:51:38.302Z;functions.check_user_bot;  NOME SISPAG ENCONTRADO
+08-05-2024 15:51:40.506Z;functions.check_user_bot;  CLICA EM PROCESSOS
+08-05-2024 15:51:42.608Z;functions.check_user_bot;  APERTA PARA BAIXO 1
+08-05-2024 15:51:44.710Z;functions.check_user_bot;  APERTA PARA BAIXO 2
+08-05-2024 15:51:46.811Z;functions.check_user_bot;  APERTA PARA BAIXO 3
+08-05-2024 15:51:48.913Z;functions.check_user_bot;  APERTA ENTER
+08-05-2024 15:51:51.538Z;functions.check_user_bot;  CLICA EM REMESSAS DE PAGAMENTO
+08-05-2024 15:52:05.883Z;functions.check_user_bot;  CLICA EM AVANÇAR
+08-05-2024 15:52:06.679Z;functions.check_user_bot;  DESMARCA CHECKBOX PARA SALVAR ARQUIVO DE REMESSA
+08-05-2024 15:52:07.319Z;functions.check_user_bot;  CLICA EM AVANCAR PARA CONCLUIR
+08-05-2024 15:52:08.164Z;functions.check_user_bot;  CLICA EM EXECUTAR
+08-05-2024 15:52:34.138Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:52:36.141Z;functions.check_user_bot;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+08-05-2024 15:52:39.162Z;functions.check_user_bot;  ===========================================================================================================
+LANÇAMENTOS ENVIADOS PARA REMESSA PAGAMENTO
+Coligada: 1
+ID Remessa: 10
+Convênio: 7
+Data: 08/05/2024 15:52:30
+Borderô remetidos: 1
+===========================================================================================================
+Borderô: 1-9198
+
+Lançamentos remetidos no Borderô:
+Lancamento 1-938611
+Lancamento 1-944547
+Lancamento 1-944553
+Lancamento 1-944986
+Lancamento 1-949247
+Lancamento 1-949691
+Lancamento 1-949710
+Lancamento 1-949715
+Lancamento 1-949727
+Lancamento 1-949730
+Lancamento 1-949734
+Lancamento 1-949752
+Lancamento 1-949764
+Lancamento 1-949803
+Lancamento 1-949824
+Lancamento 1-949828
+Lancamento 1-949874
+Lancamento 1-949879
+Lancamento 1-949883
+Lancamento 1-949902
+Lancamento 1-949941
+----------------------------------------------------------------------------------------------------------
+
+
+08-05-2024 15:52:45.368Z;functions.check_user_bot;  ENTER EM FECHAR.
+08-05-2024 15:52:47.369Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 15
+08-05-2024 15:52:47.369Z;functions.obter_intervalo_data;  Data Inicial BANCARIA antes da remoção: None
+08-05-2024 15:52:47.369Z;functions.obter_intervalo_data;  Data Final BANCARIA antes da remoção: None
+08-05-2024 15:52:47.369Z;functions.obter_intervalo_data;  Data Inicial BANCARIA após a remoção: None
+08-05-2024 15:52:47.369Z;functions.obter_intervalo_data;  Data Final BANCARIA após a remoção: None
+08-05-2024 15:52:47.369Z;functions.obter_intervalo_data;  hoje -  2024-05-08 15:52:47.369466
+08-05-2024 15:52:47.369Z;functions.rename_arq;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+08-05-2024 15:52:47.369Z;functions.rename_arq;  QUARTA-FEIRA: 15-05-2024
+08-05-2024 15:52:47.369Z;functions.rename_arq;  TERCA-FEIRA: 21-05-2024
+08-05-2024 15:52:47.507Z;functions.rename_arq;  A PRÓXIMA LETRA SERÁ: D
+08-05-2024 15:52:47.507Z;functions.rename_arq;  NOME ARQUIVO: B152124D.txt
+08-05-2024 15:52:47.523Z;functions.rename_arq;  Arquivo renomeado com sucesso para B152124D.txt
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:1: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:108: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br>        /* ------------------------------------- GLOBAL RESETS ------------------------------------- */<br>        img 
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            border: none;'. [1:125: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            -ms-interpolation-mode: bicubic;'. [1:154: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            max-width: 100%;'. [1:202: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:234: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:247: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:251: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        body 
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            background-color: #f6f6f6;'. [1:269: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-family: sans-serif;'. [1:311: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            -webkit-font-smoothing: antialiased;'. [1:351: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-size: 14px;'. [1:403: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            line-height: 1.4;'. [1:435: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin: 0;'. [1:468: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            padding: 0;'. [1:494: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            -ms-text-size-adjust: 100%;'. [1:521: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            -webkit-text-size-adjust: 100%;'. [1:564: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:611: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:624: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:628: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        table 
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            border-collapse: separate;'. [1:647: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            mso-table-lspace: 0pt;'. [1:689: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            mso-table-rspace: 0pt;'. [1:727: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            width: 100%;'. [1:765: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:793: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:806: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:810: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        table td 
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-family: sans-serif;'. [1:832: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-size: 14px;'. [1:872: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            vertical-align: top;'. [1:904: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:940: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:953: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:957: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:1067: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        /* ------------------------------------- BODY & CONTAINER ------------------------------------- */<br>        .body 
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            background-color: #f6f6f6;'. [1:1086: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            width: 100%;'. [1:1128: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:1156: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:1169: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:1173: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .container 
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            display: block;'. [1:1197: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin: 0 auto !'. [1:1228: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Property: No ":" after name found: important [1:1260: important]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Property: No property value found: important [1:1260: important]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: important
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            /* makes it centered */<br>            max-width: 580px;'. [1:1270: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            padding: 10px;'. [1:1342: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            width: 580px;'. [1:1372: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:1401: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:1414: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:1418: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .content 
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            box-sizing: border-box;'. [1:1440: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            display: block;'. [1:1479: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin: 0 auto;'. [1:1510: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            max-width: 580px;'. [1:1541: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            padding: 10px;'. [1:1574: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:1604: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:1617: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:1621: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:1735: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        /* ------------------------------------- HEADER, FOOTER, MAIN ------------------------------------- */<br>        .main 
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            background: #ffffff;'. [1:1754: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            border-radius: 3px;'. [1:1790: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            width: 100%;'. [1:1825: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:1853: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:1866: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:1870: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .wrapper 
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            box-sizing: border-box;'. [1:1892: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            padding: 20px;'. [1:1931: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:1961: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:1974: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:1978: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .content-block 
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            padding-bottom: 10px;'. [1:2006: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            padding-top: 10px;'. [1:2043: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:2077: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2090: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2094: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .footer 
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            clear: both;'. [1:2115: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin-top: 10px;'. [1:2143: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            text-align: center;'. [1:2176: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            width: 100%;'. [1:2211: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:2239: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2252: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2256: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .footer td
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2279: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br>        .footer p
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2301: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br>        .footer span
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2326: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br>        .footer a 
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            color: #999999;'. [1:2349: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-size: 12px;'. [1:2380: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            text-align: center;'. [1:2412: <]
+08-05-2024 15:52:49.179Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:2447: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2460: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2464: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2568: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        /* ------------------------------------- TYPOGRAPHY ------------------------------------- */<br>        h1
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2583: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br>        h2
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2598: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br>        h3
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2613: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br>        h4 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            color: #000000;'. [1:2629: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-family: sans-serif;'. [1:2660: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-weight: 400;'. [1:2700: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            line-height: 1.4;'. [1:2733: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin: 0;'. [1:2766: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin-bottom: 30px;'. [1:2792: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:2828: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2841: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:2845: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        h1 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-size: 35px;'. [1:2861: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-weight: 300;'. [1:2893: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            text-align: center;'. [1:2926: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            text-transform: capitalize;'. [1:2961: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:3004: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3017: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3021: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        p
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3035: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br>        ul
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3050: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br>        ol 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-family: sans-serif;'. [1:3066: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-size: 14px;'. [1:3106: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-weight: normal;'. [1:3138: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin: 0;'. [1:3174: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin-bottom: 15px;'. [1:3200: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:3236: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3249: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3253: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        p li
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3270: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br>        ul li
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3288: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br>        ol li 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            list-style-position: inside;'. [1:3307: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin-left: 5px;'. [1:3351: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:3384: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3397: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3401: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        a 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            color: #3498db;'. [1:3416: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            text-decoration: underline;'. [1:3447: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:3490: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3503: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3507: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3608: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        /* ------------------------------------- BUTTONS ------------------------------------- */<br>        .btn 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            box-sizing: border-box;'. [1:3626: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            width: 100%;'. [1:3665: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:3693: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3706: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3710: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .btn>tbody>tr>td 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            padding-bottom: 15px;'. [1:3740: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:3777: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3790: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3794: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .btn table 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            width: auto;'. [1:3818: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:3846: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3859: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:3863: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .btn table td 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            background-color: #ffffff;'. [1:3890: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            border-radius: 5px;'. [1:3932: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            text-align: center;'. [1:3967: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:4002: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:4015: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:4019: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .btn a 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            background-color: #ffffff;'. [1:4039: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            border: solid 1px #3498db;'. [1:4081: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            border-radius: 5px;'. [1:4123: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            box-sizing: border-box;'. [1:4158: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            color: #3498db;'. [1:4197: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            cursor: pointer;'. [1:4228: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            display: inline-block;'. [1:4260: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-size: 14px;'. [1:4298: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            font-weight: bold;'. [1:4330: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin: 0;'. [1:4364: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            padding: 12px 25px;'. [1:4390: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            text-decoration: none;'. [1:4425: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            text-transform: capitalize;'. [1:4463: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:4506: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:4519: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:4523: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .btn-primary table td 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            background-color: #3498db;'. [1:4558: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:4600: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:4613: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:4617: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .btn-primary a 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            background-color: #3498db;'. [1:4645: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            border-color: #3498db;'. [1:4687: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            color: #ffffff;'. [1:4725: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:4756: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:4769: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:4773: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:4900: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        /* ------------------------------------- OTHER STYLES THAT MIGHT BE USEFUL ------------------------------------- */<br>        .last 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin-bottom: 0;'. [1:4919: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:4952: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:4965: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:4969: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .first 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin-top: 0;'. [1:4989: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:5019: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5032: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5036: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .align-center 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            text-align: center;'. [1:5063: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:5098: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5111: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5115: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .align-right 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            text-align: right;'. [1:5141: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:5175: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5188: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5192: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .align-left 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            text-align: left;'. [1:5217: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:5250: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5263: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5267: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .clear 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            clear: both;'. [1:5287: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:5315: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5328: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5332: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .mt0 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin-top: 0;'. [1:5350: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:5380: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5393: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5397: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .mb0 
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin-bottom: 0;'. [1:5415: <]
+08-05-2024 15:52:49.195Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:5448: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5461: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5465: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .preheader 
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            color: transparent;'. [1:5489: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            display: none;'. [1:5524: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            height: 0;'. [1:5554: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            max-height: 0;'. [1:5580: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            max-width: 0;'. [1:5610: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            opacity: 0;'. [1:5639: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            overflow: hidden;'. [1:5666: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            mso-hide: all;'. [1:5699: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            visibility: hidden;'. [1:5729: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            width: 0;'. [1:5764: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:5789: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5802: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5806: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        .powered-by a 
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            text-decoration: none;'. [1:5833: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:5871: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5884: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:5888: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        hr 
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            border: 0;'. [1:5904: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            border-bottom: 1px solid #f6f6f6;'. [1:5930: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            margin: 20px 0;'. [1:5979: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>        '. [1:6010: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:6023: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:6027: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:6158: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Unexpected token (MEDIA_SYM, @media, 1, 6170)
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:6193: (]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:6203: :]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected DIMENSION. [1:6205: 620px]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:6210: )]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        /* ------------------------------------- RESPONSIVE AND MOBILE FRIENDLY STYLES ------------------------------------- */<br>        @media only screen and (max-width: 620px) 
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            table.body h1 {<br>                font-size: 28px !important;<br>                margin-bottom: 10px !important;<br>            }<br><br>            table.body p,<br>            table.body ul,<br>            table.body ol,<br>            table.body td,<br>            table.body span,<br>            table.body a {<br>                font-size: 16px !important;<br>            }<br><br>            table.body .wrapper,<br>            table.body .article {<br>                padding: 10px !important;<br>            }<br><br>            table.body .content {<br>                padding: 0 !important;<br>            }<br><br>            table.body .container {<br>                padding: 0 !important;<br>                width: 100% !important;<br>            }<br><br>            table.body .main {<br>                border-left-width: 0 !important;<br>                border-radius: 0 !important;<br>                border-right-width: 0 !important;<br>            }<br><br>            table.body .btn table {<br>                width: 100% !important;<br>            }<br><br>            table.body .btn a {<br>                width: 100% !important;<br>            }<br><br>            table.body .img-responsive {<br>                height: auto !important;<br>                max-width: 100% !important;<br>                width: auto !important;<br>            }<br>        '. [1:6213: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:7614: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:7618: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:7745: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Unexpected token (MEDIA_SYM, @media, 1, 7757)
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br><br>        /* ------------------------------------- PRESERVE THESE STYLES IN THE HEAD ------------------------------------- */<br>        @media all 
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '<br>            .ExternalClass {<br>                width: 100%;<br>            }<br><br>            .ExternalClass,<br>            .ExternalClass p,<br>            .ExternalClass span,<br>            .ExternalClass font,<br>            .ExternalClass td,<br>            .ExternalClass div {<br>                line-height: 100%;<br>            }<br><br>            .apple-link a {<br>                color: inherit !important;<br>                font-family: inherit !important;<br>                font-size: inherit !important;<br>                font-weight: inherit !important;<br>                line-height: inherit !important;<br>                text-decoration: none !important;<br>            }<br><br>            #MessageViewBody a {<br>                color: inherit;<br>                text-decoration: none;<br>                font-size: inherit;<br>                font-family: inherit;<br>                font-weight: inherit;<br>                line-height: inherit;<br>            }<br><br>            .btn-primary table td:hover {<br>                background-color: #34495e !important;<br>            }<br><br>            .btn-primary a:hover {<br>                background-color: #34495e !important;<br>                border-color: #34495e !important;<br>            }<br>        '. [1:7769: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleRule: No start { of style declaration found: '<br>    ' [1:9081: ]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Unexpected CHAR. [1:9073: <]
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  Selector: Cannot end with combinator: <br>    
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  SelectorList: Invalid Selector: <br>    
+08-05-2024 15:52:49.210Z;errorhandler.__handle;  CSSStyleRule: No style declaration or "}" found: '<br>    '
+08-05-2024 15:52:51.366Z;functions.emailSuccess;  Success e-mail sent.
+08-05-2024 15:52:52.472Z;functions.processo_pagamento;  FECHA ABA MOVIMENTAÇÕES BANCÁRIAS
+08-05-2024 15:52:53.118Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+08-05-2024 15:52:54.102Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+08-05-2024 15:52:54.788Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+08-05-2024 15:52:59.772Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+08-05-2024 15:52:59.923Z;functions.waitForImage;  LANÇAMENTOS image found.
+08-05-2024 15:53:02.049Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+08-05-2024 15:53:17.507Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+08-05-2024 15:53:17.507Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 15
+08-05-2024 15:53:17.507Z;functions.obter_intervalo_data;  Data Inicial BANCARIA antes da remoção: None
+08-05-2024 15:53:17.507Z;functions.obter_intervalo_data;  Data Final BANCARIA antes da remoção: None
+08-05-2024 15:53:17.507Z;functions.obter_intervalo_data;  Data Inicial BANCARIA após a remoção: None
+08-05-2024 15:53:17.507Z;functions.obter_intervalo_data;  Data Final BANCARIA após a remoção: None
+08-05-2024 15:53:17.507Z;functions.obter_intervalo_data;  hoje -  2024-05-08 15:53:17.507870
+08-05-2024 15:53:17.507Z;functions.data_filter;  DATA INICIO 15-05-2024
+08-05-2024 15:53:17.507Z;functions.data_filter;  DATA FIM 21-05-2024
+08-05-2024 15:53:17.507Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+08-05-2024 15:53:17.507Z;functions.data_filter;  QUARTA-FEIRA: 15-05-2024
+08-05-2024 15:53:17.523Z;functions.data_filter;  TERCA-FEIRA: 21-05-2024
+08-05-2024 15:53:25.976Z;functions.data_filter;  CLICK - BOTAO DE SELECAO DE FILTRO
+08-05-2024 15:53:29.710Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 15-05-2024
+08-05-2024 15:53:33.209Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 21-05-2024
+08-05-2024 15:53:33.847Z;functions.data_filter;  CLICK - BOTAO DE EXECUTAR O FILTRO
+08-05-2024 15:57:04.711Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+08-05-2024 15:57:05.539Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+08-05-2024 15:57:06.387Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+08-05-2024 15:57:07.273Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+08-05-2024 15:57:08.205Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+08-05-2024 15:57:13.306Z;functions.waitForImage;  FILTER CLEAN image found.
+08-05-2024 15:57:15.407Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+08-05-2024 15:57:30.476Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 15:57:45.593Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 15:57:46.281Z;functions.filter_forma_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA
+08-05-2024 15:57:46.359Z;functions.filter_forma_pagamento;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+08-05-2024 15:58:02.513Z;functions.filter_forma_pagamento;  160 PASSOS PARA DIREITA NA TABELA >>
+08-05-2024 15:58:04.852Z;functions.filter_forma_pagamento;  HOVER NOME DA COLUNA FORMA DE PAGAMENTO
+08-05-2024 15:58:05.473Z;functions.filter_forma_pagamento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+08-05-2024 15:58:08.786Z;functions.filter_forma_pagamento;  CLICA NO FILTRO PERSONALIZAR
+08-05-2024 15:58:19.149Z;functions.filter_forma_pagamento;  Texto extraido 1/2
+08-05-2024 15:58:19.149Z;functions.filter_forma_pagamento;  Count 2
+08-05-2024 15:58:19.149Z;functions.filter_forma_pagamento;  Type <class 'int'>
+08-05-2024 15:58:19.149Z;functions.filter_forma_pagamento;  TABELA CONTÉM REGISTROS
+08-05-2024 15:58:20.679Z;functions.filter_forma_pagamento;  MOVIDO PRA CIMA 2 VEZES
+08-05-2024 15:58:23.574Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+08-05-2024 15:58:24.508Z;functions.check_table_record;  Texto extraido 1/2
+08-05-2024 15:58:24.508Z;functions.check_table_record;  Count 2
+08-05-2024 15:58:24.508Z;functions.check_table_record;  Type <class 'int'>
+08-05-2024 15:58:24.508Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+08-05-2024 15:58:24.508Z;functions.check_ted_cip;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+08-05-2024 15:58:25.508Z;functions.check_ted_cip;  CLICA NA PRIMEIRA LINHA DA TABELA
+08-05-2024 15:58:25.508Z;functions.check_ted_cip;  rows_int check_ted_cip(): 2
+08-05-2024 15:58:34.713Z;functions.check_ted_cip;  0 PASSOS PARA DIREITA >>
+08-05-2024 15:58:34.814Z;functions.check_ted_cip;  1 PASSOS PARA DIREITA >>
+08-05-2024 15:58:34.915Z;functions.check_ted_cip;  2 PASSOS PARA DIREITA >>
+08-05-2024 15:58:44.018Z;functions.check_ted_cip;  REFERENCIA LANÇAMENTO: 949888
+08-05-2024 15:58:44.018Z;functions.check_ted_cip;  CLIENTE: 006530
+08-05-2024 15:58:44.119Z;functions.check_ted_cip;  3 PASSOS PARA ESQUERDA <<
+08-05-2024 15:58:44.221Z;functions.check_ted_cip;  3 PASSOS PARA ESQUERDA <<
+08-05-2024 15:58:44.322Z;functions.check_ted_cip;  3 PASSOS PARA ESQUERDA <<
+08-05-2024 15:58:46.323Z;functions.check_ted_cip;  CLIENTE CONTIDO NA LISTA A REFERENCIA: 949888 NÃO SERÁ MODIFICADO PARA PIX
+08-05-2024 15:58:46.323Z;functions.check_ted_cip;  VERIFICANDO OS DADOS DE TED CIP
+08-05-2024 15:58:51.425Z;functions.check_ted_cip;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:58:51.525Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:58:53.656Z;functions.check_ted_cip;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:58:55.751Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:58:55.883Z;functions.check_ted_cip;  CLICK EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:59:00.884Z;functions.check_ted_cip;  ENTROU DADOS BANCÁRIOS
+08-05-2024 15:59:00.985Z;functions.check_ted_cip;  APERTA TAB
+08-05-2024 15:59:03.087Z;functions.check_ted_cip;  CTRL C
+08-05-2024 15:59:09.288Z;functions.waitForImage;  FORMA DE PAGAMENTO TED CIP image found.
+08-05-2024 15:59:11.302Z;functions.check_ted_cip;  FORMA DE PAGAMENTO TED CIP
+08-05-2024 15:59:11.396Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:59:13.517Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:59:15.612Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 15:59:17.741Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 15:59:19.743Z;functions.check_ted_cip;  INSERINDO A REFERENCIA: 949888 DO PROCESSAMENTO TED CIP
+08-05-2024 15:59:21.947Z;functions.check_ted_cip;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 15:59:33.150Z;functions.check_ted_cip;  0 PASSOS PARA DIREITA >>
+08-05-2024 15:59:33.252Z;functions.check_ted_cip;  1 PASSOS PARA DIREITA >>
+08-05-2024 15:59:33.353Z;functions.check_ted_cip;  2 PASSOS PARA DIREITA >>
+08-05-2024 15:59:42.456Z;functions.check_ted_cip;  REFERENCIA LANÇAMENTO: 950007
+08-05-2024 15:59:42.456Z;functions.check_ted_cip;  CLIENTE: 013891
+08-05-2024 15:59:42.557Z;functions.check_ted_cip;  3 PASSOS PARA ESQUERDA <<
+08-05-2024 15:59:42.658Z;functions.check_ted_cip;  3 PASSOS PARA ESQUERDA <<
+08-05-2024 15:59:42.760Z;functions.check_ted_cip;  3 PASSOS PARA ESQUERDA <<
+08-05-2024 15:59:44.760Z;functions.check_ted_cip;  CLIENTE NÃO CONTIDO NA LISTA O LANÇAMENTO SERÁ MODIFICADO PARA PIX
+08-05-2024 15:59:49.972Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 15:59:52.092Z;functions.check_ted_cip;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 15:59:52.092Z;functions.check_ted_cip;  VERIFICANDO INFORMAÇÕES
+08-05-2024 15:59:57.186Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 15:59:57.319Z;functions.check_ted_cip;  CLICK EM DADOS BANCARIOS
+08-05-2024 16:00:02.320Z;functions.check_ted_cip;  ENTROU DADOS BANCÁRIOS
+08-05-2024 16:00:02.421Z;functions.check_ted_cip;  APERTA TAB
+08-05-2024 16:00:04.523Z;functions.check_ted_cip;  CLICOU ctrl+c
+08-05-2024 16:00:05.628Z;functions.check_ted_cip;  DIGITOU PIX
+08-05-2024 16:00:06.030Z;functions.check_ted_cip;  TAB CLICADO 0
+08-05-2024 16:00:06.431Z;functions.check_ted_cip;  TAB CLICADO 1
+08-05-2024 16:00:06.832Z;functions.check_ted_cip;  TAB CLICADO 2
+08-05-2024 16:00:07.234Z;functions.check_ted_cip;  TAB CLICADO 3
+08-05-2024 16:00:07.635Z;functions.check_ted_cip;  DOWN CLIACADO 0
+08-05-2024 16:00:08.037Z;functions.check_ted_cip;  DOWN CLIACADO 1
+08-05-2024 16:00:08.438Z;functions.check_ted_cip;  DOWN CLIACADO 2
+08-05-2024 16:00:08.840Z;functions.check_ted_cip;  DOWN CLIACADO 3
+08-05-2024 16:00:09.241Z;functions.check_ted_cip;  DOWN CLIACADO 4
+08-05-2024 16:00:09.642Z;functions.check_ted_cip;  DOWN CLIACADO 5
+08-05-2024 16:00:10.044Z;functions.check_ted_cip;  DOWN CLIACADO 6
+08-05-2024 16:00:10.445Z;functions.check_ted_cip;  DOWN CLIACADO 7
+08-05-2024 16:00:10.846Z;functions.check_ted_cip;  DOWN CLIACADO 8
+08-05-2024 16:00:11.247Z;functions.check_ted_cip;  DOWN CLIACADO 9
+08-05-2024 16:00:11.649Z;functions.check_ted_cip;  DOWN CLIACADO 10
+08-05-2024 16:00:12.050Z;functions.check_ted_cip;  DOWN CLIACADO 11
+08-05-2024 16:00:12.451Z;functions.check_ted_cip;  DOWN CLIACADO 12
+08-05-2024 16:00:12.852Z;functions.check_ted_cip;  DOWN CLIACADO 13
+08-05-2024 16:00:13.254Z;functions.check_ted_cip;  DOWN CLIACADO 14
+08-05-2024 16:00:13.655Z;functions.check_ted_cip;  DOWN CLIACADO 15
+08-05-2024 16:00:14.057Z;functions.check_ted_cip;  DOWN CLIACADO 16
+08-05-2024 16:00:14.458Z;functions.check_ted_cip;  DOWN CLIACADO 17
+08-05-2024 16:00:14.859Z;functions.check_ted_cip;  DOWN CLIACADO 18
+08-05-2024 16:00:15.260Z;functions.check_ted_cip;  DOWN CLIACADO 19
+08-05-2024 16:00:15.662Z;functions.check_ted_cip;  DOWN CLIACADO 20
+08-05-2024 16:00:18.158Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:00:20.276Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:00:22.370Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:00:24.493Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:00:28.505Z;functions.check_ted_cip;  RETIRANDO A REFERENCIA: 950007 DO PROCESSAMENTO TED CIP TRANSFORMANDO PARA PIX
+08-05-2024 16:00:32.607Z;functions.check_ted_cip;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:00:41.320Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+08-05-2024 16:00:42.005Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+08-05-2024 16:00:42.759Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+08-05-2024 16:00:47.863Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+08-05-2024 16:00:48.540Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+08-05-2024 16:00:49.290Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+08-05-2024 16:00:49.994Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+08-05-2024 16:01:07.774Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:01:09.777Z;functions.process_lancamentos;  O PROCESSAMENTO FOI EXECUTADO COM SUCESSO.
+08-05-2024 16:01:16.698Z;functions.process_lancamentos;  ERRO: Lançamento Ref. 949888: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+08-05-2024 16:01:17.308Z;functions.process_lancamentos;  CLICK EM FECHAR.
+08-05-2024 16:05:08.155Z;functions.proccess_bordero;  SELECIONAR INCLUSÃO DE BORDERO
+08-05-2024 16:05:28.675Z;functions.waitForImage;  PRESS BUTON SIM image not found.
+08-05-2024 16:06:34.260Z;functions.proccess_bordero;  CLICA EM CONVÊNIO TRÊS PONTINHOS
+08-05-2024 16:06:35.331Z;functions.proccess_bordero;  CLICA EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+08-05-2024 16:06:36.135Z;functions.proccess_bordero;  CLICA EM ID DO CONVÊNIO
+08-05-2024 16:06:38.238Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+08-05-2024 16:06:40.340Z;functions.proccess_bordero;  ESCREVE O ID 7
+08-05-2024 16:06:42.441Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 7 - SISPAG FORNECEDOR
+08-05-2024 16:06:44.542Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 7 - SISPAG FORNECEDOR
+08-05-2024 16:06:47.173Z;functions.proccess_bordero;  CLICA EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+08-05-2024 16:07:10.348Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:07:12.355Z;functions.proccess_bordero;  O PROCESSAMENTO DO BORDERO FOI EXECUTADO COM SUCESSO.
+08-05-2024 16:07:15.166Z;functions.proccess_bordero;  COPIA O LOG DO PROCESSAMENTO DO BORDERO
+08-05-2024 16:07:15.166Z;functions.proccess_bordero;  Borderô gerado com sucesso.
+
+08-05-2024 16:07:17.791Z;functions.proccess_bordero;  CLICK EM FECHAR.
+08-05-2024 16:10:23.698Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+08-05-2024 16:10:23.815Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-05-2024 16:10:25.930Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-05-2024 16:10:36.340Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+08-05-2024 16:10:36.900Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 16:10:36.932Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+08-05-2024 16:10:41.440Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+08-05-2024 16:10:46.541Z;functions.waitForImage;  FILTER CLEAN image found.
+08-05-2024 16:10:48.666Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+08-05-2024 16:11:03.782Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 16:11:18.874Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 16:11:19.650Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 16:11:20.388Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 16:11:21.604Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+08-05-2024 16:11:22.884Z;functions.movimentacao_bancaria;  HOVER FILTER
+08-05-2024 16:11:23.177Z;functions.movimentacao_bancaria;  CLICK FILTER
+08-05-2024 16:11:27.489Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+08-05-2024 16:11:29.591Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+08-05-2024 16:11:31.696Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+08-05-2024 16:11:33.798Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+08-05-2024 16:11:40.229Z;functions.movimentacao_bancaria;  SELECIONA TODAS AS TUPLAS COM STATUS PENDENTE
+08-05-2024 16:11:42.332Z;functions.movimentacao_bancaria;  CLICA EM PROCESSOS
+08-05-2024 16:11:44.434Z;functions.movimentacao_bancaria;  APERTA PARA BAIXO
+08-05-2024 16:11:46.536Z;functions.movimentacao_bancaria;  APERTA ENTER
+08-05-2024 16:11:49.177Z;functions.movimentacao_bancaria;  CLICK EM EXECUTAR BORDERO DE PAGAMENTO
+08-05-2024 16:12:00.620Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:12:00.620Z;functions.movimentacao_bancaria;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+08-05-2024 16:12:01.229Z;functions.movimentacao_bancaria;  CLICK EM FECHAR.
+08-05-2024 16:12:11.325Z;functions.waitForImage;  FILTER CLEAN image found.
+08-05-2024 16:12:13.455Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+08-05-2024 16:12:28.572Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 16:12:43.698Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 16:12:44.558Z;functions.processo_pagamento;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 16:12:45.901Z;functions.processo_pagamento;  HOVER FILTER
+08-05-2024 16:12:46.204Z;functions.processo_pagamento;  CLICK FILTER
+08-05-2024 16:12:50.517Z;functions.processo_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+08-05-2024 16:12:52.619Z;functions.processo_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+08-05-2024 16:12:54.725Z;functions.processo_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+08-05-2024 16:12:56.827Z;functions.processo_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+08-05-2024 16:13:03.196Z;functions.processo_pagamento;  6 PASSOS PARA ESQUERDA NA TABELA <<
+08-05-2024 16:13:04.122Z;functions.check_user_bot;  Texto extraido 1/1
+08-05-2024 16:13:04.122Z;functions.check_user_bot;  Count 1
+08-05-2024 16:13:04.122Z;functions.check_user_bot;  Type <class 'int'>
+08-05-2024 16:13:06.235Z;functions.check_user_bot;  CHECK USER BOT 1
+08-05-2024 16:13:08.236Z;functions.check_user_bot;  integracao
+08-05-2024 16:13:10.943Z;functions.check_user_bot;  7 PASSOS PARA DIREITA NA TABELA >>
+08-05-2024 16:13:15.045Z;functions.check_user_bot;  341 / 3212 / 02675 SISPAG FORNECEDOR
+08-05-2024 16:13:15.045Z;functions.check_user_bot;  NOME SISPAG ENCONTRADO
+08-05-2024 16:13:17.248Z;functions.check_user_bot;  CLICA EM PROCESSOS
+08-05-2024 16:13:19.350Z;functions.check_user_bot;  APERTA PARA BAIXO 1
+08-05-2024 16:13:21.451Z;functions.check_user_bot;  APERTA PARA BAIXO 2
+08-05-2024 16:13:23.553Z;functions.check_user_bot;  APERTA PARA BAIXO 3
+08-05-2024 16:13:25.654Z;functions.check_user_bot;  APERTA ENTER
+08-05-2024 16:13:28.292Z;functions.check_user_bot;  CLICA EM REMESSAS DE PAGAMENTO
+08-05-2024 16:13:42.636Z;functions.check_user_bot;  CLICA EM AVANÇAR
+08-05-2024 16:13:43.385Z;functions.check_user_bot;  DESMARCA CHECKBOX PARA SALVAR ARQUIVO DE REMESSA
+08-05-2024 16:13:44.042Z;functions.check_user_bot;  CLICA EM AVANCAR PARA CONCLUIR
+08-05-2024 16:13:44.823Z;functions.check_user_bot;  CLICA EM EXECUTAR
+08-05-2024 16:14:07.590Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:14:09.591Z;functions.check_user_bot;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+08-05-2024 16:14:12.613Z;functions.check_user_bot;  ===========================================================================================================
+LANÇAMENTOS ENVIADOS PARA REMESSA PAGAMENTO
+Coligada: 1
+ID Remessa: 10
+Convênio: 7
+Data: 08/05/2024 16:14:05
+Borderô remetidos: 1
+===========================================================================================================
+Borderô: 1-9199
+
+Lançamentos remetidos no Borderô:
+Lancamento 1-949888
+----------------------------------------------------------------------------------------------------------
+
+
+08-05-2024 16:14:18.826Z;functions.check_user_bot;  ENTER EM FECHAR.
+08-05-2024 16:14:20.826Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 16
+08-05-2024 16:14:20.826Z;functions.obter_intervalo_data;  Data Inicial BANCARIA antes da remoção: None
+08-05-2024 16:14:20.826Z;functions.obter_intervalo_data;  Data Final BANCARIA antes da remoção: None
+08-05-2024 16:14:20.826Z;functions.obter_intervalo_data;  Data Inicial BANCARIA após a remoção: None
+08-05-2024 16:14:20.826Z;functions.obter_intervalo_data;  Data Final BANCARIA após a remoção: None
+08-05-2024 16:14:20.826Z;functions.obter_intervalo_data;  hoje -  2024-05-08 16:14:20.826767
+08-05-2024 16:14:20.826Z;functions.rename_arq;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+08-05-2024 16:14:20.826Z;functions.rename_arq;  QUARTA-FEIRA: 15-05-2024
+08-05-2024 16:14:20.826Z;functions.rename_arq;  TERCA-FEIRA: 21-05-2024
+08-05-2024 16:14:20.826Z;functions.rename_arq;  A PRÓXIMA LETRA SERÁ: E
+08-05-2024 16:14:20.826Z;functions.rename_arq;  NOME ARQUIVO: B152124E.txt
+08-05-2024 16:14:20.842Z;functions.rename_arq;  Arquivo renomeado com sucesso para B152124E.txt
+08-05-2024 16:14:23.995Z;functions.emailSuccess;  Success e-mail sent.
+08-05-2024 16:14:25.100Z;functions.processo_pagamento;  FECHA ABA MOVIMENTAÇÕES BANCÁRIAS
+08-05-2024 16:14:25.729Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+08-05-2024 16:14:26.698Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+08-05-2024 16:14:27.392Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+08-05-2024 16:14:32.473Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+08-05-2024 16:14:32.563Z;functions.waitForImage;  LANÇAMENTOS image found.
+08-05-2024 16:14:34.687Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+08-05-2024 16:14:50.052Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+08-05-2024 16:14:50.052Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 16
+08-05-2024 16:14:50.052Z;functions.obter_intervalo_data;  Data Inicial BANCARIA antes da remoção: None
+08-05-2024 16:14:50.052Z;functions.obter_intervalo_data;  Data Final BANCARIA antes da remoção: None
+08-05-2024 16:14:50.052Z;functions.obter_intervalo_data;  Data Inicial BANCARIA após a remoção: None
+08-05-2024 16:14:50.052Z;functions.obter_intervalo_data;  Data Final BANCARIA após a remoção: None
+08-05-2024 16:14:50.052Z;functions.obter_intervalo_data;  hoje -  2024-05-08 16:14:50.052023
+08-05-2024 16:14:50.052Z;functions.data_filter;  DATA INICIO 15-05-2024
+08-05-2024 16:14:50.052Z;functions.data_filter;  DATA FIM 21-05-2024
+08-05-2024 16:14:50.052Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+08-05-2024 16:14:50.052Z;functions.data_filter;  QUARTA-FEIRA: 15-05-2024
+08-05-2024 16:14:50.052Z;functions.data_filter;  TERCA-FEIRA: 21-05-2024
+08-05-2024 16:14:58.545Z;functions.data_filter;  CLICK - BOTAO DE SELECAO DE FILTRO
+08-05-2024 16:15:02.296Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 15-05-2024
+08-05-2024 16:15:05.808Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 21-05-2024
+08-05-2024 16:15:06.433Z;functions.data_filter;  CLICK - BOTAO DE EXECUTAR O FILTRO
+08-05-2024 16:18:19.278Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+08-05-2024 16:18:20.089Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+08-05-2024 16:18:20.949Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+08-05-2024 16:18:21.855Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+08-05-2024 16:18:22.777Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+08-05-2024 16:18:27.884Z;functions.waitForImage;  FILTER CLEAN image found.
+08-05-2024 16:18:29.986Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+08-05-2024 16:18:45.146Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 16:19:00.245Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 16:19:01.027Z;functions.filter_forma_pagamento_branco;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+08-05-2024 16:19:17.173Z;functions.filter_forma_pagamento_branco;  160 PASSOS PARA DIREITA NA TABELA >>
+08-05-2024 16:19:19.590Z;functions.filter_forma_pagamento_branco;  HOVER NOME DA COLUNA FORMA DE PAGAMENTO
+08-05-2024 16:19:20.254Z;functions.filter_forma_pagamento_branco;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+08-05-2024 16:19:23.566Z;functions.filter_forma_pagamento_branco;  CLICA NO FILTRO PERSONALIZAR
+08-05-2024 16:19:30.074Z;functions.filter_forma_pagamento_branco;  Texto extraido 50/223
+08-05-2024 16:19:30.074Z;functions.filter_forma_pagamento_branco;  Count 223
+08-05-2024 16:19:30.074Z;functions.filter_forma_pagamento_branco;  Type <class 'int'>
+08-05-2024 16:19:30.074Z;functions.filter_forma_pagamento_branco;  TABELA CONTÉM REGISTROS
+08-05-2024 16:20:16.622Z;functions.filter_forma_pagamento_branco;  MOVIDO PRA CIMA 223 VEZES
+08-05-2024 16:20:19.536Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+08-05-2024 16:20:20.513Z;functions.check_table_record;  Texto extraido 1/223
+08-05-2024 16:20:20.513Z;functions.check_table_record;  Count 223
+08-05-2024 16:20:20.513Z;functions.check_table_record;  Type <class 'int'>
+08-05-2024 16:20:20.513Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+08-05-2024 16:20:20.513Z;functions.check_ted_branco;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+08-05-2024 16:20:21.309Z;functions.check_ted_branco;  CLICA NA PRIMEIRA LINHA DA TABELA
+08-05-2024 16:20:25.412Z;functions.check_ted_branco;  REFERNCIA: 949235
+08-05-2024 16:20:25.713Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:20:28.924Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:20:29.056Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:20:29.056Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:20:29.186Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:20:39.701Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:20:50.032Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image not found.
+08-05-2024 16:20:50.032Z;functions.check_ted_branco;  PIX ENCONTRADO
+08-05-2024 16:20:53.443Z;functions.check_ted_branco;  APERTA TAB
+08-05-2024 16:20:55.543Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 16:20:55.661Z;functions.check_ted_branco;  CLICK EM DADOS BANCARIOS
+08-05-2024 16:20:55.762Z;functions.check_ted_branco;  APERTA TAB
+08-05-2024 16:20:56.977Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:20:58.982Z;functions.check_ted_branco;  FORMA DE PAGAMENTO PIX SELECIONADA PARA O REGISTRO: 949235
+08-05-2024 16:20:59.075Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:21:01.205Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:21:03.206Z;functions.check_ted_branco;  PRIMEIRO OK
+08-05-2024 16:21:03.311Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:21:05.429Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:21:17.772Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:21:22.789Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:21:26.904Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:21:31.007Z;functions.check_ted_branco;  REFERNCIA: ---------------------------
+RM
+---------------------------
+O registro foi cadastrado com sucesso, entretanto, o mesmo não atende as condições do filtro aplicado na visão. Para visualizá-lo utilize um filtro que retorne os dados do registro.
+---------------------------
+OK   
+---------------------------
+
+08-05-2024 16:21:31.308Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:22:04.496Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image not found.
+08-05-2024 16:22:04.496Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:22:34.662Z;functions.waitForImage;  TRES PONTINHOS image not found.
+08-05-2024 16:22:34.662Z;functions.check_ted_branco;  SEM FILTRO PIX
+08-05-2024 16:22:44.982Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+08-05-2024 16:22:55.278Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+08-05-2024 16:23:05.595Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:23:11.181Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:23:15.298Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:23:19.400Z;functions.check_ted_branco;  REFERNCIA: 949480
+08-05-2024 16:23:19.701Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:23:22.920Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:23:23.044Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:23:23.044Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:23:23.753Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:23:34.269Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:23:34.363Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:23:36.372Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 949480
+08-05-2024 16:23:40.079Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:23:40.172Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:23:42.308Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:23:54.633Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:24:00.231Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:24:04.348Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:24:08.450Z;functions.check_ted_branco;  REFERNCIA: 949664
+08-05-2024 16:24:08.751Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:24:11.962Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:24:12.079Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:24:12.079Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:24:12.775Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:24:23.300Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:24:23.402Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:24:25.403Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 949664
+08-05-2024 16:24:29.109Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:24:29.219Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:24:31.347Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:24:43.668Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:24:49.241Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:24:53.355Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:24:57.457Z;functions.check_ted_branco;  REFERNCIA: 949852
+08-05-2024 16:24:57.758Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:25:00.954Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:25:01.086Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:25:01.086Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:25:01.782Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:25:12.301Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:25:22.660Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image not found.
+08-05-2024 16:25:22.660Z;functions.check_ted_branco;  PIX ENCONTRADO
+08-05-2024 16:25:26.071Z;functions.check_ted_branco;  APERTA TAB
+08-05-2024 16:25:28.153Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 16:25:28.271Z;functions.check_ted_branco;  CLICK EM DADOS BANCARIOS
+08-05-2024 16:25:28.373Z;functions.check_ted_branco;  APERTA TAB
+08-05-2024 16:25:29.575Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:25:31.591Z;functions.check_ted_branco;  FORMA DE PAGAMENTO PIX SELECIONADA PARA O REGISTRO: 949852
+08-05-2024 16:25:31.685Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:25:33.810Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:25:35.810Z;functions.check_ted_branco;  PRIMEIRO OK
+08-05-2024 16:25:35.904Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:25:38.026Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:25:50.377Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:25:55.393Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:25:59.506Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:26:03.608Z;functions.check_ted_branco;  REFERNCIA: ---------------------------
+RM
+---------------------------
+O registro foi cadastrado com sucesso, entretanto, o mesmo não atende as condições do filtro aplicado na visão. Para visualizá-lo utilize um filtro que retorne os dados do registro.
+---------------------------
+OK   
+---------------------------
+
+08-05-2024 16:26:03.909Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:26:37.057Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image not found.
+08-05-2024 16:26:37.057Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:27:07.174Z;functions.waitForImage;  TRES PONTINHOS image not found.
+08-05-2024 16:27:07.174Z;functions.check_ted_branco;  SEM FILTRO PIX
+08-05-2024 16:27:17.463Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+08-05-2024 16:27:27.792Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+08-05-2024 16:27:38.124Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:27:43.706Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:27:47.824Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:27:51.927Z;functions.check_ted_branco;  REFERNCIA: 947352
+08-05-2024 16:27:52.228Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:27:55.441Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:27:55.571Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:27:55.571Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:27:56.276Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:28:06.796Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:28:06.890Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:28:08.897Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 947352
+08-05-2024 16:28:12.603Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:28:12.697Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:28:14.823Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:28:27.156Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:28:32.717Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:28:36.834Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:28:40.936Z;functions.check_ted_branco;  REFERNCIA: 947850
+08-05-2024 16:28:41.237Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:28:44.449Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:28:44.564Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:28:44.564Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:28:44.658Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:28:55.176Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:28:55.269Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:28:57.278Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 947850
+08-05-2024 16:29:00.985Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:29:01.079Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:29:03.211Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:29:15.497Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:29:21.074Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:29:25.181Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:29:29.284Z;functions.check_ted_branco;  REFERNCIA: 948218
+08-05-2024 16:29:29.584Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:29:32.797Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:29:32.913Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:29:32.913Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:29:33.611Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:29:44.129Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:29:44.223Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:29:46.232Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 948218
+08-05-2024 16:29:49.939Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:29:50.033Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:29:52.155Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:30:04.481Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:30:10.071Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:30:14.187Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:30:18.289Z;functions.check_ted_branco;  REFERNCIA: 948219
+08-05-2024 16:30:18.590Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:30:21.803Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:30:21.920Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:30:21.920Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:30:22.632Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:30:33.152Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:30:33.247Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:30:35.258Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 948219
+08-05-2024 16:30:38.965Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:30:39.058Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:30:41.184Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:30:53.529Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:30:59.133Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:31:03.235Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:31:07.337Z;functions.check_ted_branco;  REFERNCIA: 948220
+08-05-2024 16:31:07.638Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:31:10.850Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:31:10.982Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:31:10.982Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:31:11.110Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:31:21.625Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:31:21.719Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:31:23.726Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 948220
+08-05-2024 16:31:27.434Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:31:27.529Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:31:29.652Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:31:41.993Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:31:47.592Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:31:51.706Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:31:55.808Z;functions.check_ted_branco;  REFERNCIA: 948222
+08-05-2024 16:31:56.109Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:31:59.321Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:31:59.438Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:31:59.439Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:32:00.147Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:32:10.665Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:32:10.759Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:32:12.768Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 948222
+08-05-2024 16:32:16.474Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:32:16.575Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:32:18.701Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:32:31.051Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:32:36.611Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:32:40.725Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:32:44.827Z;functions.check_ted_branco;  REFERNCIA: 948253
+08-05-2024 16:32:45.128Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:32:48.343Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:32:48.474Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:32:48.474Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:32:49.184Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:32:59.701Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:32:59.794Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:33:01.802Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 948253
+08-05-2024 16:33:05.508Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:33:05.602Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:33:07.728Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:33:20.052Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:33:25.629Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:33:29.744Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:33:33.846Z;functions.check_ted_branco;  REFERNCIA: 948270
+08-05-2024 16:33:34.147Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:33:37.358Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:33:37.476Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:33:37.476Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:33:38.154Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:33:48.677Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:33:48.770Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:33:50.779Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 948270
+08-05-2024 16:33:54.484Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:33:54.578Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:33:56.707Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:34:09.036Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:34:14.635Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:34:18.738Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:34:22.841Z;functions.check_ted_branco;  REFERNCIA: 722363
+08-05-2024 16:34:23.142Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:34:26.354Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:34:26.471Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:34:26.471Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:34:27.172Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:34:37.689Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:34:37.799Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:34:39.813Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 722363
+08-05-2024 16:34:43.519Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:34:43.613Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:34:45.741Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:34:58.059Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:35:03.628Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:35:07.731Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:35:11.833Z;functions.check_ted_branco;  REFERNCIA: 944882
+08-05-2024 16:35:12.134Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:35:15.346Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:35:15.479Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:35:15.479Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:35:15.589Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:35:26.112Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:35:26.205Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:35:28.214Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 944882
+08-05-2024 16:35:31.921Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:35:32.014Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:35:34.139Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:35:46.459Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:35:52.016Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:35:56.131Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:36:00.234Z;functions.check_ted_branco;  REFERNCIA: 946549
+08-05-2024 16:36:00.535Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:36:03.746Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:36:03.879Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:36:03.879Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:36:04.018Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:36:14.532Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:36:24.840Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image not found.
+08-05-2024 16:36:24.840Z;functions.check_ted_branco;  PIX ENCONTRADO
+08-05-2024 16:36:28.252Z;functions.check_ted_branco;  APERTA TAB
+08-05-2024 16:36:30.346Z;functions.waitForImage;  DADOS BANCARIOS image found.
+08-05-2024 16:36:30.478Z;functions.check_ted_branco;  CLICK EM DADOS BANCARIOS
+08-05-2024 16:36:30.579Z;functions.check_ted_branco;  APERTA TAB
+08-05-2024 16:36:31.778Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:36:33.793Z;functions.check_ted_branco;  FORMA DE PAGAMENTO PIX SELECIONADA PARA O REGISTRO: 946549
+08-05-2024 16:36:33.887Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:36:36.009Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:36:38.010Z;functions.check_ted_branco;  PRIMEIRO OK
+08-05-2024 16:36:38.107Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:36:40.224Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:36:52.580Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:36:57.592Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:37:01.694Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:37:05.796Z;functions.check_ted_branco;  REFERNCIA: ---------------------------
+RM
+---------------------------
+O registro foi cadastrado com sucesso, entretanto, o mesmo não atende as condições do filtro aplicado na visão. Para visualizá-lo utilize um filtro que retorne os dados do registro.
+---------------------------
+OK   
+---------------------------
+
+08-05-2024 16:37:06.097Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:37:39.241Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image not found.
+08-05-2024 16:37:39.241Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:38:09.399Z;functions.waitForImage;  TRES PONTINHOS image not found.
+08-05-2024 16:38:09.399Z;functions.check_ted_branco;  SEM FILTRO PIX
+08-05-2024 16:38:19.759Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+08-05-2024 16:38:30.085Z;functions.waitForImage;  PRESS BUTTON OK 2 image not found.
+08-05-2024 16:38:40.461Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:38:45.498Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:38:49.614Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:38:53.716Z;functions.check_ted_branco;  REFERNCIA: 657282
+08-05-2024 16:38:54.017Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:38:57.229Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:38:57.361Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:38:57.361Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:38:57.499Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:39:08.012Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:39:08.104Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:39:10.104Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 657282
+08-05-2024 16:39:13.810Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:39:13.904Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:39:16.028Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:39:28.329Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:39:33.924Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:39:38.040Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:39:42.142Z;functions.check_ted_branco;  REFERNCIA: 936139
+08-05-2024 16:39:42.443Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:39:45.655Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:39:45.771Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:39:45.771Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:39:45.923Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:39:56.441Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:39:56.546Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:39:58.555Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 936139
+08-05-2024 16:40:02.272Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:40:02.365Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:40:04.491Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:40:16.804Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:40:22.370Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:40:26.488Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:40:30.590Z;functions.check_ted_branco;  REFERNCIA: 936140
+08-05-2024 16:40:30.891Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:40:34.088Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:40:34.220Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:40:34.220Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:40:34.916Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:40:45.439Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:40:45.545Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:40:47.553Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 936140
+08-05-2024 16:40:51.260Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:40:51.353Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:40:53.483Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:41:05.782Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:41:11.361Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:41:15.474Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:41:19.577Z;functions.check_ted_branco;  REFERNCIA: 936141
+08-05-2024 16:41:19.878Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:41:23.085Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:41:23.195Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:41:23.195Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:41:23.908Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:41:34.426Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:41:34.516Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:41:36.527Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 936141
+08-05-2024 16:41:40.233Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:41:40.327Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:41:42.465Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:41:54.809Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:42:00.401Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:42:04.518Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:42:08.620Z;functions.check_ted_branco;  REFERNCIA: 936142
+08-05-2024 16:42:08.921Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:42:12.148Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:42:12.265Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:42:12.265Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:42:12.965Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:42:23.476Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:42:23.577Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:42:25.588Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 936142
+08-05-2024 16:42:29.294Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:42:29.388Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:42:31.515Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:42:43.849Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:42:49.461Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:42:53.564Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:42:57.666Z;functions.check_ted_branco;  REFERNCIA: 936144
+08-05-2024 16:42:57.967Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:43:01.163Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:43:01.295Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:43:01.295Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:43:01.429Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:43:11.944Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:43:12.038Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:43:14.045Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 936144
+08-05-2024 16:43:17.752Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:43:17.853Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:43:19.973Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:43:32.305Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:43:37.915Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:43:42.018Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:43:46.121Z;functions.check_ted_branco;  REFERNCIA: 936194
+08-05-2024 16:43:46.422Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:43:49.633Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:43:49.766Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:43:49.766Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:43:50.467Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:44:00.979Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:44:01.072Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:44:03.080Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 936194
+08-05-2024 16:44:06.787Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:44:06.897Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:44:09.016Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:44:21.315Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:44:26.881Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:44:30.996Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:44:35.098Z;functions.check_ted_branco;  REFERNCIA: 936212
+08-05-2024 16:44:35.399Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:44:38.611Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:44:38.729Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:44:38.729Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:44:39.446Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:44:49.959Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:44:50.053Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:44:52.061Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 936212
+08-05-2024 16:44:55.768Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:44:55.862Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:44:58.008Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:45:10.328Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:45:15.923Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:45:20.025Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:45:24.127Z;functions.check_ted_branco;  REFERNCIA: 936744
+08-05-2024 16:45:24.428Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:45:27.640Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:45:27.757Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:45:27.757Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:45:28.459Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:45:38.971Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:45:39.064Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:45:41.076Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 936744
+08-05-2024 16:45:44.783Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:45:44.876Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:45:47.002Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:45:59.330Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:46:04.937Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:46:09.055Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:46:13.157Z;functions.check_ted_branco;  REFERNCIA: 936753
+08-05-2024 16:46:13.457Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:46:16.669Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:46:16.801Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:46:16.801Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:46:17.516Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:46:28.034Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:46:28.140Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:46:30.141Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 936753
+08-05-2024 16:46:33.849Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:46:33.943Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:46:36.075Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:46:48.426Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:46:54.006Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:46:58.121Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:47:02.224Z;functions.check_ted_branco;  REFERNCIA: 936755
+08-05-2024 16:47:02.524Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:47:05.736Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:47:05.853Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:47:05.853Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:47:05.983Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:47:16.498Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:47:16.592Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:47:18.600Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 936755
+08-05-2024 16:47:22.307Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:47:22.401Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:47:24.527Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:47:36.865Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:47:42.429Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:47:46.545Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:47:50.648Z;functions.check_ted_branco;  REFERNCIA: 936757
+08-05-2024 16:47:50.948Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:47:54.160Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:47:54.277Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:47:54.277Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:47:54.971Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:48:05.489Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:48:05.583Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:48:07.592Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 936757
+08-05-2024 16:48:11.300Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:48:11.409Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:48:13.534Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:48:25.818Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:48:31.401Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:48:35.514Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:48:39.617Z;functions.check_ted_branco;  REFERNCIA: 936761
+08-05-2024 16:48:39.918Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:48:43.122Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:48:43.232Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:48:43.232Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:48:43.374Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:48:53.898Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:48:53.992Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:48:55.999Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 936761
+08-05-2024 16:48:59.706Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:48:59.800Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:49:01.924Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:49:14.283Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:49:19.867Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:49:23.981Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:49:28.084Z;functions.check_ted_branco;  REFERNCIA: 936764
+08-05-2024 16:49:28.385Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:49:31.597Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:49:31.714Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:49:31.714Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:49:31.850Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:49:42.366Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:49:42.471Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:49:44.472Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 936764
+08-05-2024 16:49:48.179Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:49:48.281Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:49:50.407Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:50:02.761Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:50:08.359Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:50:12.464Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:50:16.567Z;functions.check_ted_branco;  REFERNCIA: 937137
+08-05-2024 16:50:16.868Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:50:20.064Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:50:20.197Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:50:20.197Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:50:20.910Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:50:31.430Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:50:31.517Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:50:33.532Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937137
+08-05-2024 16:50:37.239Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:50:37.333Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:50:39.474Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:50:51.789Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:50:57.353Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:51:01.467Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:51:05.569Z;functions.check_ted_branco;  REFERNCIA: 937138
+08-05-2024 16:51:05.870Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:51:09.082Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:51:09.198Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:51:09.198Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:51:09.346Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:51:19.859Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:51:19.952Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:51:21.960Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937138
+08-05-2024 16:51:25.665Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:51:25.759Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:51:27.885Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:51:40.193Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:51:45.786Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:51:49.889Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:51:53.992Z;functions.check_ted_branco;  REFERNCIA: 937139
+08-05-2024 16:51:54.293Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:51:57.501Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:51:57.633Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:51:57.633Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:51:57.764Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:52:08.279Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:52:08.376Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:52:10.382Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937139
+08-05-2024 16:52:14.090Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:52:14.184Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:52:16.307Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:52:28.605Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:52:33.616Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:52:37.730Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:52:41.831Z;functions.check_ted_branco;  REFERNCIA: 937140
+08-05-2024 16:52:42.132Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:52:45.344Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:52:45.477Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:52:45.477Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:52:45.624Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:52:56.140Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:52:56.234Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:52:58.245Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937140
+08-05-2024 16:53:01.951Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:53:02.045Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:53:04.172Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:53:16.480Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:53:22.061Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:53:26.177Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:53:30.279Z;functions.check_ted_branco;  REFERNCIA: 937142
+08-05-2024 16:53:30.579Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:53:33.807Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:53:33.923Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:53:33.923Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:53:34.619Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:53:45.138Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:53:45.232Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:53:47.242Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937142
+08-05-2024 16:53:50.947Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:53:51.041Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:53:53.155Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:54:05.478Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:54:11.064Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:54:15.180Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:54:19.282Z;functions.check_ted_branco;  REFERNCIA: 937154
+08-05-2024 16:54:19.584Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:54:22.811Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:54:22.943Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:54:22.944Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:54:23.636Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:54:34.156Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:54:34.250Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:54:36.258Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937154
+08-05-2024 16:54:39.964Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:54:40.058Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:54:42.183Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:54:54.516Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:54:59.517Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:55:03.618Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:55:07.720Z;functions.check_ted_branco;  REFERNCIA: 937155
+08-05-2024 16:55:08.021Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:55:11.233Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:55:11.351Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:55:11.351Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:55:12.051Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:55:22.572Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:55:22.666Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:55:24.673Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937155
+08-05-2024 16:55:28.380Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:55:28.481Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:55:30.605Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:55:42.923Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:55:48.517Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:55:52.625Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:55:56.727Z;functions.check_ted_branco;  REFERNCIA: 937156
+08-05-2024 16:55:57.028Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:56:00.240Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:56:00.372Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:56:00.372Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:56:01.084Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:56:11.605Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:56:11.699Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:56:13.708Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937156
+08-05-2024 16:56:17.415Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:56:17.502Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:56:19.635Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:56:31.931Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:56:37.517Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:56:41.620Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:56:45.722Z;functions.check_ted_branco;  REFERNCIA: 937157
+08-05-2024 16:56:46.023Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:56:49.234Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:56:49.367Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:56:49.367Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:56:50.053Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:57:00.570Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:57:00.664Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:57:02.673Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937157
+08-05-2024 16:57:06.379Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:57:06.480Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:57:08.604Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:57:20.919Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:57:26.516Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:57:30.628Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:57:34.731Z;functions.check_ted_branco;  REFERNCIA: 937162
+08-05-2024 16:57:35.032Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:57:38.268Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:57:38.384Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:57:38.384Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:57:39.076Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:57:49.594Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:57:49.687Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:57:51.699Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937162
+08-05-2024 16:57:55.406Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:57:55.501Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:57:57.624Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:58:09.990Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:58:15.597Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:58:19.701Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:58:23.803Z;functions.check_ted_branco;  REFERNCIA: 937163
+08-05-2024 16:58:24.104Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:58:27.331Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:58:27.464Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:58:27.464Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:58:28.173Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:58:38.687Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:58:38.781Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:58:40.795Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937163
+08-05-2024 16:58:44.504Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:58:44.597Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:58:46.727Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:58:59.024Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:59:04.614Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:59:08.729Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 16:59:12.832Z;functions.check_ted_branco;  REFERNCIA: 937164
+08-05-2024 16:59:13.132Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 16:59:16.344Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 16:59:16.477Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 16:59:16.477Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 16:59:17.214Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 16:59:27.727Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 16:59:27.821Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 16:59:29.829Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937164
+08-05-2024 16:59:33.535Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 16:59:33.629Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 16:59:35.763Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 16:59:48.102Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 16:59:53.678Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 16:59:57.781Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 17:00:01.883Z;functions.check_ted_branco;  REFERNCIA: 937386
+08-05-2024 17:00:02.184Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 17:00:06.598Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 17:00:06.715Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 17:00:06.715Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 17:00:06.809Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 17:00:17.328Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 17:00:17.422Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 17:00:19.428Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937386
+08-05-2024 17:00:23.135Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 17:00:23.235Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 17:00:25.360Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 17:00:37.677Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 17:00:43.252Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 17:00:47.359Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 17:00:51.461Z;functions.check_ted_branco;  REFERNCIA: 937825
+08-05-2024 17:00:51.762Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 17:00:54.973Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 17:00:55.106Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 17:00:55.106Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 17:00:55.241Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 17:01:05.755Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 17:01:05.849Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 17:01:07.856Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937825
+08-05-2024 17:01:11.564Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 17:01:11.658Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 17:01:13.784Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 17:01:26.100Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 17:01:31.658Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 17:01:35.773Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 17:01:39.875Z;functions.check_ted_branco;  REFERNCIA: 937826
+08-05-2024 17:01:40.176Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 17:01:43.376Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 17:01:43.493Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 17:01:43.493Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 17:01:44.179Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 17:01:54.697Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 17:01:54.790Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 17:01:56.798Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937826
+08-05-2024 17:02:00.504Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 17:02:00.598Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 17:02:02.720Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 17:02:15.005Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 17:02:20.603Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 17:02:24.718Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 17:02:28.820Z;functions.check_ted_branco;  REFERNCIA: 937827
+08-05-2024 17:02:29.121Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 17:02:32.333Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 17:02:32.450Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 17:02:32.451Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 17:02:32.579Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 17:02:43.092Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 17:02:43.189Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 17:02:45.190Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937827
+08-05-2024 17:02:48.897Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 17:02:48.991Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 17:02:51.124Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 17:03:03.461Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 17:03:09.026Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 17:03:13.141Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 17:03:17.243Z;functions.check_ted_branco;  REFERNCIA: 937829
+08-05-2024 17:03:17.544Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 17:03:20.771Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 17:03:20.888Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 17:03:20.888Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 17:03:21.582Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 17:03:32.105Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 17:03:32.215Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 17:03:34.218Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937829
+08-05-2024 17:03:37.924Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 17:03:38.015Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 17:03:40.133Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 17:03:52.465Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 17:03:58.034Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 17:04:02.140Z;functions.check_ted_branco;  PASSANDO PARA PRÓXIMO REGISTRO
+08-05-2024 17:04:06.242Z;functions.check_ted_branco;  REFERNCIA: 937841
+08-05-2024 17:04:06.542Z;functions.check_ted_branco;  ENTRANDO NO REGISTRO 
+08-05-2024 17:04:09.754Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+08-05-2024 17:04:09.886Z;functions.check_ted_branco;  CLICA EM INTEGRAÇÃO BANCÁRIA
+08-05-2024 17:04:09.886Z;functions.check_ted_branco;  VERIFICANDO INFORMAÇÕES
+08-05-2024 17:04:10.595Z;functions.waitForImage;  TRES PONTINHOS image found.
+08-05-2024 17:04:21.110Z;functions.check_ted_branco;  VERIFICANDO SE TEM PIX NO FILTRO
+08-05-2024 17:04:21.204Z;functions.waitForImage;  CHECANDO DADOS BANCÁRIOS PIX image found.
+08-05-2024 17:04:23.212Z;functions.check_ted_branco;  PIX NÃO ENCONTRADO PARA REFERENCIA: 937841
+08-05-2024 17:04:26.919Z;functions.check_ted_branco;  APERTA EM CANCELAR
+08-05-2024 17:04:27.012Z;functions.waitForImage;  PRESS BUTTON OK image found.
+08-05-2024 17:04:29.136Z;functions.click_ok;  PRESS BUTTON OK
+08-05-2024 17:04:41.707Z;functions.waitForImage;  ERROR GENERICO image not found.
+08-05-2024 17:04:46.822Z;functions.waitForImage;  ERROR FILTRO PIX image not found.
+08-05-2024 17:04:46.822Z;functions.check_ted_branco;  FORAI VERIFICADO: 50 REFERENCIAS NO PROCESSAMENTO FORMA DE PAGAMENTO ELETRONICA EM BRANCO
+08-05-2024 17:04:48.191Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+08-05-2024 17:04:48.200Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+08-05-2024 17:04:48.203Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+08-05-2024 17:04:48.203Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+08-05-2024 17:04:48.204Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+08-05-2024 17:04:48.205Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+08-05-2024 17:04:48.253Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+08-05-2024 17:04:48.268Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+08-05-2024 17:04:48.268Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+08-05-2024 17:04:48.268Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+08-05-2024 17:04:48.268Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+08-05-2024 17:04:48.268Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+08-05-2024 17:04:48.268Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+08-05-2024 17:04:48.284Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+08-05-2024 17:04:48.284Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+08-05-2024 17:04:48.284Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+08-05-2024 17:04:48.284Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+08-05-2024 17:04:48.284Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+08-05-2024 17:04:50.628Z;functions.emailFinalizado;  Warning e-mail sent.
+08-05-2024 17:04:50.628Z;main.<module>;  Remessa Bancária TED CIP com filtro de pagamento eletronica em branco modificadas para pix 
+ PASSO 3 FINALIZADO
+08-05-2024 17:04:50.628Z;main.<module>;  O PROGRAMA SERÁ ENCERRADO
+08-05-2024 17:04:51.394Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+08-05-2024 17:04:53.642Z;functions.emailFinalizado;  Warning e-mail sent.
+08-05-2024 17:04:53.768Z;functions.end_RM;  RM ENCERRADO

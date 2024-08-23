@@ -1,0 +1,37 @@
+02-10-2023 18:41:38.776Z;functions.bot_text_art;      ____   
+02-10-2023 18:41:38.777Z;functions.bot_text_art;     [____]    
+02-10-2023 18:41:38.777Z;functions.bot_text_art;   |=]()()[=|  
+02-10-2023 18:41:38.777Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+02-10-2023 18:41:38.778Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+02-10-2023 18:41:38.778Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+02-10-2023 18:41:38.779Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+02-10-2023 18:41:38.780Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+02-10-2023 18:41:38.782Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+02-10-2023 18:41:38.782Z;functions.bot_text_art;     |_||_|                                                     
+02-10-2023 18:41:38.783Z;functions.bot_text_art;     | ||_|_   
+02-10-2023 18:41:38.784Z;functions.bot_text_art;   |___||___|  
+02-10-2023 18:41:38.785Z;functions.bot_text_art;               
+02-10-2023 18:41:38.793Z;functions.open_RM;  OPEN PROGRAM RM
+02-10-2023 18:41:47.723Z;functions.loggin_RM;  ENTER USER_NAME
+02-10-2023 18:41:48.998Z;functions.loggin_RM;  ENTER PASSWORD
+02-10-2023 18:41:49.930Z;functions.loggin_RM;  ENTER RM
+02-10-2023 18:42:13.568Z;functions.enter_coligada;  CLICK CONTEXTO
+02-10-2023 18:42:18.140Z;functions.enter_coligada;  CLICK COLIGADA 1
+02-10-2023 18:42:19.926Z;functions.enter_coligada;  CLICK AVANÇAR
+02-10-2023 18:42:22.218Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+02-10-2023 18:42:22.321Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+02-10-2023 18:42:23.349Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+02-10-2023 18:42:24.379Z;functions.enter_coligada;  CLICK CONCLUIR
+02-10-2023 18:42:40.145Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+02-10-2023 18:42:40.964Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+02-10-2023 18:42:42.433Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+02-10-2023 18:42:45.085Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+02-10-2023 18:42:50.635Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+02-10-2023 18:43:23.533Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 16, in <module>
+    enter_contas_a_pagar()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 113, in enter_contas_a_pagar
+    lancamentos.click()
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

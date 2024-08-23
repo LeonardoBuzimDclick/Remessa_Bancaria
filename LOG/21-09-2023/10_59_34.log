@@ -1,0 +1,25 @@
+21-09-2023 10:59:35.086Z;functions.bot_text_art;      __     
+21-09-2023 10:59:35.087Z;functions.bot_text_art;     [____]    
+21-09-2023 10:59:35.087Z;functions.bot_text_art;   |=]()()[=|  
+21-09-2023 10:59:35.088Z;functions.bot_text_art;   _\==_/__   ___     ___   _        ___    ___   _  __
+21-09-2023 10:59:35.088Z;functions.bot_text_art;  |__|    |__| |  _ \   / ___| | |      |_   |  / ___| | |/ /
+21-09-2023 10:59:35.089Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |      | ' / 
+21-09-2023 10:59:35.089Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |      |  <  
+21-09-2023 10:59:35.090Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   | |  | |____  | . \ 
+21-09-2023 10:59:35.091Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+21-09-2023 10:59:35.092Z;functions.bot_text_art;     |_||_|                                                       
+21-09-2023 10:59:35.092Z;functions.bot_text_art;    |||_|_   
+21-09-2023 10:59:35.093Z;functions.bot_text_art;   |___||___|  
+21-09-2023 10:59:35.094Z;functions.bot_text_art;               
+21-09-2023 10:59:35.102Z;functions.open_RM;  OPEN PROGRAM RM
+21-09-2023 10:59:43.622Z;functions.loggin_RM;  ENTER USER_NAME
+21-09-2023 10:59:44.797Z;functions.loggin_RM;  ENTER PASSWORD
+21-09-2023 10:59:45.957Z;functions.loggin_RM;  ENTER RM
+21-09-2023 11:00:04.586Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 23, in <module>
+    enter_contas_a_pagar()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 68, in enter_contas_a_pagar
+    linha_totvs.click()
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

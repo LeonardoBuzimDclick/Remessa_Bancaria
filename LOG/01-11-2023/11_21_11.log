@@ -1,0 +1,52 @@
+01-11-2023 11:21:11.389Z;functions.bot_text_art;      ____   
+01-11-2023 11:21:11.389Z;functions.bot_text_art;     [____]    
+01-11-2023 11:21:11.389Z;functions.bot_text_art;   |=]()()[=|  
+01-11-2023 11:21:11.390Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+01-11-2023 11:21:11.390Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+01-11-2023 11:21:11.390Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+01-11-2023 11:21:11.390Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+01-11-2023 11:21:11.391Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+01-11-2023 11:21:11.392Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+01-11-2023 11:21:11.392Z;functions.bot_text_art;     |_||_|                                                     
+01-11-2023 11:21:11.393Z;functions.bot_text_art;     | ||_|_   
+01-11-2023 11:21:11.393Z;functions.bot_text_art;   |___||___|  
+01-11-2023 11:21:11.393Z;functions.bot_text_art;               
+01-11-2023 11:21:11.396Z;functions.open_RM;  OPEN PROGRAM RM
+01-11-2023 11:21:18.593Z;functions.loggin_RM;  ENTER USER_NAME
+01-11-2023 11:21:19.414Z;functions.loggin_RM;  ENTER PASSWORD
+01-11-2023 11:21:20.070Z;functions.loggin_RM;  ENTER RM
+01-11-2023 11:21:40.305Z;functions.enter_coligada;  CLICK CONTEXTO
+01-11-2023 11:21:44.168Z;functions.enter_coligada;  CLICK COLIGADA 1
+01-11-2023 11:21:45.311Z;functions.enter_coligada;  CLICK AVANÇAR
+01-11-2023 11:21:47.116Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+01-11-2023 11:21:47.218Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+01-11-2023 11:21:48.180Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+01-11-2023 11:21:49.063Z;functions.enter_coligada;  CLICK CONCLUIR
+01-11-2023 11:21:59.694Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+01-11-2023 11:22:00.300Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+01-11-2023 11:22:01.360Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+01-11-2023 11:22:03.664Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+01-11-2023 11:22:08.897Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+01-11-2023 11:22:08.995Z;functions.waitForImage;  LANÇAMENTOS image found.
+01-11-2023 11:22:11.098Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+01-11-2023 11:22:13.100Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+01-11-2023 11:22:13.101Z;functions.data_filter;  QUARTA-FEIRA: 01-11-2023
+01-11-2023 11:22:13.101Z;functions.data_filter;  TERCA-FEIRA: 07-11-2023
+01-11-2023 11:22:18.745Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+01-11-2023 11:22:19.364Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+01-11-2023 11:22:21.304Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 01-11-2023
+01-11-2023 11:22:22.893Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 07-11-2023
+01-11-2023 11:22:23.527Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+01-11-2023 11:22:58.579Z;functions.waitForImage;  FILTER CLEAN image not found.
+01-11-2023 11:24:33.407Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+01-11-2023 11:24:34.657Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+01-11-2023 11:24:34.773Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+01-11-2023 11:24:35.086Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+01-11-2023 11:24:52.353Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Remessas_Bancarias\main.py", line 16, in <module>
+    select_tipo_documento()
+  File "c:\Projetos\Remessas_Bancarias\SUBPROGRAMS\functions.py", line 234, in select_tipo_documento
+    into_filter_personalizar.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

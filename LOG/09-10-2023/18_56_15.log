@@ -1,0 +1,34 @@
+09-10-2023 18:56:16.543Z;functions.bot_text_art;      ____   
+09-10-2023 18:56:16.543Z;functions.bot_text_art;     [____]    
+09-10-2023 18:56:16.544Z;functions.bot_text_art;   |=]()()[=|  
+09-10-2023 18:56:16.544Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+09-10-2023 18:56:16.545Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+09-10-2023 18:56:16.545Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+09-10-2023 18:56:16.546Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+09-10-2023 18:56:16.547Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+09-10-2023 18:56:16.548Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+09-10-2023 18:56:16.549Z;functions.bot_text_art;     |_||_|                                                     
+09-10-2023 18:56:16.550Z;functions.bot_text_art;     | ||_|_   
+09-10-2023 18:56:16.550Z;functions.bot_text_art;   |___||___|  
+09-10-2023 18:56:16.551Z;functions.bot_text_art;               
+09-10-2023 18:56:16.921Z;functions.open_RM;  OPEN PROGRAM RM
+09-10-2023 18:56:29.761Z;functions.loggin_RM;  ENTER USER_NAME
+09-10-2023 18:56:30.880Z;functions.loggin_RM;  ENTER PASSWORD
+09-10-2023 18:56:31.953Z;functions.loggin_RM;  ENTER RM
+09-10-2023 18:59:31.337Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 13, in <module>
+    enter_coligada()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 72, in enter_coligada
+    click_context = cc.wait_appear(locator.rm.click_contexto, wait_timeout=300)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projetos\remessas\venv\Lib\site-packages\clicknium\_clicknium.py", line 189, in wait_appear
+    ele = _InvokerService.wait_appear(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projetos\remessas\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 50, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projetos\remessas\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 308, in wait_appear
+    return UiElementRunner.WaitElementAppear(locator_item.Locator, locator_item.Locator_Variables, locator_item.Locator_Image, timeout * 1000)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

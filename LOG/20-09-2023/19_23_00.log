@@ -1,0 +1,24 @@
+20-09-2023 19:23:00.768Z;functions.bot_text_art;      __     
+20-09-2023 19:23:00.768Z;functions.bot_text_art;     [____]    
+20-09-2023 19:23:00.769Z;functions.bot_text_art;   |=]()()[=|  
+20-09-2023 19:23:00.769Z;functions.bot_text_art;   _\==_/__   ___     ___   _        ___    ___   _  __
+20-09-2023 19:23:00.769Z;functions.bot_text_art;  |__|    |__| |  _ \   / ___| | |      |_   |  / ___| | |/ /
+20-09-2023 19:23:00.770Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |      | ' / 
+20-09-2023 19:23:00.770Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |      |  <  
+20-09-2023 19:23:00.770Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   | |  | |____  | . \ 
+20-09-2023 19:23:00.771Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+20-09-2023 19:23:00.771Z;functions.bot_text_art;     |_||_|                                                       
+20-09-2023 19:23:00.771Z;functions.bot_text_art;    |||_|_   
+20-09-2023 19:23:00.772Z;functions.bot_text_art;   |___||___|  
+20-09-2023 19:23:00.772Z;functions.bot_text_art;               
+20-09-2023 19:23:00.777Z;functions.open_RM;  OPEN PROGRAM RM
+20-09-2023 19:23:07.558Z;functions.show_exception_and_exit;  UiElement.clear_text() missing 1 required positional argument: 'by'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 22, in <module>
+    loggin_RM()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 59, in loggin_RM
+    user_rm.clear_text()
+  File "C:\projetos\remessas\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 50, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+TypeError: UiElement.clear_text() missing 1 required positional argument: 'by'

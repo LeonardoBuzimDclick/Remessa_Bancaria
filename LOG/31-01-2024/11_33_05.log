@@ -1,0 +1,972 @@
+31-01-2024 11:33:05.625Z;functions.bot_text_art;      ____   
+31-01-2024 11:33:05.625Z;functions.bot_text_art;     [____]    
+31-01-2024 11:33:05.625Z;functions.bot_text_art;   |=]()()[=|  
+31-01-2024 11:33:05.626Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+31-01-2024 11:33:05.626Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+31-01-2024 11:33:05.626Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+31-01-2024 11:33:05.626Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+31-01-2024 11:33:05.626Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+31-01-2024 11:33:05.627Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+31-01-2024 11:33:05.627Z;functions.bot_text_art;     |_||_|                                                     
+31-01-2024 11:33:05.627Z;functions.bot_text_art;     | ||_|_   
+31-01-2024 11:33:05.627Z;functions.bot_text_art;   |___||___|  
+31-01-2024 11:33:05.628Z;functions.bot_text_art;               
+31-01-2024 11:33:05.631Z;functions.open_RM;  OPEN PROGRAM RM
+31-01-2024 11:33:13.132Z;functions.loggin_RM;  ENTER USER_NAME
+31-01-2024 11:33:14.002Z;functions.loggin_RM;  ENTER PASSWORD
+31-01-2024 11:33:14.774Z;functions.loggin_RM;  ENTER RM
+31-01-2024 11:33:42.460Z;functions.enter_coligada;  CLICK CONTEXTO
+31-01-2024 11:33:46.429Z;functions.enter_coligada;  CLICK COLIGADA 1
+31-01-2024 11:33:47.837Z;functions.enter_coligada;  CLICK AVANÇAR
+31-01-2024 11:33:49.422Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+31-01-2024 11:33:49.524Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+31-01-2024 11:33:50.585Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+31-01-2024 11:33:51.459Z;functions.enter_coligada;  CLICK CONCLUIR
+31-01-2024 11:34:03.143Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+31-01-2024 11:34:03.773Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+31-01-2024 11:34:04.899Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+31-01-2024 11:34:05.648Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+31-01-2024 11:34:10.898Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+31-01-2024 11:34:11.092Z;functions.waitForImage;  LANÇAMENTOS image found.
+31-01-2024 11:34:13.217Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+31-01-2024 11:34:28.876Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+31-01-2024 11:34:28.876Z;functions.data_filter;  DATA INICIO 07-02-2024
+31-01-2024 11:34:28.877Z;functions.data_filter;  DATA FIM 13-02-2024
+31-01-2024 11:34:28.878Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+31-01-2024 11:34:28.878Z;functions.data_filter;  QUARTA-FEIRA: 07-02-2024
+31-01-2024 11:34:28.878Z;functions.data_filter;  TERCA-FEIRA: 13-02-2024
+31-01-2024 11:34:29.547Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+31-01-2024 11:34:30.617Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+31-01-2024 11:34:32.459Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 07-02-2024
+31-01-2024 11:34:33.958Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 13-02-2024
+31-01-2024 11:34:34.617Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+31-01-2024 11:36:04.523Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+31-01-2024 11:36:05.398Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+31-01-2024 11:36:06.278Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+31-01-2024 11:36:07.180Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+31-01-2024 11:36:08.141Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+31-01-2024 11:36:18.259Z;functions.waitForImage;  FILTER CLEAN image found.
+31-01-2024 11:36:20.373Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+31-01-2024 11:36:22.373Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+31-01-2024 11:36:35.071Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 160 registros?
+31-01-2024 11:36:37.073Z;functions.check_table_record;  NUMERO DE TUPLAS: 160
+31-01-2024 11:36:37.073Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+31-01-2024 11:36:40.765Z;functions.check_table_record;  CLICK NÃO
+31-01-2024 11:36:56.617Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+31-01-2024 11:36:57.909Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+31-01-2024 11:36:58.521Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+31-01-2024 11:36:59.460Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+31-01-2024 11:37:06.492Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+31-01-2024 11:37:11.493Z;functions.filter_IPTE;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+31-01-2024 11:37:12.304Z;functions.filter_IPTE;  CLICA NA PRIMEIRA LINHA DA TABELA
+31-01-2024 11:37:32.134Z;functions.filter_IPTE;  HOVER FILTER
+31-01-2024 11:37:32.747Z;functions.filter_IPTE;  CLICK FILTER
+31-01-2024 11:37:37.054Z;functions.filter_IPTE;  CLICA NO FILTRO PERSONALIZAR
+31-01-2024 11:37:44.962Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+31-01-2024 11:37:57.661Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 39 registros?
+31-01-2024 11:37:59.663Z;functions.check_table_record;  NUMERO DE TUPLAS: 39
+31-01-2024 11:37:59.663Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+31-01-2024 11:38:03.400Z;functions.check_table_record;  CLICK NÃO
+31-01-2024 11:38:14.117Z;functions.select_all_func;  SELECIONA TODOS OS REGISTROS
+31-01-2024 11:38:14.119Z;functions.check_payment_type;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+31-01-2024 11:38:14.936Z;functions.check_payment_type;  CLICA NA PRIMEIRA LINHA DA TABELA
+31-01-2024 11:38:23.038Z;functions.check_payment_type;  REF. LANÇAMENTO: 908763
+31-01-2024 11:38:23.162Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:38:31.144Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:38:33.248Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:38:33.249Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:38:36.381Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:38:36.504Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:38:38.506Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:38:38.607Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:38:40.710Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:38:41.711Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:38:41.908Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:38:43.909Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:38:46.053Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:38:48.185Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:38:50.315Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:38:52.435Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:38:59.540Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:39:09.642Z;functions.check_payment_type;  REF. LANÇAMENTO: 909529
+31-01-2024 11:39:09.760Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:39:12.548Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:39:14.654Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:39:14.654Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:39:17.788Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:39:17.911Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:39:19.916Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:39:20.018Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:39:22.120Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:39:23.121Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:39:23.323Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:39:25.324Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:39:27.445Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:39:29.560Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:39:31.702Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:39:33.811Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:39:40.917Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:39:51.018Z;functions.check_payment_type;  REF. LANÇAMENTO: 911029
+31-01-2024 11:39:51.128Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:39:54.611Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:39:56.734Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:39:56.739Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:39:59.960Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:40:00.100Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:40:02.101Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:40:02.204Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:40:04.307Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:40:05.308Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:40:05.504Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:40:07.506Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:40:09.629Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:40:11.748Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:40:13.883Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:40:15.997Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:40:23.100Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:40:33.202Z;functions.check_payment_type;  REF. LANÇAMENTO: 912127
+31-01-2024 11:40:33.317Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:40:36.110Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:40:38.218Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:40:38.218Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:40:41.348Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:40:41.467Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:40:43.468Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:40:43.569Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:40:45.671Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:40:46.671Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:40:46.858Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:40:48.859Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:40:50.975Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:40:53.092Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:40:55.225Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:40:57.342Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:41:04.445Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:41:14.546Z;functions.check_payment_type;  REF. LANÇAMENTO: 908621
+31-01-2024 11:41:14.660Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:41:18.114Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:41:20.248Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:41:20.248Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:41:23.387Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:41:23.503Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:41:25.506Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:41:25.608Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:41:27.711Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:41:28.712Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:41:28.911Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:41:30.912Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:41:33.045Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:41:35.155Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:41:37.291Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:41:39.406Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:41:46.516Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:41:56.618Z;functions.check_payment_type;  REF. LANÇAMENTO: 908703
+31-01-2024 11:41:56.740Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:42:00.218Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:42:02.342Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:42:02.342Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:42:05.472Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:42:05.616Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:42:07.617Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:42:07.736Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:42:09.839Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:42:10.840Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:42:11.027Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:42:13.028Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:42:15.161Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:42:17.279Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:42:19.415Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:42:21.529Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:42:28.632Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:42:38.734Z;functions.check_payment_type;  REF. LANÇAMENTO: 908838
+31-01-2024 11:42:38.851Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:42:42.311Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:42:44.437Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:42:44.437Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:42:47.565Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:42:47.791Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:42:49.792Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:42:49.894Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:42:51.999Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:42:52.999Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:42:53.194Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:42:55.195Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:42:57.324Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:42:59.436Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:43:01.570Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:43:03.686Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:43:10.906Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:43:21.007Z;functions.check_payment_type;  REF. LANÇAMENTO: 910641
+31-01-2024 11:43:21.132Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:43:23.935Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:43:26.061Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:43:26.061Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:43:29.208Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:43:29.349Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:43:31.350Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:43:31.453Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:43:33.556Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:43:34.557Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:43:34.757Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:43:36.758Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:43:38.883Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:43:40.998Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:43:43.130Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:43:45.248Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:43:52.352Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:44:02.454Z;functions.check_payment_type;  REF. LANÇAMENTO: 910647
+31-01-2024 11:44:02.560Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:44:06.022Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:44:08.155Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:44:08.155Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:44:11.296Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:44:11.410Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:44:13.411Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:44:13.514Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:44:15.617Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:44:16.618Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:44:16.809Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:44:18.810Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:44:20.946Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:44:23.061Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:44:25.193Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:44:27.310Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:44:34.416Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:44:44.518Z;functions.check_payment_type;  REF. LANÇAMENTO: 910701
+31-01-2024 11:44:44.634Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:44:48.083Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:44:50.186Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:44:50.186Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:44:53.317Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:44:53.463Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:44:55.464Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:44:55.577Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:44:57.682Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:44:58.683Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:44:58.883Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:45:00.885Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:45:03.006Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:45:05.122Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:45:07.257Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:45:09.374Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:45:16.475Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:45:26.577Z;functions.check_payment_type;  REF. LANÇAMENTO: 910704
+31-01-2024 11:45:26.698Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:45:30.803Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:45:32.937Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:45:32.937Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:45:36.069Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:45:36.196Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:45:38.197Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:45:38.300Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:45:40.402Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:45:41.403Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:45:41.602Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:45:43.603Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:45:45.722Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:45:47.843Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:45:49.974Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:45:52.094Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:45:59.197Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:46:09.300Z;functions.check_payment_type;  REF. LANÇAMENTO: 911566
+31-01-2024 11:46:09.409Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:46:12.211Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:46:14.342Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:46:14.342Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:46:17.474Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:46:17.622Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:46:19.623Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:46:19.724Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:46:21.826Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:46:22.826Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:46:23.013Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:46:25.014Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:46:27.134Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:46:29.248Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:46:31.379Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:46:33.499Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:46:40.604Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:46:50.706Z;functions.check_payment_type;  REF. LANÇAMENTO: 908308
+31-01-2024 11:46:50.824Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:46:54.272Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:46:56.405Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:46:56.405Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:46:59.534Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:46:59.688Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:47:01.690Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:47:01.791Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:47:03.895Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:47:04.896Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:47:05.096Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:47:07.096Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:47:09.226Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:47:11.341Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:47:13.487Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:47:15.595Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:47:22.697Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:47:32.800Z;functions.check_payment_type;  REF. LANÇAMENTO: 908724
+31-01-2024 11:47:32.904Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:47:35.706Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:47:37.811Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:47:37.811Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:47:40.945Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:47:41.061Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:47:43.062Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:47:43.164Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:47:45.267Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:47:46.267Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:47:46.450Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:47:48.451Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:47:50.568Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:47:52.686Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:47:54.819Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:47:56.944Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:48:04.048Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:48:14.150Z;functions.check_payment_type;  REF. LANÇAMENTO: 908979
+31-01-2024 11:48:14.271Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:48:17.737Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:48:19.842Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:48:19.843Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:48:22.976Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:48:23.125Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:48:25.126Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:48:25.233Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:48:27.336Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:48:28.338Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:48:28.532Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:48:30.533Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:48:32.664Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:48:34.780Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:48:36.911Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:48:39.029Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:48:46.132Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:48:56.233Z;functions.check_payment_type;  REF. LANÇAMENTO: 908983
+31-01-2024 11:48:56.335Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:48:59.802Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:49:01.904Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:49:01.904Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:49:05.036Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:49:05.154Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:49:07.156Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:49:07.260Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:49:09.362Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:49:10.363Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:49:10.559Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:49:12.560Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:49:14.691Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:49:16.810Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:49:18.956Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:49:21.089Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:49:28.201Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:49:38.303Z;functions.check_payment_type;  REF. LANÇAMENTO: 909350
+31-01-2024 11:49:38.409Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:49:41.862Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:49:43.967Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:49:43.967Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:49:47.096Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:49:47.245Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:49:49.246Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:49:49.348Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:49:51.450Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:49:52.451Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:49:52.637Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:49:54.638Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:49:56.758Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:49:58.873Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:50:01.007Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:50:03.124Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:50:10.226Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:50:20.327Z;functions.check_payment_type;  REF. LANÇAMENTO: 909403
+31-01-2024 11:50:20.442Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:50:23.239Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:50:25.373Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:50:25.373Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:50:28.511Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:50:28.628Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:50:30.629Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:50:30.732Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:50:32.836Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:50:33.837Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:50:34.032Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:50:36.033Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:50:38.162Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:50:40.279Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:50:42.421Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:50:44.530Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:50:51.634Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:51:01.735Z;functions.check_payment_type;  REF. LANÇAMENTO: 910231
+31-01-2024 11:51:01.845Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:51:05.265Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:51:07.374Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:51:07.374Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:51:10.506Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:51:10.623Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:51:12.624Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:51:12.728Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:51:14.831Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:51:15.831Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:51:16.030Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:51:18.031Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:51:20.166Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:51:22.279Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:51:24.411Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:51:26.530Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:51:33.633Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:51:43.735Z;functions.check_payment_type;  REF. LANÇAMENTO: 910626
+31-01-2024 11:51:43.845Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:51:47.268Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:51:49.374Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:51:49.374Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:51:52.504Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:51:52.652Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:51:54.652Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:51:54.754Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:51:56.856Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:51:57.856Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:51:58.049Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:52:00.050Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:52:02.193Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:52:04.310Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:52:06.443Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:52:08.560Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:52:15.663Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:52:25.765Z;functions.check_payment_type;  REF. LANÇAMENTO: 910695
+31-01-2024 11:52:25.876Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:52:29.985Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:52:32.091Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:52:32.091Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:52:35.223Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:52:35.368Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:52:37.369Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:52:37.470Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:52:39.573Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:52:40.573Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:52:40.760Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:52:42.762Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:52:44.881Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:52:46.998Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:52:49.133Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:52:51.247Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:52:58.349Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:53:08.451Z;functions.check_payment_type;  REF. LANÇAMENTO: 911845
+31-01-2024 11:53:08.556Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:53:11.361Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:53:13.467Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:53:13.467Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:53:16.600Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:53:16.717Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:53:18.718Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:53:18.820Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:53:20.922Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:53:21.922Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:53:22.110Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:53:24.112Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:53:26.232Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:53:28.342Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:53:30.473Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:53:32.595Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:53:39.698Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:53:49.799Z;functions.check_payment_type;  REF. LANÇAMENTO: 911847
+31-01-2024 11:53:49.931Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:53:53.473Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:53:55.591Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:53:55.592Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:53:58.724Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:53:58.845Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:54:00.847Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:54:00.950Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:54:03.073Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:54:04.074Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:54:04.257Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:54:06.258Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:54:08.380Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:54:10.498Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:54:12.628Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:54:14.752Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:54:21.855Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:54:31.957Z;functions.check_payment_type;  REF. LANÇAMENTO: 911850
+31-01-2024 11:54:32.066Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:54:34.880Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:54:36.998Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:54:36.998Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:54:40.132Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:54:40.251Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:54:42.251Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:54:42.353Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:54:44.457Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:54:45.458Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:54:45.650Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:54:47.652Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:54:49.808Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:54:51.935Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:54:54.064Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:54:56.185Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:55:03.294Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:55:13.396Z;functions.check_payment_type;  REF. LANÇAMENTO: 912030
+31-01-2024 11:55:13.519Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:55:16.996Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:55:19.123Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:55:19.123Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:55:22.257Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:55:22.402Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:55:24.402Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:55:24.504Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:55:26.606Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:55:27.607Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:55:27.822Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:55:29.822Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:55:31.940Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:55:34.060Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:55:36.194Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:55:38.311Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:55:45.413Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:55:55.516Z;functions.check_payment_type;  REF. LANÇAMENTO: 912125
+31-01-2024 11:55:55.626Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:55:59.111Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:56:01.216Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:56:01.216Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:56:04.346Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:56:04.467Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:56:06.469Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:56:06.570Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:56:08.672Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:56:09.673Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:56:09.861Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:56:11.862Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:56:14.003Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:56:16.122Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:56:18.253Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:56:20.373Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:56:27.476Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:56:37.579Z;functions.check_payment_type;  REF. LANÇAMENTO: 912134
+31-01-2024 11:56:37.704Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:56:41.112Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:56:43.218Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:56:43.219Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:56:46.346Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:56:46.467Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:56:48.468Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:56:48.570Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:56:50.672Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:56:51.673Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:56:51.858Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:56:53.860Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:56:55.982Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:56:58.091Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:57:00.222Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:57:02.342Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:57:09.454Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:57:19.555Z;functions.check_payment_type;  REF. LANÇAMENTO: 912136
+31-01-2024 11:57:19.660Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:57:22.493Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:57:24.623Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:57:24.623Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:57:27.756Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:57:27.882Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:57:29.889Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:57:29.991Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:57:32.093Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:57:33.093Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:57:33.278Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:57:35.281Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:57:37.413Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:57:39.531Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:57:41.681Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:57:43.813Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:57:50.925Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:58:01.026Z;functions.check_payment_type;  REF. LANÇAMENTO: 912144
+31-01-2024 11:58:01.148Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:58:03.964Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:58:06.092Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:58:06.093Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:58:09.222Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:58:09.379Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:58:11.379Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:58:11.481Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:58:13.583Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:58:14.584Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:58:14.774Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:58:16.775Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:58:18.915Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:58:21.030Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:58:23.168Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:58:25.282Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:58:32.384Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:58:42.487Z;functions.check_payment_type;  REF. LANÇAMENTO: 912150
+31-01-2024 11:58:42.590Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:58:45.393Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:58:47.498Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:58:47.498Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:58:50.627Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:58:50.779Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:58:52.780Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:58:52.883Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:58:54.995Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:58:55.996Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:58:56.199Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:58:58.200Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:59:00.316Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:59:02.436Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:59:04.567Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:59:06.687Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:59:13.798Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 11:59:23.899Z;functions.check_payment_type;  REF. LANÇAMENTO: 909212
+31-01-2024 11:59:24.022Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 11:59:27.454Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 11:59:29.560Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:59:29.561Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 11:59:32.693Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 11:59:32.852Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 11:59:34.853Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 11:59:34.957Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 11:59:37.059Z;functions.check_payment_type;  CTRL C
+31-01-2024 11:59:38.060Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 11:59:38.257Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 11:59:40.257Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 11:59:42.379Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 11:59:44.498Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 11:59:46.633Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 11:59:48.748Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 11:59:55.849Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 12:00:05.950Z;functions.check_payment_type;  REF. LANÇAMENTO: 910666
+31-01-2024 12:00:06.087Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 12:00:09.561Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 12:00:11.686Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:00:11.686Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 12:00:14.819Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 12:00:14.935Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:00:16.937Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 12:00:17.039Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 12:00:19.141Z;functions.check_payment_type;  CTRL C
+31-01-2024 12:00:20.142Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 12:00:20.331Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 12:00:22.333Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 12:00:24.475Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 12:00:26.592Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 12:00:28.727Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 12:00:30.844Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 12:00:37.947Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 12:00:48.050Z;functions.check_payment_type;  REF. LANÇAMENTO: 911678
+31-01-2024 12:00:48.156Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 12:00:50.961Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 12:00:53.092Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:00:53.092Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 12:00:56.227Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 12:00:56.410Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:00:58.411Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 12:00:58.513Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 12:01:00.617Z;functions.check_payment_type;  CTRL C
+31-01-2024 12:01:01.618Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 12:01:01.818Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 12:01:03.819Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 12:01:05.942Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 12:01:08.060Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 12:01:10.192Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 12:01:12.310Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 12:01:19.412Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 12:01:29.514Z;functions.check_payment_type;  REF. LANÇAMENTO: 911684
+31-01-2024 12:01:29.629Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 12:01:33.080Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 12:01:35.185Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:01:35.185Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 12:01:38.315Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 12:01:38.436Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:01:40.437Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 12:01:40.542Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 12:01:42.645Z;functions.check_payment_type;  CTRL C
+31-01-2024 12:01:43.645Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 12:01:43.843Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 12:01:45.844Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 12:01:47.975Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 12:01:50.092Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 12:01:52.223Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 12:01:54.342Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 12:02:01.444Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 12:02:11.546Z;functions.check_payment_type;  REF. LANÇAMENTO: 911972
+31-01-2024 12:02:11.659Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 12:02:15.078Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 12:02:17.186Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:02:17.186Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 12:02:20.319Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 12:02:20.435Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:02:22.437Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 12:02:22.538Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 12:02:24.639Z;functions.check_payment_type;  CTRL C
+31-01-2024 12:02:25.640Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 12:02:25.828Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 12:02:27.829Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 12:02:29.943Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 12:02:32.061Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 12:02:34.203Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 12:02:36.311Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 12:02:43.413Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 12:02:53.514Z;functions.check_payment_type;  REF. LANÇAMENTO: 908822
+31-01-2024 12:02:53.616Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 12:02:57.080Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 12:02:59.186Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:02:59.186Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 12:03:02.316Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 12:03:02.435Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:03:04.436Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 12:03:04.539Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 12:03:06.643Z;functions.check_payment_type;  CTRL C
+31-01-2024 12:03:07.643Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 12:03:07.840Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 12:03:09.842Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 12:03:11.979Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 12:03:14.091Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 12:03:16.223Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 12:03:18.342Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 12:03:25.444Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 12:03:35.547Z;functions.check_payment_type;  REF. LANÇAMENTO: 908885
+31-01-2024 12:03:35.665Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 12:03:39.110Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 12:03:41.216Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:03:41.216Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 12:03:44.351Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 12:03:44.506Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:03:46.507Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 12:03:46.611Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 12:03:48.713Z;functions.check_payment_type;  CTRL C
+31-01-2024 12:03:49.713Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 12:03:49.915Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 12:03:51.916Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 12:03:54.038Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 12:03:56.154Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 12:03:58.285Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 12:04:00.404Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 12:04:07.505Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 12:04:17.606Z;functions.check_payment_type;  REF. LANÇAMENTO: 909565
+31-01-2024 12:04:17.709Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 12:04:20.567Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 12:04:22.686Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:04:22.687Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 12:04:25.820Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 12:04:25.966Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:04:27.967Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 12:04:28.068Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 12:04:30.169Z;functions.check_payment_type;  CTRL C
+31-01-2024 12:04:31.170Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 12:04:31.354Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 12:04:33.355Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 12:04:35.482Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 12:04:37.591Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 12:04:39.723Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 12:04:41.842Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 12:04:48.947Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 12:04:59.049Z;functions.check_payment_type;  REF. LANÇAMENTO: 911279
+31-01-2024 12:04:59.165Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+31-01-2024 12:05:02.612Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+31-01-2024 12:05:04.717Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:05:04.717Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+31-01-2024 12:05:07.852Z;functions.waitForImage;  DADOS BANCARIOS image found.
+31-01-2024 12:05:08.009Z;functions.check_payment_type;  CLICK EM INTEGRAÇÃO BANCÁRIA
+31-01-2024 12:05:10.009Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+31-01-2024 12:05:10.111Z;functions.check_payment_type;  APERTA TAB
+31-01-2024 12:05:12.212Z;functions.check_payment_type;  CTRL C
+31-01-2024 12:05:13.212Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+31-01-2024 12:05:13.400Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+31-01-2024 12:05:15.401Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+31-01-2024 12:05:17.542Z;functions.waitForImage;  PRESS BUTTON OK image found.
+31-01-2024 12:05:19.654Z;functions.check_payment_type;  PRESS BUTTON OK
+31-01-2024 12:05:21.785Z;functions.waitForImage;  PRESS BUTTON OK 2 image found.
+31-01-2024 12:05:23.905Z;functions.check_payment_type;  PRESS BUTTON OK 2
+31-01-2024 12:05:31.009Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+31-01-2024 12:05:38.055Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+31-01-2024 12:05:38.836Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+31-01-2024 12:05:39.586Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+31-01-2024 12:05:44.689Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+31-01-2024 12:05:45.399Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+31-01-2024 12:05:46.179Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+31-01-2024 12:05:46.929Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+31-01-2024 12:06:47.109Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+31-01-2024 12:06:47.109Z;functions.process_lancamentos;  LANÇAMENTO COM ERRO
+31-01-2024 12:06:54.039Z;functions.process_lancamentos;  ERRO: Lançamento Ref. 908308: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 908621: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 908703: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 908724: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 908763: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 908822: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 908838: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 908885: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 908979: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 908983: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 909212: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 909350: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 909403: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 909529: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 909565: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 910231: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 910626: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 910641: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 910647: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 910666: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 910695: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 910701: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 910704: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911029: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911279: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911566: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911678: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911684: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911845: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911847: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911850: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911972: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 912030: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 912125: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 912127: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 912134: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 912136: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 912144: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 912150: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-908308:
+O cliente/fornecedor "012725" está inativo.
+
+   at RM.Fin.CliFor.FinCFOMod.ValidaCliFor(IFinCFOValidacaoPar cliFor)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteCliFor(FinLanCxt lanCxt, FinLanValidateEnum autorizaLan, Boolean validaDadosCliFor, DateTime dataSistema)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteCamposDefaultPreenchimento(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+
+31-01-2024 12:06:54.046Z;functions.process_lancamentos;  CORRESPONDENCIA ['908308']
+31-01-2024 12:06:55.681Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border: none;'. [1:174: {]
+31-01-2024 12:06:55.681Z;errorhandler.__handle;  Property: Unknown Property name. [1:204: -ms-interpolation-mode]
+31-01-2024 12:06:55.683Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:267: }]
+31-01-2024 12:06:55.683Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #f6f6f6;'. [1:281: {]
+31-01-2024 12:06:55.687Z;errorhandler.__handle;  Property: Unknown Property name. [1:356: -webkit-font-smoothing]
+31-01-2024 12:06:55.690Z;errorhandler.__handle;  Property: Unknown Property name. [1:486: -ms-text-size-adjust]
+31-01-2024 12:06:55.691Z;errorhandler.__handle;  Property: Unknown Property name. [1:521: -webkit-text-size-adjust]
+31-01-2024 12:06:55.692Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:559: }]
+31-01-2024 12:06:55.695Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border-collapse: separate;'. [1:574: {]
+31-01-2024 12:06:55.714Z;errorhandler.__handle;  Property: Unknown Property name. [1:617: mso-table-lspace]
+31-01-2024 12:06:55.716Z;errorhandler.__handle;  Property: Unknown Property name. [1:647: mso-table-rspace]
+31-01-2024 12:06:55.717Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:690: }]
+31-01-2024 12:06:55.719Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          font-family: sans-serif;'. [1:710: {]
+31-01-2024 12:06:55.720Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:808: }]
+31-01-2024 12:06:55.722Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #f6f6f6;'. [1:941: {]
+31-01-2024 12:06:55.723Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1003: }]
+31-01-2024 12:06:55.724Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        display: block;'. [1:1178: {]
+31-01-2024 12:06:55.753Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1342: }]
+31-01-2024 12:06:55.755Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:1452: {]
+31-01-2024 12:06:55.758Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1584: }]
+31-01-2024 12:06:55.759Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background: #ffffff;'. [1:1721: {]
+31-01-2024 12:06:55.763Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1804: }]
+31-01-2024 12:06:55.781Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:1822: {]
+31-01-2024 12:06:55.793Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1883: }]
+31-01-2024 12:06:55.794Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        padding-bottom: 10px;'. [1:1907: {]
+31-01-2024 12:06:55.796Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1969: }]
+31-01-2024 12:06:55.827Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        clear: both;'. [1:1986: {]
+31-01-2024 12:06:55.830Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2086: }]
+31-01-2024 12:06:55.831Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          color: #999999;'. [1:2165: {]
+31-01-2024 12:06:55.832Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2253: }]
+31-01-2024 12:06:55.834Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: #000000;'. [1:2404: {]
+31-01-2024 12:06:55.861Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2563: }]
+31-01-2024 12:06:55.864Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        font-size: 35px;'. [1:2575: {]
+31-01-2024 12:06:55.866Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2694: }]
+31-01-2024 12:06:55.867Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        font-family: sans-serif;'. [1:2723: {]
+31-01-2024 12:06:55.869Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2861: }]
+31-01-2024 12:06:55.895Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          list-style-position: inside;'. [1:2905: {]
+31-01-2024 12:06:55.897Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2978: }]
+31-01-2024 12:06:55.898Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: #3498db;'. [1:2989: {]
+31-01-2024 12:06:55.900Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3055: }]
+31-01-2024 12:06:55.901Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:3178: {]
+31-01-2024 12:06:55.903Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3231: }]
+31-01-2024 12:06:55.921Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          padding-bottom: 15px;'. [1:3265: {]
+31-01-2024 12:06:55.930Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3298: }]
+31-01-2024 12:06:55.931Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          width: auto;'. [1:3320: {]
+31-01-2024 12:06:55.932Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3350: }]
+31-01-2024 12:06:55.933Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          background-color: #ffffff;'. [1:3375: {]
+31-01-2024 12:06:55.934Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3477: }]
+31-01-2024 12:06:55.936Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          background-color: #ffffff;'. [1:3495: {]
+31-01-2024 12:06:56.080Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3892: }]
+31-01-2024 12:06:56.081Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #3498db;'. [1:3923: {]
+31-01-2024 12:06:56.081Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3965: }]
+31-01-2024 12:06:56.082Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #3498db;'. [1:3989: {]
+31-01-2024 12:06:56.092Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4084: }]
+31-01-2024 12:06:56.093Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-bottom: 0;'. [1:4234: {]
+31-01-2024 12:06:56.094Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4267: }]
+31-01-2024 12:06:56.095Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-top: 0;'. [1:4283: {]
+31-01-2024 12:06:56.096Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4313: }]
+31-01-2024 12:06:56.097Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: center;'. [1:4336: {]
+31-01-2024 12:06:56.097Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4371: }]
+31-01-2024 12:06:56.098Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: right;'. [1:4393: {]
+31-01-2024 12:06:56.101Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4427: }]
+31-01-2024 12:06:56.129Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: left;'. [1:4448: {]
+31-01-2024 12:06:56.133Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4481: }]
+31-01-2024 12:06:56.135Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        clear: both;'. [1:4497: {]
+31-01-2024 12:06:56.136Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4525: }]
+31-01-2024 12:06:56.137Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-top: 0;'. [1:4539: {]
+31-01-2024 12:06:56.162Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4569: }]
+31-01-2024 12:06:56.164Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-bottom: 0;'. [1:4583: {]
+31-01-2024 12:06:56.165Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4616: }]
+31-01-2024 12:06:56.166Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: transparent;'. [1:4636: {]
+31-01-2024 12:06:56.191Z;errorhandler.__handle;  Property: Unknown Property name. [1:4799: mso-hide]
+31-01-2024 12:06:56.198Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4864: }]
+31-01-2024 12:06:56.199Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-decoration: none;'. [1:4887: {]
+31-01-2024 12:06:56.200Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4925: }]
+31-01-2024 12:06:56.201Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border: 0;'. [1:4937: {]
+31-01-2024 12:06:56.233Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:5027: }]
+31-01-2024 12:06:56.269Z;errorhandler.__handle;  CSSStyleRule: No selector found: '{        table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}      }'. [1:5217: {]
+31-01-2024 12:06:56.299Z;errorhandler.__handle;  SelectorList: Unknown Syntax: ''
+31-01-2024 12:06:56.300Z;errorhandler.__handle;  Property: No ":" after name found: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}       [1:6259:       ]
+31-01-2024 12:06:56.302Z;errorhandler.__handle;  Property: No property value found: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}       [1:6259:       ]
+31-01-2024 12:06:56.329Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}      
+31-01-2024 12:06:56.333Z;errorhandler.__handle;  CSSStyleRule: No selector found: '{        .ExternalClass {{          width: 100%;         }}        .ExternalClass,        .ExternalClass p,        .ExternalClass span,        .ExternalClass font,        .ExternalClass td,        .ExternalClass div {{          line-height: 100%;         }}        .apple-link a {{          color: inherit !important;          font-family: inherit !important;          font-size: inherit !important;          font-weight: inherit !important;          line-height: inherit !important;          text-decoration: none !important;         }}        #MessageViewBody a {{          color: inherit;          text-decoration: none;          font-size: inherit;          font-family: inherit;          font-weight: inherit;          line-height: inherit;        }}        .btn-primary table td:hover {{          background-color: #34495e !important;         }}        .btn-primary a:hover {{          background-color: #34495e !important;          border-color: #34495e !important;         }}       }'. [1:6420: {]
+31-01-2024 12:06:56.360Z;errorhandler.__handle;  SelectorList: Unknown Syntax: ''
+31-01-2024 12:06:56.362Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '.ExternalClass {{          width: 100%;         }}        .ExternalClass,        .ExternalClass p,        .ExternalClass span,        .ExternalClass font,        .ExternalClass td,        .ExternalClass div {{          line-height: 100%;         }}        .apple-link a {{          color: inherit !important;          font-family: inherit !important;          font-size: inherit !important;          font-weight: inherit !important;          line-height: inherit !important;          text-decoration: none !important;         }}        #MessageViewBody a {{          color: inherit;          text-decoration: none;          font-size: inherit;          font-family: inherit;          font-weight: inherit;          line-height: inherit;        }}        .btn-primary table td:hover {{          background-color: #34495e !important;         }}        .btn-primary a:hover {{          background-color: #34495e !important;          border-color: #34495e !important;         }}       '. [1:6429: .]
+31-01-2024 12:06:56.401Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+31-01-2024 12:06:56.437Z;errorhandler.__handle;  Property: Unknown Property name. [1:24: -webkit-font-smoothing]
+31-01-2024 12:06:56.441Z;errorhandler.__handle;  Property: Unknown Property name. [1:109: -ms-text-size-adjust]
+31-01-2024 12:06:56.478Z;errorhandler.__handle;  Property: Unknown Property name. [1:135: -webkit-text-size-adjust]
+31-01-2024 12:06:56.487Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: mso-table-lspace]
+31-01-2024 12:06:56.554Z;errorhandler.__handle;  Property: Unknown Property name. [1:20: mso-table-rspace]
+31-01-2024 12:06:56.681Z;errorhandler.__handle;  Property: Unknown Property name. [1:74: mso-hide]
+31-01-2024 12:06:56.685Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+31-01-2024 12:06:56.685Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+31-01-2024 12:06:56.686Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+31-01-2024 12:06:56.687Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+31-01-2024 12:06:58.972Z;functions.emailErro;  Warning e-mail sent.
+31-01-2024 12:09:54.894Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Bancaria\main.py", line 140, in <module>
+    result = process_lancamentos()
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 572, in process_lancamentos
+    remove_send()
+  File "c:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 586, in remove_send
+    select_first_row.click()
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+31-01-2024 12:09:56.513Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+31-01-2024 12:09:56.518Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+31-01-2024 12:09:56.520Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+31-01-2024 12:09:56.520Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+31-01-2024 12:09:56.522Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+31-01-2024 12:09:56.522Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+31-01-2024 12:09:56.583Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+31-01-2024 12:09:56.712Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+31-01-2024 12:09:56.714Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+31-01-2024 12:09:56.715Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+31-01-2024 12:09:56.716Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+31-01-2024 12:09:56.717Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+31-01-2024 12:09:56.718Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+31-01-2024 12:09:56.729Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+31-01-2024 12:09:56.733Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+31-01-2024 12:10:00.397Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'click'
+31-01-2024 12:10:01.398Z;functions.show_exception_and_exit;  RM FECHADO

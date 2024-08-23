@@ -1,0 +1,48 @@
+29-01-2024 18:07:13.442Z;functions.bot_text_art;      ____   
+29-01-2024 18:07:13.442Z;functions.bot_text_art;     [____]    
+29-01-2024 18:07:13.443Z;functions.bot_text_art;   |=]()()[=|  
+29-01-2024 18:07:13.443Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+29-01-2024 18:07:13.443Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+29-01-2024 18:07:13.443Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+29-01-2024 18:07:13.443Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+29-01-2024 18:07:13.443Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+29-01-2024 18:07:13.444Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+29-01-2024 18:07:13.444Z;functions.bot_text_art;     |_||_|                                                     
+29-01-2024 18:07:13.444Z;functions.bot_text_art;     | ||_|_   
+29-01-2024 18:07:13.444Z;functions.bot_text_art;   |___||___|  
+29-01-2024 18:07:13.444Z;functions.bot_text_art;               
+29-01-2024 18:07:13.447Z;functions.open_RM;  OPEN PROGRAM RM
+29-01-2024 18:07:19.540Z;functions.loggin_RM;  ENTER USER_NAME
+29-01-2024 18:07:20.380Z;functions.loggin_RM;  ENTER PASSWORD
+29-01-2024 18:07:21.108Z;functions.loggin_RM;  ENTER RM
+29-01-2024 18:08:49.832Z;functions.enter_coligada;  CLICK CONTEXTO
+29-01-2024 18:08:53.739Z;functions.enter_coligada;  CLICK COLIGADA 1
+29-01-2024 18:08:55.177Z;functions.enter_coligada;  CLICK AVANÇAR
+29-01-2024 18:09:19.994Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 13, in <module>
+    enter_coligada()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 99, in enter_coligada
+    click_colig_cod.click()
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+29-01-2024 18:09:22.371Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+29-01-2024 18:09:22.380Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+29-01-2024 18:09:22.383Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+29-01-2024 18:09:22.383Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+29-01-2024 18:09:22.384Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+29-01-2024 18:09:22.384Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+29-01-2024 18:09:22.431Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+29-01-2024 18:09:22.457Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+29-01-2024 18:09:22.458Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+29-01-2024 18:09:22.459Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+29-01-2024 18:09:22.459Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+29-01-2024 18:09:22.459Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+29-01-2024 18:09:22.460Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+29-01-2024 18:09:22.470Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+29-01-2024 18:09:22.474Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+29-01-2024 18:09:22.474Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+29-01-2024 18:09:22.474Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+29-01-2024 18:09:22.475Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+29-01-2024 18:09:26.546Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'click'
+29-01-2024 18:09:27.546Z;functions.show_exception_and_exit;  RM FECHADO

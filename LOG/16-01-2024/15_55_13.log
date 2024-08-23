@@ -1,0 +1,65 @@
+16-01-2024 15:55:13.525Z;functions.bot_text_art;      ____   
+16-01-2024 15:55:13.525Z;functions.bot_text_art;     [____]    
+16-01-2024 15:55:13.525Z;functions.bot_text_art;   |=]()()[=|  
+16-01-2024 15:55:13.525Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+16-01-2024 15:55:13.525Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+16-01-2024 15:55:13.525Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+16-01-2024 15:55:13.525Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+16-01-2024 15:55:13.525Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+16-01-2024 15:55:13.525Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+16-01-2024 15:55:13.525Z;functions.bot_text_art;     |_||_|                                                     
+16-01-2024 15:55:13.525Z;functions.bot_text_art;     | ||_|_   
+16-01-2024 15:55:13.525Z;functions.bot_text_art;   |___||___|  
+16-01-2024 15:55:13.525Z;functions.bot_text_art;               
+16-01-2024 15:55:13.525Z;functions.open_RM;  OPEN PROGRAM RM
+16-01-2024 15:55:20.307Z;functions.loggin_RM;  ENTER USER_NAME
+16-01-2024 15:55:21.209Z;functions.loggin_RM;  ENTER PASSWORD
+16-01-2024 15:55:21.947Z;functions.loggin_RM;  ENTER RM
+16-01-2024 15:55:51.916Z;functions.enter_coligada;  CLICK CONTEXTO
+16-01-2024 15:55:55.885Z;functions.enter_coligada;  CLICK COLIGADA 1
+16-01-2024 15:55:57.291Z;functions.enter_coligada;  CLICK AVANÇAR
+16-01-2024 15:55:58.901Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+16-01-2024 15:55:59.002Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+16-01-2024 15:55:59.947Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+16-01-2024 15:56:00.854Z;functions.enter_coligada;  CLICK CONCLUIR
+16-01-2024 15:56:12.276Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+16-01-2024 15:56:12.885Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+16-01-2024 15:56:14.010Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+16-01-2024 15:56:14.729Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+16-01-2024 15:56:19.916Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+16-01-2024 15:56:20.010Z;functions.waitForImage;  LANÇAMENTOS image found.
+16-01-2024 15:56:22.151Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+16-01-2024 15:56:24.152Z;functions.data_filter;  DATA INICIO 10-01-2024
+16-01-2024 15:56:24.152Z;functions.data_filter;  DATA FIM 16-01-2024
+16-01-2024 15:56:24.152Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+16-01-2024 15:56:24.152Z;functions.data_filter;  QUARTA-FEIRA: 10-01-2024
+16-01-2024 15:56:24.152Z;functions.data_filter;  TERCA-FEIRA: 16-01-2024
+16-01-2024 15:57:26.419Z;functions.show_exception_and_exit;  PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 15, in <module>
+    data_filter()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 144, in data_filter
+    pyautogui.write('REMESSA BANCÁRIA')
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyautogui\__init__.py", line 593, in wrapper
+    failSafeCheck()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyautogui\__init__.py", line 1734, in failSafeCheck
+    raise FailSafeException(
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+16-01-2024 15:57:28.578Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+16-01-2024 15:57:28.578Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+16-01-2024 15:57:28.593Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+16-01-2024 15:57:28.593Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+16-01-2024 15:57:28.593Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+16-01-2024 15:57:28.593Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+16-01-2024 15:57:28.640Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+16-01-2024 15:57:28.671Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+16-01-2024 15:57:28.671Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+16-01-2024 15:57:28.671Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+16-01-2024 15:57:28.671Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+16-01-2024 15:57:28.671Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+16-01-2024 15:57:28.671Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+16-01-2024 15:57:28.687Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+16-01-2024 15:57:28.687Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+16-01-2024 15:57:28.687Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+16-01-2024 15:57:28.687Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+16-01-2024 15:57:28.703Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

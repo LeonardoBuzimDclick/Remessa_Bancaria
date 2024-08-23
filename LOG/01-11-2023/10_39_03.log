@@ -1,0 +1,51 @@
+01-11-2023 10:39:04.002Z;functions.bot_text_art;      ____   
+01-11-2023 10:39:04.002Z;functions.bot_text_art;     [____]    
+01-11-2023 10:39:04.002Z;functions.bot_text_art;   |=]()()[=|  
+01-11-2023 10:39:04.003Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+01-11-2023 10:39:04.003Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+01-11-2023 10:39:04.003Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+01-11-2023 10:39:04.004Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+01-11-2023 10:39:04.004Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+01-11-2023 10:39:04.005Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+01-11-2023 10:39:04.006Z;functions.bot_text_art;     |_||_|                                                     
+01-11-2023 10:39:04.006Z;functions.bot_text_art;     | ||_|_   
+01-11-2023 10:39:04.006Z;functions.bot_text_art;   |___||___|  
+01-11-2023 10:39:04.006Z;functions.bot_text_art;               
+01-11-2023 10:39:04.010Z;functions.open_RM;  OPEN PROGRAM RM
+01-11-2023 10:39:11.260Z;functions.loggin_RM;  ENTER USER_NAME
+01-11-2023 10:39:12.078Z;functions.loggin_RM;  ENTER PASSWORD
+01-11-2023 10:39:12.741Z;functions.loggin_RM;  ENTER RM
+01-11-2023 10:39:33.063Z;functions.enter_coligada;  CLICK CONTEXTO
+01-11-2023 10:39:36.937Z;functions.enter_coligada;  CLICK COLIGADA 1
+01-11-2023 10:39:38.309Z;functions.enter_coligada;  CLICK AVANÇAR
+01-11-2023 10:39:40.097Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+01-11-2023 10:39:40.199Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+01-11-2023 10:39:41.405Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+01-11-2023 10:39:42.315Z;functions.enter_coligada;  CLICK CONCLUIR
+01-11-2023 10:39:52.648Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+01-11-2023 10:39:53.267Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+01-11-2023 10:39:54.340Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+01-11-2023 10:39:55.039Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+01-11-2023 10:39:58.048Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+01-11-2023 10:39:58.177Z;functions.waitForImage;  LANÇAMENTOS image found.
+01-11-2023 10:40:00.279Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+01-11-2023 10:40:02.281Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+01-11-2023 10:40:02.281Z;functions.data_filter;  QUARTA-FEIRA: 01-11-2023
+01-11-2023 10:40:02.281Z;functions.data_filter;  TERCA-FEIRA: 07-11-2023
+01-11-2023 10:40:08.040Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+01-11-2023 10:40:08.644Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+01-11-2023 10:40:10.619Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 01-11-2023
+01-11-2023 10:40:12.227Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 07-11-2023
+01-11-2023 10:40:12.858Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+01-11-2023 10:42:07.657Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+01-11-2023 10:42:08.865Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+01-11-2023 10:42:08.998Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+01-11-2023 10:42:09.307Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+01-11-2023 10:42:26.390Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos\Remessas_Bancarias\main.py", line 16, in <module>
+    select_tipo_documento()
+  File "c:\Projetos\Remessas_Bancarias\SUBPROGRAMS\functions.py", line 232, in select_tipo_documento
+    into_filter_personalizar.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

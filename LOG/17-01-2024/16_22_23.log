@@ -1,0 +1,53 @@
+17-01-2024 16:22:23.717Z;functions.bot_text_art;      ____   
+17-01-2024 16:22:23.717Z;functions.bot_text_art;     [____]    
+17-01-2024 16:22:23.717Z;functions.bot_text_art;   |=]()()[=|  
+17-01-2024 16:22:23.717Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+17-01-2024 16:22:23.717Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+17-01-2024 16:22:23.717Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+17-01-2024 16:22:23.717Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+17-01-2024 16:22:23.717Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+17-01-2024 16:22:23.717Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+17-01-2024 16:22:23.717Z;functions.bot_text_art;     |_||_|                                                     
+17-01-2024 16:22:23.717Z;functions.bot_text_art;     | ||_|_   
+17-01-2024 16:22:23.717Z;functions.bot_text_art;   |___||___|  
+17-01-2024 16:22:23.717Z;functions.bot_text_art;               
+17-01-2024 16:22:23.717Z;functions.open_RM;  OPEN PROGRAM RM
+17-01-2024 16:22:30.294Z;functions.loggin_RM;  ENTER USER_NAME
+17-01-2024 16:22:31.117Z;functions.loggin_RM;  ENTER PASSWORD
+17-01-2024 16:22:31.820Z;functions.loggin_RM;  ENTER RM
+17-01-2024 16:23:00.263Z;functions.enter_coligada;  CLICK CONTEXTO
+17-01-2024 16:23:04.263Z;functions.enter_coligada;  CLICK COLIGADA 1
+17-01-2024 16:23:05.670Z;functions.enter_coligada;  CLICK AVANÇAR
+17-01-2024 16:23:07.310Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+17-01-2024 16:23:07.412Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+17-01-2024 16:23:08.388Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+17-01-2024 16:23:09.326Z;functions.enter_coligada;  CLICK CONCLUIR
+17-01-2024 16:23:21.216Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+17-01-2024 16:23:21.826Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+17-01-2024 16:23:22.888Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+17-01-2024 16:23:23.607Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+17-01-2024 16:23:28.732Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+17-01-2024 16:23:28.826Z;functions.waitForImage;  LANÇAMENTOS image found.
+17-01-2024 16:23:30.958Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+17-01-2024 16:23:36.044Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+17-01-2024 16:23:36.044Z;functions.enter_contas_a_pagar;  LICENCAS EXCEDIDAS
+17-01-2024 16:23:36.044Z;functions.enter_contas_a_pagar;  TENTANDO NOVAMENTE - 1
+17-01-2024 16:23:56.216Z;functions.waitForImage;  LANÇAMENTOS image found.
+17-01-2024 16:23:58.364Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+17-01-2024 16:24:13.529Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+17-01-2024 16:24:13.529Z;functions.data_filter;  DATA INICIO 17-01-2024
+17-01-2024 16:24:13.529Z;functions.data_filter;  DATA FIM 23-01-2024
+17-01-2024 16:24:13.529Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+17-01-2024 16:24:13.529Z;functions.data_filter;  QUARTA-FEIRA: 17-01-2024
+17-01-2024 16:24:13.529Z;functions.data_filter;  TERCA-FEIRA: 23-01-2024
+17-01-2024 16:25:14.356Z;functions.show_exception_and_exit;  PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 15, in <module>
+    data_filter()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 166, in data_filter
+    pyautogui.write('REMESSA BANCÁRIA')
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyautogui\__init__.py", line 593, in wrapper
+    failSafeCheck()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyautogui\__init__.py", line 1734, in failSafeCheck
+    raise FailSafeException(
+pyautogui.FailSafeException: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.

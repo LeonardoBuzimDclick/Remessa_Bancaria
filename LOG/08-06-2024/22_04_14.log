@@ -1,0 +1,33 @@
+08-06-2024 22:04:14.416Z;functions.bot_text_art;      ____   
+08-06-2024 22:04:14.416Z;functions.bot_text_art;     [____]    
+08-06-2024 22:04:14.416Z;functions.bot_text_art;   |=]()()[=|  
+08-06-2024 22:04:14.416Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+08-06-2024 22:04:14.416Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+08-06-2024 22:04:14.416Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+08-06-2024 22:04:14.416Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+08-06-2024 22:04:14.416Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+08-06-2024 22:04:14.431Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+08-06-2024 22:04:14.431Z;functions.bot_text_art;     |_||_|                                                     
+08-06-2024 22:04:14.431Z;functions.bot_text_art;     | ||_|_   
+08-06-2024 22:04:14.431Z;functions.bot_text_art;   |___||___|  
+08-06-2024 22:04:14.431Z;functions.bot_text_art;               
+08-06-2024 22:04:14.431Z;functions.open_RM;  OPEN PROGRAM RM
+08-06-2024 22:04:31.041Z;functions.loggin_RM;  ENTER USER_NAME
+08-06-2024 22:04:35.924Z;functions.loggin_RM;  ENTER PASSWORD
+08-06-2024 22:04:37.087Z;functions.loggin_RM;  ENTER RM
+08-06-2024 22:06:40.306Z;functions.enter_coligada;  CLICK CONTEXTO
+08-06-2024 22:06:42.275Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+08-06-2024 22:06:45.576Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+08-06-2024 22:06:45.737Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+08-06-2024 22:06:47.368Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+08-06-2024 22:06:48.681Z;functions.enter_coligada;  CLICK CONCLUIR
+08-06-2024 22:07:27.095Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+08-06-2024 22:07:31.939Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+08-06-2024 22:07:50.321Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 16, in <module>
+    check_movimentacao_bancaria()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 184, in check_movimentacao_bancaria
+    back_office.click()
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

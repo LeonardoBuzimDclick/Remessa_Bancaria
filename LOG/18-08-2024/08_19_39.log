@@ -1,0 +1,70 @@
+18-08-2024 08:19:40.107Z;functions.bot_text_art;      ____   
+18-08-2024 08:19:40.110Z;functions.bot_text_art;     [____]    
+18-08-2024 08:19:40.111Z;functions.bot_text_art;   |=]()()[=|  
+18-08-2024 08:19:40.124Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+18-08-2024 08:19:40.124Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+18-08-2024 08:19:40.125Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+18-08-2024 08:19:40.125Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+18-08-2024 08:19:40.125Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+18-08-2024 08:19:40.129Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+18-08-2024 08:19:40.129Z;functions.bot_text_art;     |_||_|                                                     
+18-08-2024 08:19:40.129Z;functions.bot_text_art;     | ||_|_   
+18-08-2024 08:19:40.129Z;functions.bot_text_art;   |___||___|  
+18-08-2024 08:19:40.129Z;functions.bot_text_art;               
+18-08-2024 08:19:40.198Z;functions.open_RM;  OPEN PROGRAM RM
+18-08-2024 08:19:40.198Z;functions.caps;  DESATIVANDO CAPS
+18-08-2024 08:19:40.198Z;functions.loggin_RM;  BUSCANDO LOGGIN RM
+18-08-2024 08:19:53.139Z;functions.loggin_RM;  ENTER USER_NAME
+18-08-2024 08:19:57.438Z;functions.loggin_RM;  ENTER PASSWORD
+18-08-2024 08:19:58.602Z;functions.loggin_RM;  ENTER RM
+18-08-2024 08:20:23.983Z;functions.enter_coligada;  CLICK CONTEXTO
+18-08-2024 08:20:28.076Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+18-08-2024 08:20:31.108Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+18-08-2024 08:20:31.210Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+18-08-2024 08:20:32.670Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+18-08-2024 08:20:33.670Z;functions.enter_coligada;  CLICK CONCLUIR
+18-08-2024 08:20:53.936Z;functions.waitForImage;  TROCA COLIGADA image not found.
+18-08-2024 08:21:03.436Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+18-08-2024 08:21:04.233Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+18-08-2024 08:21:05.545Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+18-08-2024 08:21:08.076Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+18-08-2024 08:21:08.076Z;functions.movimentacao_bancaria;  AGUARDANDO 1
+18-08-2024 08:21:12.826Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+18-08-2024 08:21:12.920Z;functions.waitForImage;  IMAGEM BORDERO image found.
+18-08-2024 08:21:15.052Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+18-08-2024 08:21:25.217Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+18-08-2024 08:24:26.108Z;functions.waitForImage;  IMAGEM BORDERO image not found.
+18-08-2024 08:24:36.295Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+18-08-2024 08:27:36.952Z;functions.waitForImage;  IMAGEM BORDERO image not found.
+18-08-2024 08:27:46.983Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+18-08-2024 08:29:47.524Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 16, in <module>
+    check_movimentacao_bancaria()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 199, in check_movimentacao_bancaria
+    movimentacao_bancaria()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 1113, in movimentacao_bancaria
+    filtro_movimentacao.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+18-08-2024 08:29:47.717Z;functions.show_exception_and_exit;  PRINT SALVO
+18-08-2024 08:29:47.858Z;functions.show_exception_and_exit;  RM FECHADO
+18-08-2024 08:29:50.530Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+18-08-2024 08:29:50.530Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+18-08-2024 08:29:50.546Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+18-08-2024 08:29:50.546Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+18-08-2024 08:29:50.546Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+18-08-2024 08:29:50.546Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+18-08-2024 08:29:50.592Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+18-08-2024 08:29:50.608Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+18-08-2024 08:29:50.608Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+18-08-2024 08:29:50.608Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+18-08-2024 08:29:50.608Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+18-08-2024 08:29:50.608Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+18-08-2024 08:29:50.608Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+18-08-2024 08:29:50.624Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+18-08-2024 08:29:50.624Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+18-08-2024 08:29:50.624Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+18-08-2024 08:29:50.624Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+18-08-2024 08:29:50.624Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+18-08-2024 08:29:53.577Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO

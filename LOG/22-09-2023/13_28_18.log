@@ -1,0 +1,9 @@
+22-09-2023 13:28:21.649Z;functions.select_tipo_documento;  NOME DA COLUNA:
+22-09-2023 13:28:45.913Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 20, in <module>
+    select_tipo_documento()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 148, in select_tipo_documento
+    tipo_doc_small.click()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

@@ -1,0 +1,8 @@
+21-09-2023 13:29:45.727Z;functions.show_exception_and_exit;  can only concatenate str (not "datetime.timedelta") to str
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 31, in <module>
+    lancamento_date()
+  File "c:\projetos\remessas\main.py", line 17, in lancamento_date
+    data_nova = data_atual + datetime.timedelta(days=7)
+                ~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TypeError: can only concatenate str (not "datetime.timedelta") to str

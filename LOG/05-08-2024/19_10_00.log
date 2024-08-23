@@ -1,0 +1,38 @@
+05-08-2024 19:10:00.181Z;functions.bot_text_art;      ____   
+05-08-2024 19:10:00.182Z;functions.bot_text_art;     [____]    
+05-08-2024 19:10:00.201Z;functions.bot_text_art;   |=]()()[=|  
+05-08-2024 19:10:00.201Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+05-08-2024 19:10:00.202Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+05-08-2024 19:10:00.202Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+05-08-2024 19:10:00.202Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+05-08-2024 19:10:00.203Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+05-08-2024 19:10:00.205Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+05-08-2024 19:10:00.206Z;functions.bot_text_art;     |_||_|                                                     
+05-08-2024 19:10:00.206Z;functions.bot_text_art;     | ||_|_   
+05-08-2024 19:10:00.206Z;functions.bot_text_art;   |___||___|  
+05-08-2024 19:10:00.206Z;functions.bot_text_art;               
+05-08-2024 19:10:00.212Z;functions.open_RM;  OPEN PROGRAM RM
+05-08-2024 19:10:00.213Z;functions.caps;  DESATIVANDO CAPS
+05-08-2024 19:10:00.213Z;functions.loggin_RM;  BUSCANDO LOGGIN RM
+05-08-2024 19:10:09.763Z;functions.loggin_RM;  ENTER USER_NAME
+05-08-2024 19:10:13.851Z;functions.loggin_RM;  ENTER PASSWORD
+05-08-2024 19:10:14.794Z;functions.loggin_RM;  ENTER RM
+05-08-2024 19:10:35.436Z;functions.enter_coligada;  CLICK CONTEXTO
+05-08-2024 19:10:39.435Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+05-08-2024 19:10:41.717Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+05-08-2024 19:10:41.818Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+05-08-2024 19:10:43.061Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+05-08-2024 19:10:43.999Z;functions.enter_coligada;  CLICK CONCLUIR
+05-08-2024 19:10:43.999Z;functions.show_exception_and_exit;  PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Bancaria\main.py", line 15, in <module>
+    enter_coligada()
+  File "c:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 177, in enter_coligada
+    troca = waitForImage(image = troca_coligada, timeout=20, name = 'TROCA COLIGADA')
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 2494, in waitForImage
+    location = pyautogui.locateOnScreen(image=image, confidence=0.9)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dclick\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyautogui\__init__.py", line 228, in _couldNotImportPyScreeze
+    raise PyAutoGUIException(
+pyautogui.PyAutoGUIException: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.

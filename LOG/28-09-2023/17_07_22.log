@@ -1,0 +1,22 @@
+28-09-2023 17:07:23.654Z;functions.bot_text_art;      __     
+28-09-2023 17:07:23.655Z;functions.bot_text_art;     [____]    
+28-09-2023 17:07:23.656Z;functions.bot_text_art;   |=]()()[=|  
+28-09-2023 17:07:23.656Z;functions.bot_text_art;     _\==/__    _____    ____              _____    ___   _  __
+28-09-2023 17:07:23.657Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+28-09-2023 17:07:23.658Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+28-09-2023 17:07:23.658Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+28-09-2023 17:07:23.659Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+28-09-2023 17:07:23.660Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+28-09-2023 17:07:23.660Z;functions.bot_text_art;     |_||_|                                                     
+28-09-2023 17:07:23.661Z;functions.bot_text_art;     | ||_|_   
+28-09-2023 17:07:23.661Z;functions.bot_text_art;   |___||___|  
+28-09-2023 17:07:23.662Z;functions.bot_text_art;               
+28-09-2023 17:07:24.053Z;functions.open_RM;  OPEN PROGRAM RM
+28-09-2023 17:08:15.474Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'double_click'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 13, in <module>
+    loggin_RM()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 58, in loggin_RM
+    user_rm.double_click()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'double_click'

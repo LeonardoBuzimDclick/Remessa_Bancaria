@@ -1,0 +1,60 @@
+25-09-2023 18:09:34.161Z;functions.bot_text_art;      __     
+25-09-2023 18:09:34.162Z;functions.bot_text_art;     [____]    
+25-09-2023 18:09:34.163Z;functions.bot_text_art;   |=]()()[=|  
+25-09-2023 18:09:34.165Z;functions.bot_text_art;     _\==/__    _____    ____              _____    ___   _  __
+25-09-2023 18:09:34.165Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+25-09-2023 18:09:34.165Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+25-09-2023 18:09:34.167Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+25-09-2023 18:09:34.167Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+25-09-2023 18:09:34.169Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+25-09-2023 18:09:34.169Z;functions.bot_text_art;     |_||_|                                                     
+25-09-2023 18:09:34.170Z;functions.bot_text_art;     | ||_|_   
+25-09-2023 18:09:34.170Z;functions.bot_text_art;   |___||___|  
+25-09-2023 18:09:34.171Z;functions.bot_text_art;               
+25-09-2023 18:09:34.183Z;functions.open_RM;  OPEN PROGRAM RM
+25-09-2023 18:09:42.624Z;functions.loggin_RM;  ENTER USER_NAME
+25-09-2023 18:09:43.727Z;functions.loggin_RM;  ENTER PASSWORD
+25-09-2023 18:09:44.645Z;functions.loggin_RM;  ENTER RM
+25-09-2023 18:10:06.857Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+25-09-2023 18:10:11.082Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+25-09-2023 18:10:13.734Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+25-09-2023 18:10:17.159Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+25-09-2023 18:10:18.166Z;functions.enter_contas_a_pagar;  CLICK - LANCAMENTOS
+25-09-2023 18:10:18.168Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+25-09-2023 18:10:18.168Z;functions.data_filter;  QUARTA-FEIRA: 27-09-2023
+25-09-2023 18:10:18.169Z;functions.data_filter;  TERCA-FEIRA: 03-10-2023
+25-09-2023 18:10:24.624Z;functions.data_filter;  CLICK - SELECIONA FILTRO
+25-09-2023 18:10:25.961Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+25-09-2023 18:10:28.275Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 27-09-2023
+25-09-2023 18:10:30.190Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 03-10-2023
+25-09-2023 18:10:31.072Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+25-09-2023 18:10:36.268Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+25-09-2023 18:10:37.865Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+25-09-2023 18:10:37.998Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+25-09-2023 18:10:38.391Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+25-09-2023 18:10:40.256Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+25-09-2023 18:10:41.344Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR: Não é igual a
+25-09-2023 18:10:42.414Z;functions.select_tipo_documento;  ENVIAR A HOTKEY INV
+25-09-2023 18:10:43.196Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+25-09-2023 18:10:45.133Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+25-09-2023 18:10:46.469Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+25-09-2023 18:10:47.871Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+25-09-2023 18:10:49.371Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+25-09-2023 18:10:50.803Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+25-09-2023 18:10:52.032Z;functions.filter_IPTE;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+25-09-2023 18:11:07.119Z;functions.filter_IPTE;  147 PASSOS PARA DIREITA NA TABELA >>
+25-09-2023 18:11:11.049Z;functions.filter_IPTE;  HOVER FILTER
+25-09-2023 18:11:11.183Z;functions.filter_IPTE;  CLICK FILTER
+25-09-2023 18:11:15.537Z;functions.filter_IPTE;  CLICA NO FILTRO PERSONALIZAR
+25-09-2023 18:11:21.937Z;functions.check_payment_type;  ABRE A NOTA
+25-09-2023 18:11:21.938Z;functions.show_exception_and_exit;  'module' object is not callable
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 20, in <module>
+    check_payment_type()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 266, in check_payment_type
+    select_integracao_bancaria = waitForImage(image = integracao_bancaria, timeout=10, name = 'INTEGRAÇÃO BANCÁRIA')
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 301, in waitForImage
+    inicialTime = time()
+                  ^^^^^^
+TypeError: 'module' object is not callable

@@ -1,0 +1,48 @@
+22-09-2023 17:19:54.576Z;functions.bot_text_art;      __     
+22-09-2023 17:19:54.577Z;functions.bot_text_art;     [____]    
+22-09-2023 17:19:54.578Z;functions.bot_text_art;   |=]()()[=|  
+22-09-2023 17:19:54.578Z;functions.bot_text_art;     _\==/__    _____    ____              _____    ___   _  __
+22-09-2023 17:19:54.579Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+22-09-2023 17:19:54.579Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+22-09-2023 17:19:54.580Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+22-09-2023 17:19:54.582Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+22-09-2023 17:19:54.583Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+22-09-2023 17:19:54.585Z;functions.bot_text_art;     |_||_|                                                     
+22-09-2023 17:19:54.586Z;functions.bot_text_art;     | ||_|_   
+22-09-2023 17:19:54.586Z;functions.bot_text_art;   |___||___|  
+22-09-2023 17:19:54.587Z;functions.bot_text_art;               
+22-09-2023 17:19:54.595Z;functions.open_RM;  OPEN PROGRAM RM
+22-09-2023 17:20:02.852Z;functions.loggin_RM;  ENTER USER_NAME
+22-09-2023 17:20:04.046Z;functions.loggin_RM;  ENTER PASSWORD
+22-09-2023 17:20:04.932Z;functions.loggin_RM;  ENTER RM
+22-09-2023 17:20:27.809Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+22-09-2023 17:20:32.137Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+22-09-2023 17:20:34.785Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+22-09-2023 17:20:38.177Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+22-09-2023 17:20:39.103Z;functions.enter_contas_a_pagar;  CLICK - LANCAMENTOS
+22-09-2023 17:20:39.104Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+22-09-2023 17:20:39.105Z;functions.data_filter;  QUARTA-FEIRA: 20-09-2023
+22-09-2023 17:20:39.106Z;functions.data_filter;  TERCA-FEIRA: 26-09-2023
+22-09-2023 17:20:45.604Z;functions.data_filter;  CLICK - SELECIONA FILTRO
+22-09-2023 17:20:47.036Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+22-09-2023 17:20:49.366Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 20-09-2023
+22-09-2023 17:20:51.193Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 26-09-2023
+22-09-2023 17:20:52.271Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+22-09-2023 17:20:56.943Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+22-09-2023 17:20:58.472Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+22-09-2023 17:20:58.630Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+22-09-2023 17:20:58.974Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+22-09-2023 17:21:00.420Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+22-09-2023 17:21:01.564Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR: Não é igual a
+22-09-2023 17:21:02.630Z;functions.select_tipo_documento;  ENVIAR A HOTKEY INV
+22-09-2023 17:21:03.395Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+22-09-2023 17:21:43.197Z;functions.show_exception_and_exit;  Element can not be found.
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 17, in <module>
+    select_tipo_documento()
+  File "c:\projetos\remessas\SUBPROGRAMS\functions.py", line 207, in select_tipo_documento
+    ui(locator.rm.button_confirmar_not_inv).send_hotkey('{RIGHT}')
+  File "C:\projetos\remessas\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 157, in wrapper
+    raise exception;
+    ^^^^^^^^^^^^^^^
+clicknium.common.models.exceptions.ElementNotFoundError: Element can not be found.

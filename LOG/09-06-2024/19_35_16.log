@@ -1,0 +1,22 @@
+09-06-2024 19:35:16.401Z;functions.bot_text_art;      ____   
+09-06-2024 19:35:16.401Z;functions.bot_text_art;     [____]    
+09-06-2024 19:35:16.401Z;functions.bot_text_art;   |=]()()[=|  
+09-06-2024 19:35:16.401Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+09-06-2024 19:35:16.401Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+09-06-2024 19:35:16.416Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+09-06-2024 19:35:16.416Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+09-06-2024 19:35:16.416Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+09-06-2024 19:35:16.416Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+09-06-2024 19:35:16.416Z;functions.bot_text_art;     |_||_|                                                     
+09-06-2024 19:35:16.416Z;functions.bot_text_art;     | ||_|_   
+09-06-2024 19:35:16.416Z;functions.bot_text_art;   |___||___|  
+09-06-2024 19:35:16.416Z;functions.bot_text_art;               
+09-06-2024 19:35:16.432Z;functions.open_RM;  OPEN PROGRAM RM
+09-06-2024 20:25:48.794Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'double_click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 14, in <module>
+    loggin_RM()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 86, in loggin_RM
+    user_rm.double_click()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'double_click'

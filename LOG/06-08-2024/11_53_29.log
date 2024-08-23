@@ -1,0 +1,79 @@
+06-08-2024 11:53:29.901Z;functions.bot_text_art;      ____   
+06-08-2024 11:53:29.901Z;functions.bot_text_art;     [____]    
+06-08-2024 11:53:29.901Z;functions.bot_text_art;   |=]()()[=|  
+06-08-2024 11:53:29.901Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+06-08-2024 11:53:29.901Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+06-08-2024 11:53:29.901Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+06-08-2024 11:53:29.901Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+06-08-2024 11:53:29.901Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+06-08-2024 11:53:29.901Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+06-08-2024 11:53:29.901Z;functions.bot_text_art;     |_||_|                                                     
+06-08-2024 11:53:29.901Z;functions.bot_text_art;     | ||_|_   
+06-08-2024 11:53:29.901Z;functions.bot_text_art;   |___||___|  
+06-08-2024 11:53:29.901Z;functions.bot_text_art;               
+06-08-2024 11:53:29.901Z;functions.open_RM;  OPEN PROGRAM RM
+06-08-2024 11:53:29.901Z;functions.caps;  DESATIVANDO CAPS
+06-08-2024 11:53:29.901Z;functions.loggin_RM;  BUSCANDO LOGGIN RM
+06-08-2024 11:53:37.620Z;functions.loggin_RM;  ENTER USER_NAME
+06-08-2024 11:53:41.683Z;functions.loggin_RM;  ENTER PASSWORD
+06-08-2024 11:53:42.573Z;functions.loggin_RM;  ENTER RM
+06-08-2024 11:53:58.792Z;functions.enter_coligada;  CLICK CONTEXTO
+06-08-2024 11:54:02.917Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+06-08-2024 11:54:05.480Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+06-08-2024 11:54:05.581Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+06-08-2024 11:54:06.574Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+06-08-2024 11:54:07.511Z;functions.enter_coligada;  CLICK CONCLUIR
+06-08-2024 11:54:07.823Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyautogui\__init__.py", line 210, in locateOnScreen
+    return pyscreeze.locateOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyscreeze\__init__.py", line 257, in _locateAll_opencv
+    raise ImageNotFoundException('Could not locate the image (highest confidence = %.3f)' % result.max())
+pyscreeze.ImageNotFoundException: Could not locate the image (highest confidence = 0.317)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 15, in <module>
+    enter_coligada()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 177, in enter_coligada
+    troca = waitForImage(image = troca_coligada, timeout=20, name = 'TROCA COLIGADA')
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 2495, in waitForImage
+    location = pyautogui.locateOnScreen(image=image, confidence=0.9)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\venv\Lib\site-packages\pyautogui\__init__.py", line 174, in wrapper
+    raise ImageNotFoundException  # Raise PyAutoGUI's ImageNotFoundException.
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyautogui.ImageNotFoundException
+06-08-2024 11:54:08.011Z;functions.show_exception_and_exit;  PRINT SALVO
+06-08-2024 11:54:08.120Z;functions.show_exception_and_exit;  RM FECHADO
+06-08-2024 11:54:12.573Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+06-08-2024 11:54:12.605Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+06-08-2024 11:54:12.605Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+06-08-2024 11:54:12.605Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+06-08-2024 11:54:12.605Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+06-08-2024 11:54:12.605Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+06-08-2024 11:54:12.651Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+06-08-2024 11:54:12.683Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+06-08-2024 11:54:12.683Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+06-08-2024 11:54:12.683Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+06-08-2024 11:54:12.683Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+06-08-2024 11:54:12.683Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+06-08-2024 11:54:12.683Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+06-08-2024 11:54:12.698Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+06-08-2024 11:54:12.698Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+06-08-2024 11:54:12.698Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+06-08-2024 11:54:12.698Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+06-08-2024 11:54:12.698Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+06-08-2024 11:54:16.673Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO

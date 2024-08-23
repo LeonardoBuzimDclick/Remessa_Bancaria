@@ -1,0 +1,31 @@
+12-06-2024 16:51:49.525Z;functions.caps;  DESATIVANDO CAPS
+12-06-2024 16:51:49.527Z;functions.loggin_RM;  BUSCANDO LOGGIN RM
+12-06-2024 16:51:55.580Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'double_click'
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Bancaria\main.py", line 14, in <module>
+    loggin_RM()
+  File "c:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 88, in loggin_RM
+    user_rm.double_click()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'double_click'
+12-06-2024 16:51:56.141Z;functions.show_exception_and_exit;  PRINT SALVO
+12-06-2024 16:51:56.471Z;functions.show_exception_and_exit;  RM FECHADO
+12-06-2024 16:52:02.189Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+12-06-2024 16:52:02.247Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+12-06-2024 16:52:02.260Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+12-06-2024 16:52:02.262Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+12-06-2024 16:52:02.268Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+12-06-2024 16:52:02.269Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+12-06-2024 16:52:02.500Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+12-06-2024 16:52:02.630Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+12-06-2024 16:52:02.635Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+12-06-2024 16:52:02.639Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+12-06-2024 16:52:02.641Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+12-06-2024 16:52:02.645Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+12-06-2024 16:52:02.647Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+12-06-2024 16:52:02.695Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+12-06-2024 16:52:02.711Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+12-06-2024 16:52:02.713Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+12-06-2024 16:52:02.716Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+12-06-2024 16:52:02.723Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+12-06-2024 16:52:05.813Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO

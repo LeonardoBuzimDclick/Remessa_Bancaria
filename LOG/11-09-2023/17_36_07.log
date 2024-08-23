@@ -1,0 +1,39 @@
+11-09-2023 17:36:07.179Z;functions.bot_text_art;      __     
+11-09-2023 17:36:07.180Z;functions.bot_text_art;     [____]    
+11-09-2023 17:36:07.183Z;functions.bot_text_art;   |=]()()[=|  
+11-09-2023 17:36:07.215Z;functions.bot_text_art;   _\==_/__   ___     ___   _        ___    ___   _  __
+11-09-2023 17:36:07.222Z;functions.bot_text_art;  |__|    |__| |  _ \   / ___| | |      |_   |  / ___| | |/ /
+11-09-2023 17:36:07.308Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |      | ' / 
+11-09-2023 17:36:07.380Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |      |  <  
+11-09-2023 17:36:07.514Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   | |  | |____  | . \ 
+11-09-2023 17:36:07.713Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+11-09-2023 17:36:07.767Z;functions.bot_text_art;     |_||_|                                                       
+11-09-2023 17:36:07.777Z;functions.bot_text_art;    |||_|_   
+11-09-2023 17:36:07.787Z;functions.bot_text_art;   |___||___|  
+11-09-2023 17:36:07.788Z;functions.bot_text_art;               
+11-09-2023 17:36:07.872Z;functions.show_exception_and_exit;  division by zero
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 20, in <module>
+    process()
+  File "c:\projetos\remessas\main.py", line 15, in process
+    A = 0/0
+        ~^~
+ZeroDivisionError: division by zero
+11-09-2023 17:36:09.362Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+11-09-2023 17:36:09.543Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+11-09-2023 17:36:09.623Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+11-09-2023 17:36:09.672Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+11-09-2023 17:36:09.729Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+11-09-2023 17:36:09.824Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+11-09-2023 17:36:10.268Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+11-09-2023 17:36:10.572Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+11-09-2023 17:36:10.580Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+11-09-2023 17:36:10.584Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+11-09-2023 17:36:10.586Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+11-09-2023 17:36:10.590Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+11-09-2023 17:36:10.592Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+11-09-2023 17:36:10.826Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+11-09-2023 17:36:10.918Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+11-09-2023 17:36:10.943Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+11-09-2023 17:36:11.139Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+11-09-2023 17:36:11.285Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

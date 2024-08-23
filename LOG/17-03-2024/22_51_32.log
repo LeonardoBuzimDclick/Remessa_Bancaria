@@ -1,0 +1,1340 @@
+17-03-2024 22:51:32.556Z;functions.bot_text_art;      ____   
+17-03-2024 22:51:32.557Z;functions.bot_text_art;     [____]    
+17-03-2024 22:51:32.558Z;functions.bot_text_art;   |=]()()[=|  
+17-03-2024 22:51:32.558Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+17-03-2024 22:51:32.558Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+17-03-2024 22:51:32.559Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+17-03-2024 22:51:32.559Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+17-03-2024 22:51:32.559Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+17-03-2024 22:51:32.561Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+17-03-2024 22:51:32.561Z;functions.bot_text_art;     |_||_|                                                     
+17-03-2024 22:51:32.562Z;functions.bot_text_art;     | ||_|_   
+17-03-2024 22:51:32.562Z;functions.bot_text_art;   |___||___|  
+17-03-2024 22:51:32.562Z;functions.bot_text_art;               
+17-03-2024 22:51:32.568Z;functions.open_RM;  OPEN PROGRAM RM
+17-03-2024 22:51:46.653Z;functions.loggin_RM;  ENTER USER_NAME
+17-03-2024 22:51:51.203Z;functions.loggin_RM;  ENTER PASSWORD
+17-03-2024 22:51:52.450Z;functions.loggin_RM;  ENTER RM
+17-03-2024 22:52:36.294Z;functions.enter_coligada;  CLICK CONTEXTO
+17-03-2024 22:52:41.826Z;functions.enter_coligada;  CLICK COLIGADA 1
+17-03-2024 22:52:44.200Z;functions.enter_coligada;  CLICK AVANÇAR
+17-03-2024 22:52:46.854Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+17-03-2024 22:52:46.963Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+17-03-2024 22:52:48.388Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+17-03-2024 22:52:49.611Z;functions.enter_coligada;  CLICK CONCLUIR
+17-03-2024 22:53:17.187Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+17-03-2024 22:53:18.076Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+17-03-2024 22:53:20.013Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+17-03-2024 22:53:20.982Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+17-03-2024 22:53:28.138Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+17-03-2024 22:53:29.610Z;functions.waitForImage;  IMAGEM BORDERO image found.
+17-03-2024 22:53:31.741Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+17-03-2024 22:53:52.357Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+17-03-2024 22:53:53.013Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+17-03-2024 22:53:53.076Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+17-03-2024 22:53:56.288Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+17-03-2024 22:54:17.155Z;functions.waitForImage;  FILTER CLEAN image not found.
+17-03-2024 22:54:32.216Z;functions.waitForImage;  FILTER CLEAN image not found.
+17-03-2024 22:54:47.264Z;functions.waitForImage;  FILTER CLEAN image not found.
+17-03-2024 22:55:05.357Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO
+17-03-2024 22:55:30.388Z;functions.waitForImage;  FILTER CLEAN image not found.
+17-03-2024 22:55:46.263Z;functions.waitForImage;  FILTER CLEAN image not found.
+17-03-2024 22:56:01.264Z;functions.waitForImage;  FILTER CLEAN image not found.
+17-03-2024 22:56:37.373Z;functions.processo_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+17-03-2024 22:56:38.478Z;functions.processo_pagamento;  FECHA ABA MOVIMENTAÇÕES BANCÁRIAS
+17-03-2024 22:56:40.232Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+17-03-2024 22:56:41.863Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+17-03-2024 22:56:42.889Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+17-03-2024 22:56:51.670Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+17-03-2024 22:56:52.951Z;functions.waitForImage;  LANÇAMENTOS image found.
+17-03-2024 22:56:55.084Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+17-03-2024 22:57:10.601Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+17-03-2024 22:57:10.602Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 22
+17-03-2024 22:57:10.606Z;functions.obter_intervalo_data;  Data Inicial BANCARIA antes da remoção: None
+17-03-2024 22:57:10.606Z;functions.obter_intervalo_data;  Data Final BANCARIA antes da remoção: None
+17-03-2024 22:57:10.609Z;functions.obter_intervalo_data;  Data Inicial BANCARIA após a remoção: None
+17-03-2024 22:57:10.610Z;functions.obter_intervalo_data;  Data Final BANCARIA após a remoção: None
+17-03-2024 22:57:10.610Z;functions.obter_intervalo_data;  hoje -  2024-03-17 22:57:10.610417
+17-03-2024 22:57:10.611Z;functions.data_filter;  DATA INICIO 20-03-2024
+17-03-2024 22:57:10.612Z;functions.data_filter;  DATA FIM 26-03-2024
+17-03-2024 22:57:10.612Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+17-03-2024 22:57:10.613Z;functions.data_filter;  QUARTA-FEIRA: 20-03-2024
+17-03-2024 22:57:10.613Z;functions.data_filter;  TERCA-FEIRA: 26-03-2024
+17-03-2024 22:57:13.520Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+17-03-2024 22:57:15.047Z;functions.data_filter;  CLICK - BOTAO DE SELECAO DE FILTRO
+17-03-2024 22:57:19.842Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 20-03-2024
+17-03-2024 22:57:23.904Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 26-03-2024
+17-03-2024 22:57:24.857Z;functions.data_filter;  CLICK - BOTAO DE EXECUTAR O FILTRO
+17-03-2024 23:00:06.955Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+17-03-2024 23:00:08.764Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+17-03-2024 23:00:10.701Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+17-03-2024 23:00:12.717Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+17-03-2024 23:00:14.967Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+17-03-2024 23:00:20.420Z;functions.waitForImage;  FILTER CLEAN image found.
+17-03-2024 23:00:22.524Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+17-03-2024 23:00:37.686Z;functions.waitForImage;  FILTER CLEAN image not found.
+17-03-2024 23:00:52.967Z;functions.waitForImage;  FILTER CLEAN image not found.
+17-03-2024 23:00:52.967Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+17-03-2024 23:00:55.388Z;functions.check_table_record;  Texto extraido 1/98
+17-03-2024 23:00:55.388Z;functions.check_table_record;  Count 98
+17-03-2024 23:00:55.388Z;functions.check_table_record;  Type <class 'int'>
+17-03-2024 23:00:55.388Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+17-03-2024 23:01:07.070Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+17-03-2024 23:01:08.904Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+17-03-2024 23:01:09.699Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+17-03-2024 23:01:12.232Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+17-03-2024 23:01:19.545Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+17-03-2024 23:01:24.551Z;functions.filter_IPTE;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+17-03-2024 23:01:25.982Z;functions.filter_IPTE;  CLICA NA PRIMEIRA LINHA DA TABELA
+17-03-2024 23:01:49.514Z;functions.filter_IPTE;  HOVER FILTER
+17-03-2024 23:01:51.179Z;functions.filter_IPTE;  CLICK FILTER
+17-03-2024 23:01:55.512Z;functions.filter_IPTE;  CLICA NO FILTRO PERSONALIZAR
+17-03-2024 23:02:04.229Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+17-03-2024 23:02:06.687Z;functions.check_table_record;  Texto extraido 1/30
+17-03-2024 23:02:06.687Z;functions.check_table_record;  Count 30
+17-03-2024 23:02:06.687Z;functions.check_table_record;  Type <class 'int'>
+17-03-2024 23:02:06.687Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+17-03-2024 23:02:18.232Z;functions.select_all_func;  SELECIONA TODOS OS REGISTROS
+17-03-2024 23:02:18.232Z;functions.check_payment_type;  VERIFICANDO O COD DO CLIENTE EM CADA REGISTRO
+17-03-2024 23:02:19.811Z;functions.check_payment_type;  CLICA NA PRIMEIRA LINHA DA TABELA
+17-03-2024 23:02:27.920Z;functions.check_payment_type;  REF. LANÇAMENTO: 930373
+17-03-2024 23:02:28.027Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:02:42.176Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:02:44.304Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:02:44.304Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:02:47.717Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:02:47.834Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:02:49.835Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:02:49.938Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:02:52.043Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:02:53.044Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:02:53.529Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:02:55.536Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:02:57.983Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:03:00.170Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:03:02.628Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:03:04.742Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:03:08.847Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:03:18.952Z;functions.check_payment_type;  REF. LANÇAMENTO: 930374
+17-03-2024 23:03:19.057Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:03:27.389Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:03:29.522Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:03:29.522Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:03:32.936Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:03:33.055Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:03:35.056Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:03:35.159Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:03:37.263Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:03:38.264Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:03:38.733Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:03:40.738Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:03:43.154Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:03:45.275Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:03:47.702Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:03:49.834Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:03:53.937Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:04:04.042Z;functions.check_payment_type;  REF. LANÇAMENTO: 930375
+17-03-2024 23:04:04.148Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:04:13.140Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:04:15.272Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:04:15.272Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:04:18.687Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:04:18.804Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:04:20.842Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:04:20.961Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:04:23.066Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:04:24.067Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:04:24.545Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:04:26.551Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:04:28.982Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:04:31.118Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:04:33.529Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:04:35.647Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:04:39.750Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:04:49.855Z;functions.check_payment_type;  REF. LANÇAMENTO: 930376
+17-03-2024 23:04:49.960Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:04:59.233Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:05:01.368Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:05:01.368Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:05:04.780Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:05:04.899Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:05:06.900Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:05:07.003Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:05:09.107Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:05:10.108Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:05:10.545Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:05:12.558Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:05:14.998Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:05:17.116Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:05:19.546Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:05:21.680Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:05:25.784Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:05:35.889Z;functions.check_payment_type;  REF. LANÇAMENTO: 930377
+17-03-2024 23:05:35.994Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:05:45.155Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:05:47.272Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:05:47.272Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:05:50.702Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:05:50.835Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:05:52.836Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:05:52.939Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:05:55.044Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:05:56.045Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:05:56.530Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:05:58.538Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:06:00.967Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:06:03.119Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:06:05.545Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:06:07.679Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:06:11.783Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:06:21.889Z;functions.check_payment_type;  REF. LANÇAMENTO: 930378
+17-03-2024 23:06:21.997Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:06:31.045Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:06:33.181Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:06:33.181Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:06:36.607Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:06:36.743Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:06:38.744Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:06:38.847Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:06:40.951Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:06:41.953Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:06:42.421Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:06:44.431Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:06:46.852Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:06:48.960Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:06:51.405Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:06:53.522Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:06:57.626Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:07:07.733Z;functions.check_payment_type;  REF. LANÇAMENTO: 930380
+17-03-2024 23:07:07.838Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:07:17.023Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:07:19.147Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:07:19.147Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:07:22.577Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:07:22.712Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:07:24.713Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:07:24.817Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:07:26.922Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:07:27.923Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:07:28.390Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:07:30.395Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:07:32.827Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:07:34.960Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:07:37.390Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:07:39.524Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:07:43.629Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:07:53.734Z;functions.check_payment_type;  REF. LANÇAMENTO: 930381
+17-03-2024 23:07:53.839Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:08:03.780Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:08:05.901Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:08:05.901Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:08:09.264Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:08:09.400Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:08:11.400Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:08:11.503Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:08:13.607Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:08:14.608Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:08:15.077Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:08:17.080Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:08:19.499Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:08:21.624Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:08:24.030Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:08:26.147Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:08:30.251Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:08:40.358Z;functions.check_payment_type;  REF. LANÇAMENTO: 930382
+17-03-2024 23:08:40.463Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:08:50.483Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:08:52.616Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:08:52.617Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:08:56.045Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:08:56.178Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:08:58.179Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:08:58.282Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:09:00.386Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:09:01.387Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:09:01.861Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:09:03.867Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:09:06.311Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:09:08.460Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:09:10.874Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:09:12.991Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:09:17.094Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:09:27.200Z;functions.check_payment_type;  REF. LANÇAMENTO: 930384
+17-03-2024 23:09:27.305Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:09:35.420Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:09:37.554Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:09:37.554Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:09:40.967Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:09:41.084Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:09:43.085Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:09:43.190Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:09:45.295Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:09:46.296Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:09:46.768Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:09:48.770Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:09:51.202Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:09:53.335Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:09:55.764Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:09:57.897Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:10:02.000Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:10:12.105Z;functions.check_payment_type;  REF. LANÇAMENTO: 930385
+17-03-2024 23:10:12.211Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:10:22.295Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:10:24.430Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:10:24.430Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:10:27.844Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:10:27.991Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:10:29.992Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:10:30.095Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:10:32.199Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:10:33.200Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:10:33.629Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:10:35.630Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:10:38.077Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:10:40.210Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:10:42.638Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:10:44.774Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:10:48.879Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:10:58.984Z;functions.check_payment_type;  REF. LANÇAMENTO: 930386
+17-03-2024 23:10:59.089Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:11:07.249Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:11:09.368Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:11:09.368Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:11:12.780Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:11:12.897Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:11:14.899Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:11:15.002Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:11:17.107Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:11:18.108Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:11:18.577Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:11:20.583Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:11:22.968Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:11:25.085Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:11:27.499Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:11:29.648Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:11:33.751Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:11:43.855Z;functions.check_payment_type;  REF. LANÇAMENTO: 930387
+17-03-2024 23:11:43.960Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:11:52.139Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:11:54.273Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:11:54.273Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:11:57.702Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:11:57.842Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:11:59.844Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:11:59.946Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:12:02.050Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:12:03.051Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:12:03.436Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:12:05.441Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:12:07.952Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:12:10.084Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:12:12.499Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:12:14.617Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:12:18.721Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:12:28.827Z;functions.check_payment_type;  REF. LANÇAMENTO: 930388
+17-03-2024 23:12:28.933Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:12:38.155Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:12:40.311Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:12:40.311Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:12:43.733Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:12:43.868Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:12:45.905Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:12:46.030Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:12:48.134Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:12:49.136Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:12:49.627Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:12:51.627Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:12:54.077Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:12:56.212Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:12:58.644Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:13:00.773Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:13:04.877Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:13:14.984Z;functions.check_payment_type;  REF. LANÇAMENTO: 930389
+17-03-2024 23:13:15.088Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:13:27.218Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:13:29.338Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:13:29.338Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:13:32.749Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:13:32.866Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:13:34.868Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:13:34.971Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:13:37.075Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:13:38.076Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:13:38.546Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:13:40.551Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:13:42.983Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:13:45.116Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:13:47.530Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:13:49.679Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:13:53.783Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:14:03.888Z;functions.check_payment_type;  REF. LANÇAMENTO: 930390
+17-03-2024 23:14:03.993Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:14:12.327Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:14:14.460Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:14:14.460Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:14:17.858Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:14:17.991Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:14:19.992Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:14:20.104Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:14:22.208Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:14:23.209Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:14:23.687Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:14:25.689Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:14:28.109Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:14:30.242Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:14:32.671Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:14:34.806Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:14:38.911Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:14:49.016Z;functions.check_payment_type;  REF. LANÇAMENTO: 930391
+17-03-2024 23:14:49.121Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:14:59.390Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:15:01.523Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:15:01.523Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:15:04.921Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:15:05.054Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:15:07.055Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:15:07.159Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:15:09.266Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:15:10.267Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:15:10.765Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:15:12.771Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:15:15.202Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:15:17.353Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:15:19.780Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:15:21.898Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:15:26.005Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:15:36.110Z;functions.check_payment_type;  REF. LANÇAMENTO: 930392
+17-03-2024 23:15:36.215Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:15:43.441Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:15:45.554Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:15:45.554Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:15:48.984Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:15:49.119Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:15:51.122Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:15:51.296Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:15:53.412Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:15:54.413Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:15:54.905Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:15:56.908Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:15:59.327Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:16:01.463Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:16:03.905Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:16:06.025Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:16:10.133Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:16:20.238Z;functions.check_payment_type;  REF. LANÇAMENTO: 930393
+17-03-2024 23:16:20.345Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:16:29.437Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:16:31.554Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:16:31.554Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:16:34.999Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:16:35.117Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:16:37.119Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:16:37.221Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:16:39.325Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:16:40.325Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:16:40.796Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:16:42.807Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:16:45.234Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:16:47.367Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:16:49.812Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:16:51.930Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:16:56.035Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:17:06.140Z;functions.check_payment_type;  REF. LANÇAMENTO: 930394
+17-03-2024 23:17:06.247Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:17:13.437Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:17:15.554Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:17:15.554Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:17:18.953Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:17:19.085Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:17:21.090Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:17:21.194Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:17:23.304Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:17:24.305Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:17:24.780Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:17:26.794Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:17:29.218Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:17:31.382Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:17:33.827Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:17:35.961Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:17:40.065Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:17:50.170Z;functions.check_payment_type;  REF. LANÇAMENTO: 930395
+17-03-2024 23:17:50.274Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:18:00.249Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:18:02.369Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:18:02.369Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:18:05.796Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:18:05.929Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:18:07.930Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:18:08.033Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:18:10.137Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:18:11.138Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:18:11.598Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:18:13.599Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:18:15.937Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:18:18.054Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:18:20.468Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:18:22.586Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:18:26.690Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:18:36.795Z;functions.check_payment_type;  REF. LANÇAMENTO: 930396
+17-03-2024 23:18:36.907Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:18:45.140Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:18:47.273Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:18:47.273Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:18:50.687Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:18:50.807Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:18:52.808Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:18:52.912Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:18:55.017Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:18:56.018Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:18:56.500Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:18:58.501Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:19:00.937Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:19:03.057Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:19:05.468Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:19:07.588Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:19:11.691Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:19:21.796Z;functions.check_payment_type;  REF. LANÇAMENTO: 930397
+17-03-2024 23:19:21.908Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:19:31.187Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:19:33.307Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:19:33.307Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:19:36.718Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:19:36.836Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:19:38.838Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:19:38.940Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:19:41.044Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:19:42.045Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:19:42.515Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:19:44.527Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:19:46.956Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:19:49.086Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:19:51.515Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:19:53.648Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:19:57.751Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:20:07.856Z;functions.check_payment_type;  REF. LANÇAMENTO: 930398
+17-03-2024 23:20:07.962Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:20:16.172Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:20:18.306Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:20:18.306Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:20:21.703Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:20:21.836Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:20:23.837Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:20:23.940Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:20:26.044Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:20:27.045Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:20:27.515Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:20:29.520Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:20:31.956Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:20:34.101Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:20:36.531Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:20:38.680Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:20:42.783Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:20:52.888Z;functions.check_payment_type;  REF. LANÇAMENTO: 930399
+17-03-2024 23:20:52.993Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:21:01.296Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:21:03.429Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:21:03.429Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:21:06.861Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:21:06.994Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:21:08.996Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:21:09.105Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:21:11.210Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:21:12.211Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:21:12.671Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:21:14.674Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:21:17.119Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:21:19.244Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:21:21.670Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:21:23.806Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:21:27.909Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:21:38.015Z;functions.check_payment_type;  REF. LANÇAMENTO: 930400
+17-03-2024 23:21:38.119Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:21:48.265Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:21:50.398Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:21:50.398Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:21:53.812Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:21:53.931Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:21:55.932Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:21:56.035Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:21:58.140Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:21:59.141Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:21:59.484Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:22:01.489Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:22:03.921Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:22:06.070Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:22:08.531Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:22:10.649Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:22:14.752Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:22:24.857Z;functions.check_payment_type;  REF. LANÇAMENTO: 930401
+17-03-2024 23:22:24.962Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:22:33.921Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:22:36.054Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:22:36.054Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:22:39.469Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:22:39.586Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:22:41.587Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:22:41.691Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:22:43.795Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:22:44.796Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:22:45.265Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:22:47.267Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:22:49.701Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:22:51.850Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:22:54.281Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:22:56.399Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:23:00.503Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:23:10.607Z;functions.check_payment_type;  REF. LANÇAMENTO: 930402
+17-03-2024 23:23:10.713Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:23:18.046Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:23:20.180Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:23:20.180Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:23:23.614Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:23:23.744Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:23:25.745Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:23:25.847Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:23:27.952Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:23:28.953Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:23:29.422Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:23:31.431Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:23:33.859Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:23:35.992Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:23:38.422Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:23:40.555Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:23:44.659Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:23:54.763Z;functions.check_payment_type;  REF. LANÇAMENTO: 930403
+17-03-2024 23:23:54.869Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:24:05.984Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:24:08.120Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:24:08.120Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:24:11.562Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:24:11.680Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:24:13.681Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:24:13.784Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:24:15.889Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:24:16.889Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:24:17.359Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:24:19.370Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:24:21.799Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:24:23.930Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:24:26.375Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:24:28.493Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:24:32.597Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:24:42.703Z;functions.check_payment_type;  REF. LANÇAMENTO: 930404
+17-03-2024 23:24:42.808Z;functions.check_payment_type;  ENTRANDO NO REGISTRO
+17-03-2024 23:24:51.219Z;functions.waitForImage;  INTEGRAÇÃO BANCÁRIA image found.
+17-03-2024 23:24:53.367Z;functions.check_payment_type;  CLICA EM INTEGRAÇÃO BANCÁRIA
+17-03-2024 23:24:53.367Z;functions.check_payment_type;  VERIFICANDO INFORMAÇÕES
+17-03-2024 23:24:56.799Z;functions.waitForImage;  DADOS BANCARIOS image found.
+17-03-2024 23:24:56.932Z;functions.check_payment_type;  DADOS BANCARIOS
+17-03-2024 23:24:58.949Z;functions.check_payment_type;  ENTROU DADOS BANCÁRIOS
+17-03-2024 23:24:59.059Z;functions.check_payment_type;  APERTA TAB
+17-03-2024 23:25:01.164Z;functions.check_payment_type;  CTRL C
+17-03-2024 23:25:02.165Z;functions.check_payment_type;  DESCRICAO CORRETA BOLETO
+17-03-2024 23:25:02.654Z;functions.waitForImage;  FORMA DE PAGAMENTO image found.
+17-03-2024 23:25:04.655Z;functions.check_payment_type;  FORMA DE PAGAMENTO: TITULO DE COBRANÇA (BOLETO)
+17-03-2024 23:25:07.095Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:25:09.211Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:25:11.631Z;functions.waitForImage;  PRESS BUTTON OK image found.
+17-03-2024 23:25:13.746Z;functions.click_ok;  PRESS BUTTON OK
+17-03-2024 23:25:17.850Z;functions.check_payment_type;  PASSANDO PARA PRÓXIMO REGISTRO
+17-03-2024 23:25:27.081Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+17-03-2024 23:25:28.238Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+17-03-2024 23:25:29.516Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+17-03-2024 23:25:34.630Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+17-03-2024 23:25:35.766Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+17-03-2024 23:25:36.990Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+17-03-2024 23:25:38.047Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+17-03-2024 23:26:06.990Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+17-03-2024 23:26:06.990Z;functions.process_lancamentos;  LANÇAMENTO COM ERRO
+17-03-2024 23:26:14.980Z;functions.process_lancamentos;  ERRO: Lançamento Ref. 930373: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930374: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930375: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930376: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930377: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930378: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930380: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930381: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930382: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930384: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930385: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930386: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930387: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930388: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930389: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930390: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930391: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930392: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930393: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930394: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930395: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930396: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930397: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930398: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930399: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930400: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930401: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930402: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930403: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930404: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-930373:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930374:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930375:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930376:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930377:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930378:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930380:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930381:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930382:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930384:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+
+17-03-2024 23:26:14.980Z;functions.process_lancamentos;  CORRESPONDENCIA ['930373', '930374', '930375', '930376', '930377', '930378', '930380', '930381', '930382', '930384']
+17-03-2024 23:26:14.980Z;functions.process_lancamentos;  NUMERO DE REFERENCIAS QUE SERÃO TIRADOS DA REMESSA ['930373', '930374', '930375', '930376', '930377', '930378', '930380', '930381', '930382', '930384']
+17-03-2024 23:26:15.875Z;functions.process_lancamentos;  CLICK EM FECHAR.
+17-03-2024 23:28:57.235Z;functions.remove_send;  CLICA NA PRIMEIRA LINHA DA TABELA
+17-03-2024 23:29:04.343Z;functions.remove_send;  ref_num_atual: 930373
+17-03-2024 23:29:04.343Z;functions.remove_send;  num_de_ref: ['930373', '930374', '930375', '930376', '930377', '930378', '930380', '930381', '930382', '930384']
+17-03-2024 23:29:08.448Z;functions.remove_send;  Retirando a referencia: 930373
+17-03-2024 23:29:20.658Z;functions.remove_send;  ref_num_atual: 930374
+17-03-2024 23:29:20.658Z;functions.remove_send;  num_de_ref: ['930373', '930374', '930375', '930376', '930377', '930378', '930380', '930381', '930382', '930384']
+17-03-2024 23:29:24.763Z;functions.remove_send;  Retirando a referencia: 930374
+17-03-2024 23:29:36.971Z;functions.remove_send;  ref_num_atual: 930375
+17-03-2024 23:29:36.973Z;functions.remove_send;  num_de_ref: ['930373', '930374', '930375', '930376', '930377', '930378', '930380', '930381', '930382', '930384']
+17-03-2024 23:29:41.077Z;functions.remove_send;  Retirando a referencia: 930375
+17-03-2024 23:29:53.284Z;functions.remove_send;  ref_num_atual: 930376
+17-03-2024 23:29:53.284Z;functions.remove_send;  num_de_ref: ['930373', '930374', '930375', '930376', '930377', '930378', '930380', '930381', '930382', '930384']
+17-03-2024 23:29:57.405Z;functions.remove_send;  Retirando a referencia: 930376
+17-03-2024 23:30:09.613Z;functions.remove_send;  ref_num_atual: 930377
+17-03-2024 23:30:09.614Z;functions.remove_send;  num_de_ref: ['930373', '930374', '930375', '930376', '930377', '930378', '930380', '930381', '930382', '930384']
+17-03-2024 23:30:13.718Z;functions.remove_send;  Retirando a referencia: 930377
+17-03-2024 23:30:25.927Z;functions.remove_send;  ref_num_atual: 930378
+17-03-2024 23:30:25.927Z;functions.remove_send;  num_de_ref: ['930373', '930374', '930375', '930376', '930377', '930378', '930380', '930381', '930382', '930384']
+17-03-2024 23:30:30.033Z;functions.remove_send;  Retirando a referencia: 930378
+17-03-2024 23:30:42.240Z;functions.remove_send;  ref_num_atual: 930380
+17-03-2024 23:30:42.241Z;functions.remove_send;  num_de_ref: ['930373', '930374', '930375', '930376', '930377', '930378', '930380', '930381', '930382', '930384']
+17-03-2024 23:30:46.346Z;functions.remove_send;  Retirando a referencia: 930380
+17-03-2024 23:30:58.553Z;functions.remove_send;  ref_num_atual: 930381
+17-03-2024 23:30:58.553Z;functions.remove_send;  num_de_ref: ['930373', '930374', '930375', '930376', '930377', '930378', '930380', '930381', '930382', '930384']
+17-03-2024 23:31:02.659Z;functions.remove_send;  Retirando a referencia: 930381
+17-03-2024 23:31:14.866Z;functions.remove_send;  ref_num_atual: 930382
+17-03-2024 23:31:14.866Z;functions.remove_send;  num_de_ref: ['930373', '930374', '930375', '930376', '930377', '930378', '930380', '930381', '930382', '930384']
+17-03-2024 23:31:18.972Z;functions.remove_send;  Retirando a referencia: 930382
+17-03-2024 23:31:31.180Z;functions.remove_send;  ref_num_atual: 930384
+17-03-2024 23:31:31.180Z;functions.remove_send;  num_de_ref: ['930373', '930374', '930375', '930376', '930377', '930378', '930380', '930381', '930382', '930384']
+17-03-2024 23:31:35.286Z;functions.remove_send;  Retirando a referencia: 930384
+17-03-2024 23:31:35.286Z;functions.remove_send;  SAINDO DO REMOVE_SEND E LIMPANDO O VETOR num_de_ref
+17-03-2024 23:31:40.645Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+17-03-2024 23:31:41.802Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+17-03-2024 23:31:43.110Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+17-03-2024 23:31:48.223Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+17-03-2024 23:31:49.391Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+17-03-2024 23:31:50.614Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+17-03-2024 23:31:51.674Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+17-03-2024 23:32:23.547Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+17-03-2024 23:32:23.547Z;functions.process_lancamentos;  LANÇAMENTO COM ERRO
+17-03-2024 23:32:31.104Z;functions.process_lancamentos;  ERRO: Lançamento Ref. 930385: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930386: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930387: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930388: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930389: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930390: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930391: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930392: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930393: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930394: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930395: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930396: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930397: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930398: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930399: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930400: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930401: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930402: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930403: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930404: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-930385:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930386:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930387:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930388:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930389:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930390:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930391:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930392:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930393:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930394:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+
+17-03-2024 23:32:31.104Z;functions.process_lancamentos;  CORRESPONDENCIA ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:32:31.104Z;functions.process_lancamentos;  NUMERO DE REFERENCIAS QUE SERÃO TIRADOS DA REMESSA ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:32:31.989Z;functions.process_lancamentos;  CLICK EM FECHAR.
+17-03-2024 23:35:20.016Z;functions.remove_send;  CLICA NA PRIMEIRA LINHA DA TABELA
+17-03-2024 23:35:27.125Z;functions.remove_send;  ref_num_atual: 930373
+17-03-2024 23:35:27.126Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:35:41.333Z;functions.remove_send;  ref_num_atual: 930374
+17-03-2024 23:35:41.333Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:35:55.542Z;functions.remove_send;  ref_num_atual: 930375
+17-03-2024 23:35:55.542Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:36:09.751Z;functions.remove_send;  ref_num_atual: 930376
+17-03-2024 23:36:09.751Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:36:23.958Z;functions.remove_send;  ref_num_atual: 930377
+17-03-2024 23:36:23.958Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:36:38.167Z;functions.remove_send;  ref_num_atual: 930378
+17-03-2024 23:36:38.167Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:36:52.376Z;functions.remove_send;  ref_num_atual: 930380
+17-03-2024 23:36:52.376Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:37:06.586Z;functions.remove_send;  ref_num_atual: 930381
+17-03-2024 23:37:06.586Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:37:20.795Z;functions.remove_send;  ref_num_atual: 930382
+17-03-2024 23:37:20.795Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:37:35.004Z;functions.remove_send;  ref_num_atual: 930384
+17-03-2024 23:37:35.004Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:37:49.214Z;functions.remove_send;  ref_num_atual: 930385
+17-03-2024 23:37:49.214Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:37:53.320Z;functions.remove_send;  Retirando a referencia: 930385
+17-03-2024 23:38:05.527Z;functions.remove_send;  ref_num_atual: 930386
+17-03-2024 23:38:05.527Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:38:09.633Z;functions.remove_send;  Retirando a referencia: 930386
+17-03-2024 23:38:21.841Z;functions.remove_send;  ref_num_atual: 930387
+17-03-2024 23:38:21.841Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:38:25.949Z;functions.remove_send;  Retirando a referencia: 930387
+17-03-2024 23:38:38.157Z;functions.remove_send;  ref_num_atual: 930388
+17-03-2024 23:38:38.157Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:38:42.264Z;functions.remove_send;  Retirando a referencia: 930388
+17-03-2024 23:38:54.472Z;functions.remove_send;  ref_num_atual: 930389
+17-03-2024 23:38:54.472Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:38:58.579Z;functions.remove_send;  Retirando a referencia: 930389
+17-03-2024 23:39:10.787Z;functions.remove_send;  ref_num_atual: 930390
+17-03-2024 23:39:10.787Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:39:14.907Z;functions.remove_send;  Retirando a referencia: 930390
+17-03-2024 23:39:27.115Z;functions.remove_send;  ref_num_atual: 930391
+17-03-2024 23:39:27.116Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:39:31.220Z;functions.remove_send;  Retirando a referencia: 930391
+17-03-2024 23:39:43.428Z;functions.remove_send;  ref_num_atual: 930392
+17-03-2024 23:39:43.428Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:39:47.534Z;functions.remove_send;  Retirando a referencia: 930392
+17-03-2024 23:39:59.741Z;functions.remove_send;  ref_num_atual: 930393
+17-03-2024 23:39:59.741Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:40:03.846Z;functions.remove_send;  Retirando a referencia: 930393
+17-03-2024 23:40:16.054Z;functions.remove_send;  ref_num_atual: 930394
+17-03-2024 23:40:16.054Z;functions.remove_send;  num_de_ref: ['930385', '930386', '930387', '930388', '930389', '930390', '930391', '930392', '930393', '930394']
+17-03-2024 23:40:20.162Z;functions.remove_send;  Retirando a referencia: 930394
+17-03-2024 23:40:20.162Z;functions.remove_send;  SAINDO DO REMOVE_SEND E LIMPANDO O VETOR num_de_ref
+17-03-2024 23:40:25.892Z;functions.process_lancamentos;  CLICA PARA APARECER CONTA/CAIXA
+17-03-2024 23:40:27.115Z;functions.process_lancamentos;  SELECIONA CONTA/CAIXA
+17-03-2024 23:40:28.423Z;functions.process_lancamentos;  CLICA NO BOTÃO [...]
+17-03-2024 23:40:33.536Z;functions.process_lancamentos;  CLICA NO CAMPO PESQUISA E DIGITA: %3212
+17-03-2024 23:40:34.646Z;functions.process_lancamentos;  CLICA NO BOTÃO DO FILTRO
+17-03-2024 23:40:35.829Z;functions.process_lancamentos;  CLICA NO BOTÃO OK
+17-03-2024 23:40:36.895Z;functions.process_lancamentos;  CLICA NO BOTÃO EXECUTAR
+17-03-2024 23:41:11.345Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+17-03-2024 23:41:11.345Z;functions.process_lancamentos;  LANÇAMENTO COM ERRO
+17-03-2024 23:41:18.887Z;functions.process_lancamentos;  ERRO: Lançamento Ref. 930395: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930396: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930397: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930398: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930399: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930400: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930401: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930402: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930403: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 930404: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-930395:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930396:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930397:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930398:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930399:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930400:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930401:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930402:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930403:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-930404:
+Linha Digitável (IPTE) não está válido.
+Verifique os dígitos informados na Linha Digitável (IPTE).
+
+   at RM.Fin.Banco.FinBancoMod.ValidaIPTE(String ipte, FinModoCodBarrasIPTEEnum modo)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ConsisteIntegracaoBancaria(FinLanCxt context)
+   at RM.Fin.Lan.Manutencao.FinLanManutencaoValidacaoObj.ValidaLancamento(FinLanCxt context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+
+17-03-2024 23:41:18.887Z;functions.process_lancamentos;  CORRESPONDENCIA ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:41:18.887Z;functions.process_lancamentos;  NUMERO DE REFERENCIAS QUE SERÃO TIRADOS DA REMESSA ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:41:19.783Z;functions.process_lancamentos;  CLICK EM FECHAR.
+17-03-2024 23:44:05.548Z;functions.remove_send;  CLICA NA PRIMEIRA LINHA DA TABELA
+17-03-2024 23:44:12.656Z;functions.remove_send;  ref_num_atual: 930373
+17-03-2024 23:44:12.657Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:44:26.865Z;functions.remove_send;  ref_num_atual: 930374
+17-03-2024 23:44:26.865Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:44:41.074Z;functions.remove_send;  ref_num_atual: 930375
+17-03-2024 23:44:41.074Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:44:55.282Z;functions.remove_send;  ref_num_atual: 930376
+17-03-2024 23:44:55.282Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:45:09.491Z;functions.remove_send;  ref_num_atual: 930377
+17-03-2024 23:45:09.491Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:45:23.701Z;functions.remove_send;  ref_num_atual: 930378
+17-03-2024 23:45:23.701Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:45:37.910Z;functions.remove_send;  ref_num_atual: 930380
+17-03-2024 23:45:37.910Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:45:52.120Z;functions.remove_send;  ref_num_atual: 930381
+17-03-2024 23:45:52.120Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:46:06.330Z;functions.remove_send;  ref_num_atual: 930382
+17-03-2024 23:46:06.330Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:46:20.539Z;functions.remove_send;  ref_num_atual: 930384
+17-03-2024 23:46:20.539Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:46:34.748Z;functions.remove_send;  ref_num_atual: 930385
+17-03-2024 23:46:34.748Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:46:48.956Z;functions.remove_send;  ref_num_atual: 930386
+17-03-2024 23:46:48.956Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:47:03.165Z;functions.remove_send;  ref_num_atual: 930387
+17-03-2024 23:47:03.165Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:47:17.374Z;functions.remove_send;  ref_num_atual: 930388
+17-03-2024 23:47:17.374Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:47:31.583Z;functions.remove_send;  ref_num_atual: 930389
+17-03-2024 23:47:31.583Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:47:45.793Z;functions.remove_send;  ref_num_atual: 930390
+17-03-2024 23:47:45.793Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:48:00.001Z;functions.remove_send;  ref_num_atual: 930391
+17-03-2024 23:48:00.001Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:48:14.210Z;functions.remove_send;  ref_num_atual: 930392
+17-03-2024 23:48:14.210Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:48:28.420Z;functions.remove_send;  ref_num_atual: 930393
+17-03-2024 23:48:28.420Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:48:42.628Z;functions.remove_send;  ref_num_atual: 930394
+17-03-2024 23:48:42.629Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:48:56.837Z;functions.remove_send;  ref_num_atual: 930395
+17-03-2024 23:48:56.837Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:49:00.942Z;functions.remove_send;  Retirando a referencia: 930395
+17-03-2024 23:49:13.150Z;functions.remove_send;  ref_num_atual: 930396
+17-03-2024 23:49:13.150Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:49:17.257Z;functions.remove_send;  Retirando a referencia: 930396
+17-03-2024 23:49:29.464Z;functions.remove_send;  ref_num_atual: 930397
+17-03-2024 23:49:29.464Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:49:33.570Z;functions.remove_send;  Retirando a referencia: 930397
+17-03-2024 23:49:45.777Z;functions.remove_send;  ref_num_atual: 930398
+17-03-2024 23:49:45.777Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:49:49.884Z;functions.remove_send;  Retirando a referencia: 930398
+17-03-2024 23:50:02.091Z;functions.remove_send;  ref_num_atual: 930399
+17-03-2024 23:50:02.092Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:50:06.197Z;functions.remove_send;  Retirando a referencia: 930399
+17-03-2024 23:50:18.404Z;functions.remove_send;  ref_num_atual: 930400
+17-03-2024 23:50:18.404Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:50:22.510Z;functions.remove_send;  Retirando a referencia: 930400
+17-03-2024 23:50:34.717Z;functions.remove_send;  ref_num_atual: 930401
+17-03-2024 23:50:34.717Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:50:38.823Z;functions.remove_send;  Retirando a referencia: 930401
+17-03-2024 23:50:51.030Z;functions.remove_send;  ref_num_atual: 930402
+17-03-2024 23:50:51.030Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:50:55.136Z;functions.remove_send;  Retirando a referencia: 930402
+17-03-2024 23:51:07.343Z;functions.remove_send;  ref_num_atual: 930403
+17-03-2024 23:51:07.343Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:51:11.450Z;functions.remove_send;  Retirando a referencia: 930403
+17-03-2024 23:51:23.658Z;functions.remove_send;  ref_num_atual: 930404
+17-03-2024 23:51:23.659Z;functions.remove_send;  num_de_ref: ['930395', '930396', '930397', '930398', '930399', '930400', '930401', '930402', '930403', '930404']
+17-03-2024 23:51:27.763Z;functions.remove_send;  Retirando a referencia: 930404
+17-03-2024 23:51:27.763Z;functions.remove_send;  SAINDO DO REMOVE_SEND E LIMPANDO O VETOR num_de_ref
+17-03-2024 23:54:19.372Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 159, in <module>
+    result = process_lancamentos()
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 696, in process_lancamentos
+    process_lancamentos()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 696, in process_lancamentos
+    process_lancamentos()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 696, in process_lancamentos
+    process_lancamentos()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 613, in process_lancamentos
+    click_combo.click()
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+17-03-2024 23:54:20.180Z;functions.show_exception_and_exit;  PRINT SALVO
+17-03-2024 23:54:21.223Z;functions.show_exception_and_exit;  RM FECHADO

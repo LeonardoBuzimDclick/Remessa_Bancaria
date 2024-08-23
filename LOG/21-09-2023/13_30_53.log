@@ -1,0 +1,8 @@
+21-09-2023 13:30:54.001Z;functions.show_exception_and_exit;  module 'datetime' has no attribute 'strptime'
+Traceback (most recent call last):
+  File "c:\projetos\remessas\main.py", line 32, in <module>
+    lancamento_date()
+  File "c:\projetos\remessas\main.py", line 15, in lancamento_date
+    data_obj = datetime.strptime(data_atual, "%Y-%m-%d")
+               ^^^^^^^^^^^^^^^^^
+AttributeError: module 'datetime' has no attribute 'strptime'

@@ -1,0 +1,27 @@
+08-06-2024 10:43:46.511Z;functions.bot_text_art;      ____   
+08-06-2024 10:43:46.511Z;functions.bot_text_art;     [____]    
+08-06-2024 10:43:46.511Z;functions.bot_text_art;   |=]()()[=|  
+08-06-2024 10:43:46.511Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+08-06-2024 10:43:46.511Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+08-06-2024 10:43:46.511Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+08-06-2024 10:43:46.511Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+08-06-2024 10:43:46.527Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+08-06-2024 10:43:46.527Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+08-06-2024 10:43:46.527Z;functions.bot_text_art;     |_||_|                                                     
+08-06-2024 10:43:46.527Z;functions.bot_text_art;     | ||_|_   
+08-06-2024 10:43:46.527Z;functions.bot_text_art;   |___||___|  
+08-06-2024 10:43:46.527Z;functions.bot_text_art;               
+08-06-2024 10:43:46.527Z;functions.open_RM;  OPEN PROGRAM RM
+08-06-2024 10:43:58.673Z;functions.loggin_RM;  ENTER USER_NAME
+08-06-2024 10:44:03.512Z;functions.loggin_RM;  ENTER PASSWORD
+08-06-2024 10:44:05.119Z;functions.loggin_RM;  ENTER RM
+08-06-2024 10:51:19.871Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Bancaria\main.py", line 15, in <module>
+    enter_coligada()
+  File "c:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 113, in enter_coligada
+    click_context.click()
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+08-06-2024 10:51:20.199Z;functions.show_exception_and_exit;  PRINT SALVO
+08-06-2024 10:51:20.558Z;functions.show_exception_and_exit;  RM FECHADO

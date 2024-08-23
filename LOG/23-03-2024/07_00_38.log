@@ -1,0 +1,69 @@
+23-03-2024 07:00:38.677Z;functions.bot_text_art;      ____   
+23-03-2024 07:00:38.677Z;functions.bot_text_art;     [____]    
+23-03-2024 07:00:38.677Z;functions.bot_text_art;   |=]()()[=|  
+23-03-2024 07:00:38.677Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+23-03-2024 07:00:38.677Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+23-03-2024 07:00:38.677Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+23-03-2024 07:00:38.677Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+23-03-2024 07:00:38.677Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+23-03-2024 07:00:38.677Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+23-03-2024 07:00:38.677Z;functions.bot_text_art;     |_||_|                                                     
+23-03-2024 07:00:38.677Z;functions.bot_text_art;     | ||_|_   
+23-03-2024 07:00:38.677Z;functions.bot_text_art;   |___||___|  
+23-03-2024 07:00:38.677Z;functions.bot_text_art;               
+23-03-2024 07:00:38.692Z;functions.open_RM;  OPEN PROGRAM RM
+23-03-2024 07:00:50.833Z;functions.loggin_RM;  ENTER USER_NAME
+23-03-2024 07:00:55.099Z;functions.loggin_RM;  ENTER PASSWORD
+23-03-2024 07:00:56.286Z;functions.loggin_RM;  ENTER RM
+23-03-2024 07:01:28.724Z;functions.enter_coligada;  CLICK CONTEXTO
+23-03-2024 07:01:33.942Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+23-03-2024 07:01:37.107Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+23-03-2024 07:01:37.220Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+23-03-2024 07:01:38.395Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+23-03-2024 07:01:39.488Z;functions.enter_coligada;  CLICK CONCLUIR
+23-03-2024 07:02:03.239Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+23-03-2024 07:02:04.067Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+23-03-2024 07:02:05.724Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+23-03-2024 07:02:08.411Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+23-03-2024 07:02:14.368Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+23-03-2024 07:02:15.646Z;functions.waitForImage;  IMAGEM BORDERO image found.
+23-03-2024 07:02:17.773Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+23-03-2024 07:02:38.567Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+23-03-2024 07:04:42.223Z;functions.waitForImage;  IMAGEM BORDERO image found.
+23-03-2024 07:04:44.351Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+23-03-2024 07:05:05.146Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+23-03-2024 07:07:08.566Z;functions.waitForImage;  IMAGEM BORDERO image found.
+23-03-2024 07:07:10.694Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+23-03-2024 07:07:31.535Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+23-03-2024 07:09:32.334Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Bancaria\main.py", line 15, in <module>
+    check_movimentacao_bancaria()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 133, in check_movimentacao_bancaria
+    movimentacao_bancaria()
+  File "C:\Projetos_Remessas\Remessa_Bancaria\SUBPROGRAMS\functions.py", line 946, in movimentacao_bancaria
+    filtro_movimentacao.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+23-03-2024 07:09:33.378Z;functions.show_exception_and_exit;  PRINT SALVO
+23-03-2024 07:09:33.635Z;functions.show_exception_and_exit;  RM FECHADO
+23-03-2024 07:09:38.582Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+23-03-2024 07:09:38.628Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+23-03-2024 07:09:38.644Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+23-03-2024 07:09:38.644Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+23-03-2024 07:09:38.644Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+23-03-2024 07:09:38.644Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+23-03-2024 07:09:38.894Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+23-03-2024 07:09:39.003Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+23-03-2024 07:09:39.003Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+23-03-2024 07:09:39.003Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+23-03-2024 07:09:39.003Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+23-03-2024 07:09:39.003Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+23-03-2024 07:09:39.003Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+23-03-2024 07:09:39.050Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+23-03-2024 07:09:39.066Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+23-03-2024 07:09:39.066Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+23-03-2024 07:09:39.066Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+23-03-2024 07:09:39.066Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+23-03-2024 07:09:56.395Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+23-03-2024 07:09:56.395Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'click'

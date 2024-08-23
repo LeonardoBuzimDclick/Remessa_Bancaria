@@ -1,0 +1,30 @@
+20-10-2023 17:59:21.289Z;functions.proccess_bordero;  CLICA EM CONVÊNIO TRÊS PONTINHOS
+20-10-2023 17:59:22.398Z;functions.proccess_bordero;  CLICA EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+20-10-2023 17:59:23.371Z;functions.proccess_bordero;  CLICA EM ID DO CONVÊNIO
+20-10-2023 17:59:25.474Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+20-10-2023 17:59:27.575Z;functions.proccess_bordero;  ESCREVE O ID 7
+20-10-2023 17:59:29.676Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 7 - SISPAG FORNECEDOR
+20-10-2023 17:59:31.778Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 7 - SISPAG FORNECEDOR
+20-10-2023 17:59:34.426Z;functions.proccess_bordero;  CLICA EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+20-10-2023 17:59:51.816Z;functions.waitForImage;  PRESS BUTTON OK image found.
+20-10-2023 17:59:53.817Z;functions.proccess_bordero;  O PROCESSAMENTO DO BORDERO FOI EXECUTADO COM SUCESSO.
+20-10-2023 17:59:56.429Z;functions.proccess_bordero;  CLICK EM FECHAR.
+20-10-2023 18:02:59.969Z;functions.movimentacao_bancaria;  CLICA NA ABA MOVIMENTAÇÃO BANCARIA
+20-10-2023 18:03:00.718Z;functions.movimentacao_bancaria;  CLICA NO ICONE BORDERO DE PAGAMENTO
+20-10-2023 18:03:12.923Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+20-10-2023 18:03:14.165Z;functions.movimentacao_bancaria;  CLICA NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+20-10-2023 18:03:15.378Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+20-10-2023 18:03:16.674Z;functions.movimentacao_bancaria;  HOVER FILTER
+20-10-2023 18:03:16.807Z;functions.movimentacao_bancaria;  CLICK FILTER
+20-10-2023 18:03:21.117Z;functions.movimentacao_bancaria;  CLICA NO FILTRO  STATUS DA REMESSA
+20-10-2023 18:03:23.220Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+20-10-2023 18:03:25.325Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+20-10-2023 18:03:27.427Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+20-10-2023 18:03:44.792Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+20-10-2023 18:03:45.530Z;functions.movimentacao_bancaria;  SELECIONA TODAS AS TUPLAS COM STATUS PENDENTE
+20-10-2023 18:03:47.633Z;functions.movimentacao_bancaria;  CLICA EM PROCESSOS
+20-10-2023 18:03:49.735Z;functions.movimentacao_bancaria;  APERTA PARA BAIXO
+20-10-2023 18:03:51.838Z;functions.movimentacao_bancaria;  APERTA ENTER
+20-10-2023 18:03:54.493Z;functions.movimentacao_bancaria;  CLICK EM EXECUTAR BORDERO DE PAGAMENTO
+20-10-2023 18:04:05.343Z;functions.waitForImage;  PRESS BUTTON OK image found.
+20-10-2023 18:04:07.344Z;functions.movimentacao_bancaria;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.

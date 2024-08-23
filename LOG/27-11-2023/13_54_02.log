@@ -1,0 +1,213 @@
+27-11-2023 13:54:03.504Z;functions.bot_text_art;      ____   
+27-11-2023 13:54:03.505Z;functions.bot_text_art;     [____]    
+27-11-2023 13:54:03.506Z;functions.bot_text_art;   |=]()()[=|  
+27-11-2023 13:54:03.506Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+27-11-2023 13:54:03.507Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+27-11-2023 13:54:03.508Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+27-11-2023 13:54:03.508Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+27-11-2023 13:54:03.509Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+27-11-2023 13:54:03.512Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+27-11-2023 13:54:03.514Z;functions.bot_text_art;     |_||_|                                                     
+27-11-2023 13:54:03.515Z;functions.bot_text_art;     | ||_|_   
+27-11-2023 13:54:03.516Z;functions.bot_text_art;   |___||___|  
+27-11-2023 13:54:03.517Z;functions.bot_text_art;               
+27-11-2023 13:54:04.108Z;functions.open_RM;  OPEN PROGRAM RM
+27-11-2023 13:57:50.373Z;functions.loggin_RM;  ENTER USER_NAME
+27-11-2023 13:57:51.831Z;functions.loggin_RM;  ENTER PASSWORD
+27-11-2023 13:57:52.951Z;functions.loggin_RM;  ENTER RM
+27-11-2023 13:58:27.115Z;functions.enter_coligada;  CLICK CONTEXTO
+27-11-2023 13:58:32.136Z;functions.enter_coligada;  CLICK COLIGADA 1
+27-11-2023 13:58:34.164Z;functions.enter_coligada;  CLICK AVANÇAR
+27-11-2023 13:58:36.915Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+27-11-2023 13:58:37.122Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+27-11-2023 13:58:38.431Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+27-11-2023 13:58:39.713Z;functions.enter_coligada;  CLICK CONCLUIR
+27-11-2023 13:59:03.749Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+27-11-2023 13:59:04.613Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+27-11-2023 13:59:06.414Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+27-11-2023 13:59:09.201Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+27-11-2023 13:59:16.309Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+27-11-2023 13:59:17.307Z;functions.waitForImage;  LANÇAMENTOS image found.
+27-11-2023 13:59:19.431Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+27-11-2023 13:59:21.433Z;functions.data_filter;  DATA INICIO 22-11-2023
+27-11-2023 13:59:21.435Z;functions.data_filter;  DATA FIM 28-11-2023
+27-11-2023 13:59:21.436Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+27-11-2023 13:59:21.438Z;functions.data_filter;  QUARTA-FEIRA: 22-11-2023
+27-11-2023 13:59:21.439Z;functions.data_filter;  TERCA-FEIRA: 28-11-2023
+27-11-2023 13:59:28.867Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+27-11-2023 13:59:30.925Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+27-11-2023 13:59:33.891Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 22-11-2023
+27-11-2023 13:59:36.306Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 28-11-2023
+27-11-2023 13:59:37.210Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+27-11-2023 14:01:00.732Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+27-11-2023 14:01:02.563Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+27-11-2023 14:01:04.713Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+27-11-2023 14:01:06.967Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+27-11-2023 14:01:09.294Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+27-11-2023 14:01:24.473Z;functions.waitForImage;  FILTER CLEAN image found.
+27-11-2023 14:01:26.579Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+27-11-2023 14:01:28.582Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+27-11-2023 14:01:41.547Z;functions.check_table_record;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 102 registros?
+27-11-2023 14:01:43.551Z;functions.check_table_record;  TIPO: <class 'list'>
+27-11-2023 14:01:43.552Z;functions.check_table_record;  NUMERO DE TUPLAS: 102
+27-11-2023 14:01:43.554Z;functions.check_table_record;  TABELA CONTÉM REGISTROS
+27-11-2023 14:01:47.466Z;functions.check_table_record;  CLICK NÃO
+27-11-2023 14:02:04.189Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+27-11-2023 14:02:05.945Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+27-11-2023 14:02:06.077Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+27-11-2023 14:02:06.548Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+27-11-2023 14:02:08.612Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+27-11-2023 14:02:15.903Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+27-11-2023 14:02:22.250Z;functions.filter_IPTE;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+27-11-2023 14:02:37.248Z;functions.filter_IPTE;  147 PASSOS PARA DIREITA NA TABELA >>
+27-11-2023 14:02:42.484Z;functions.filter_IPTE;  HOVER FILTER
+27-11-2023 14:02:42.631Z;functions.filter_IPTE;  CLICK FILTER
+27-11-2023 14:02:46.962Z;functions.filter_IPTE;  CLICA NO FILTRO PERSONALIZAR
+27-11-2023 14:03:03.913Z;functions.filter_IPTE;  147 PASSOS PARA ESQUERDA NA TABELA <<
+27-11-2023 14:03:03.914Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+27-11-2023 14:03:16.891Z;functions.check_table_record;  Para este processo é necessário que existam registros na visão.
+27-11-2023 14:03:20.894Z;functions.check_table_record;  SEM REMESSAS BANCARIA
+27-11-2023 14:03:22.997Z;main.<module>;  SEM REMESSA BANCÁRIA
+27-11-2023 14:03:23.885Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+27-11-2023 14:03:25.382Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+27-11-2023 14:03:26.351Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+27-11-2023 14:03:33.112Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+27-11-2023 14:03:33.995Z;functions.waitForImage;  LANÇAMENTOS image found.
+27-11-2023 14:03:36.114Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+27-11-2023 14:03:38.203Z;functions.data_filter;  DATA INICIO 22-11-2023
+27-11-2023 14:03:38.295Z;functions.data_filter;  DATA FIM 28-11-2023
+27-11-2023 14:03:38.374Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+27-11-2023 14:03:38.394Z;functions.data_filter;  QUARTA-FEIRA: 22-11-2023
+27-11-2023 14:03:38.397Z;functions.data_filter;  TERCA-FEIRA: 28-11-2023
+27-11-2023 14:03:39.202Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+27-11-2023 14:03:40.600Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+27-11-2023 14:03:43.614Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 22-11-2023
+27-11-2023 14:03:46.036Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 28-11-2023
+27-11-2023 14:03:46.943Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+27-11-2023 14:04:58.690Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+27-11-2023 14:05:00.733Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+27-11-2023 14:05:02.776Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+27-11-2023 14:05:05.094Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+27-11-2023 14:05:07.294Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+27-11-2023 14:05:22.484Z;functions.waitForImage;  FILTER CLEAN image found.
+27-11-2023 14:05:24.610Z;functions.filter_clean;  CLICA NO BOTÃO X DO LIMPA FILTRO
+27-11-2023 14:05:38.370Z;functions.select_tipo_documento;  NOME DA COLUNA: Tipo de Documento
+27-11-2023 14:05:40.138Z;functions.select_tipo_documento;  HOVER NOME DA COLUNA: Tipo de Documento
+27-11-2023 14:05:40.280Z;functions.select_tipo_documento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+27-11-2023 14:05:40.613Z;functions.select_tipo_documento;  CLICA NO FILTRO PERSONALIZAR
+27-11-2023 14:05:41.911Z;functions.select_tipo_documento;  CLICA PARA SELECIONAR OPÇÕES DO FILTRO
+27-11-2023 14:05:49.202Z;functions.select_tipo_documento;  CLICK BUTTON CONFIRMAR FILTRO
+27-11-2023 14:05:55.519Z;functions.filter_forma_pagamento;  CLICK NA PRIMEIRA LINHA E COLUNA DA TABELA
+27-11-2023 14:06:12.026Z;functions.filter_forma_pagamento;  162 PASSOS PARA DIREITA NA TABELA >>
+27-11-2023 14:06:17.570Z;functions.filter_forma_pagamento;  HOVER NOME DA COLUNA FORMA DE PAGAMENTO
+27-11-2023 14:06:17.718Z;functions.filter_forma_pagamento;  CLICA PARA APARECER O FILTRO PERSONALIZAR
+27-11-2023 14:06:21.052Z;functions.filter_forma_pagamento;  CLICA NO FILTRO PERSONALIZAR
+27-11-2023 14:06:41.960Z;functions.filter_forma_pagamento;  162 PASSOS PARA ESQUERDA NA TABELA <<
+27-11-2023 14:06:44.359Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border: none;'. [1:174: {]
+27-11-2023 14:06:44.362Z;errorhandler.__handle;  Property: Unknown Property name. [1:204: -ms-interpolation-mode]
+27-11-2023 14:06:44.367Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:267: }]
+27-11-2023 14:06:44.372Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #f6f6f6;'. [1:281: {]
+27-11-2023 14:06:44.410Z;errorhandler.__handle;  Property: Unknown Property name. [1:356: -webkit-font-smoothing]
+27-11-2023 14:06:44.426Z;errorhandler.__handle;  Property: Unknown Property name. [1:486: -ms-text-size-adjust]
+27-11-2023 14:06:44.435Z;errorhandler.__handle;  Property: Unknown Property name. [1:521: -webkit-text-size-adjust]
+27-11-2023 14:06:44.439Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:559: }]
+27-11-2023 14:06:44.443Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border-collapse: separate;'. [1:574: {]
+27-11-2023 14:06:44.447Z;errorhandler.__handle;  Property: Unknown Property name. [1:617: mso-table-lspace]
+27-11-2023 14:06:44.451Z;errorhandler.__handle;  Property: Unknown Property name. [1:647: mso-table-rspace]
+27-11-2023 14:06:44.456Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:690: }]
+27-11-2023 14:06:44.459Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          font-family: sans-serif;'. [1:710: {]
+27-11-2023 14:06:44.467Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:808: }]
+27-11-2023 14:06:44.472Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #f6f6f6;'. [1:941: {]
+27-11-2023 14:06:44.477Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1003: }]
+27-11-2023 14:06:44.481Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        display: block;'. [1:1178: {]
+27-11-2023 14:06:44.488Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1342: }]
+27-11-2023 14:06:44.496Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:1452: {]
+27-11-2023 14:06:44.504Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1584: }]
+27-11-2023 14:06:44.509Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background: #ffffff;'. [1:1721: {]
+27-11-2023 14:06:44.517Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1804: }]
+27-11-2023 14:06:44.521Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:1822: {]
+27-11-2023 14:06:44.526Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1883: }]
+27-11-2023 14:06:44.529Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        padding-bottom: 10px;'. [1:1907: {]
+27-11-2023 14:06:44.535Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1969: }]
+27-11-2023 14:06:44.539Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        clear: both;'. [1:1986: {]
+27-11-2023 14:06:44.547Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2086: }]
+27-11-2023 14:06:44.551Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          color: #999999;'. [1:2165: {]
+27-11-2023 14:06:44.564Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2253: }]
+27-11-2023 14:06:44.570Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: #000000;'. [1:2404: {]
+27-11-2023 14:06:44.576Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2563: }]
+27-11-2023 14:06:44.581Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        font-size: 35px;'. [1:2575: {]
+27-11-2023 14:06:44.587Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2694: }]
+27-11-2023 14:06:44.592Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        font-family: sans-serif;'. [1:2723: {]
+27-11-2023 14:06:44.597Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2861: }]
+27-11-2023 14:06:44.601Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          list-style-position: inside;'. [1:2905: {]
+27-11-2023 14:06:44.606Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2978: }]
+27-11-2023 14:06:44.610Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: #3498db;'. [1:2989: {]
+27-11-2023 14:06:44.615Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3055: }]
+27-11-2023 14:06:44.621Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:3178: {]
+27-11-2023 14:06:44.626Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3231: }]
+27-11-2023 14:06:44.631Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          padding-bottom: 15px;'. [1:3265: {]
+27-11-2023 14:06:44.634Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3298: }]
+27-11-2023 14:06:44.638Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          width: auto;'. [1:3320: {]
+27-11-2023 14:06:44.642Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3350: }]
+27-11-2023 14:06:44.646Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          background-color: #ffffff;'. [1:3375: {]
+27-11-2023 14:06:44.651Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3477: }]
+27-11-2023 14:06:44.657Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          background-color: #ffffff;'. [1:3495: {]
+27-11-2023 14:06:44.880Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3892: }]
+27-11-2023 14:06:44.885Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #3498db;'. [1:3923: {]
+27-11-2023 14:06:44.889Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3965: }]
+27-11-2023 14:06:44.897Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #3498db;'. [1:3989: {]
+27-11-2023 14:06:44.945Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4084: }]
+27-11-2023 14:06:44.948Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-bottom: 0;'. [1:4234: {]
+27-11-2023 14:06:44.951Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4267: }]
+27-11-2023 14:06:44.954Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-top: 0;'. [1:4283: {]
+27-11-2023 14:06:44.957Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4313: }]
+27-11-2023 14:06:44.960Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: center;'. [1:4336: {]
+27-11-2023 14:06:44.963Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4371: }]
+27-11-2023 14:06:44.965Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: right;'. [1:4393: {]
+27-11-2023 14:06:44.967Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4427: }]
+27-11-2023 14:06:44.970Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: left;'. [1:4448: {]
+27-11-2023 14:06:44.974Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4481: }]
+27-11-2023 14:06:45.016Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        clear: both;'. [1:4497: {]
+27-11-2023 14:06:45.048Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4525: }]
+27-11-2023 14:06:45.066Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-top: 0;'. [1:4539: {]
+27-11-2023 14:06:45.069Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4569: }]
+27-11-2023 14:06:45.071Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-bottom: 0;'. [1:4583: {]
+27-11-2023 14:06:45.082Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4616: }]
+27-11-2023 14:06:45.102Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: transparent;'. [1:4636: {]
+27-11-2023 14:06:45.109Z;errorhandler.__handle;  Property: Unknown Property name. [1:4799: mso-hide]
+27-11-2023 14:06:45.112Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4864: }]
+27-11-2023 14:06:45.116Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-decoration: none;'. [1:4887: {]
+27-11-2023 14:06:45.118Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4925: }]
+27-11-2023 14:06:45.120Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border: 0;'. [1:4937: {]
+27-11-2023 14:06:45.124Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:5027: }]
+27-11-2023 14:06:45.138Z;errorhandler.__handle;  CSSStyleRule: No selector found: '{        table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}      }'. [1:5217: {]
+27-11-2023 14:06:45.150Z;errorhandler.__handle;  SelectorList: Unknown Syntax: ''
+27-11-2023 14:06:45.153Z;errorhandler.__handle;  Property: No ":" after name found: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}       [1:6259:       ]
+27-11-2023 14:06:45.165Z;errorhandler.__handle;  Property: No property value found: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}       [1:6259:       ]
+27-11-2023 14:06:45.177Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}      
+27-11-2023 14:06:45.202Z;errorhandler.__handle;  CSSStyleRule: No selector found: '{        .ExternalClass {{          width: 100%;         }}        .ExternalClass,        .ExternalClass p,        .ExternalClass span,        .ExternalClass font,        .ExternalClass td,        .ExternalClass div {{          line-height: 100%;         }}        .apple-link a {{          color: inherit !important;          font-family: inherit !important;          font-size: inherit !important;          font-weight: inherit !important;          line-height: inherit !important;          text-decoration: none !important;         }}        #MessageViewBody a {{          color: inherit;          text-decoration: none;          font-size: inherit;          font-family: inherit;          font-weight: inherit;          line-height: inherit;        }}        .btn-primary table td:hover {{          background-color: #34495e !important;         }}        .btn-primary a:hover {{          background-color: #34495e !important;          border-color: #34495e !important;         }}       }'. [1:6420: {]
+27-11-2023 14:06:45.214Z;errorhandler.__handle;  SelectorList: Unknown Syntax: ''
+27-11-2023 14:06:45.217Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '.ExternalClass {{          width: 100%;         }}        .ExternalClass,        .ExternalClass p,        .ExternalClass span,        .ExternalClass font,        .ExternalClass td,        .ExternalClass div {{          line-height: 100%;         }}        .apple-link a {{          color: inherit !important;          font-family: inherit !important;          font-size: inherit !important;          font-weight: inherit !important;          line-height: inherit !important;          text-decoration: none !important;         }}        #MessageViewBody a {{          color: inherit;          text-decoration: none;          font-size: inherit;          font-family: inherit;          font-weight: inherit;          line-height: inherit;        }}        .btn-primary table td:hover {{          background-color: #34495e !important;         }}        .btn-primary a:hover {{          background-color: #34495e !important;          border-color: #34495e !important;         }}       '. [1:6429: .]
+27-11-2023 14:06:45.243Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+27-11-2023 14:06:45.247Z;errorhandler.__handle;  Property: Unknown Property name. [1:24: -webkit-font-smoothing]
+27-11-2023 14:06:45.258Z;errorhandler.__handle;  Property: Unknown Property name. [1:109: -ms-text-size-adjust]
+27-11-2023 14:06:45.263Z;errorhandler.__handle;  Property: Unknown Property name. [1:135: -webkit-text-size-adjust]
+27-11-2023 14:06:45.268Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: mso-table-lspace]
+27-11-2023 14:06:45.271Z;errorhandler.__handle;  Property: Unknown Property name. [1:20: mso-table-rspace]
+27-11-2023 14:06:45.299Z;errorhandler.__handle;  Property: Unknown Property name. [1:74: mso-hide]
+27-11-2023 14:06:45.310Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+27-11-2023 14:06:45.312Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+27-11-2023 14:06:45.314Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+27-11-2023 14:06:45.317Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+27-11-2023 14:06:47.515Z;functions.emailSuccess;  Success e-mail sent.
+27-11-2023 14:06:47.516Z;functions.check_table_record;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+27-11-2023 14:07:00.441Z;functions.check_table_record;  Para este processo é necessário que existam registros na visão.
+27-11-2023 14:07:04.443Z;functions.check_table_record;  SEM REMESSAS BANCARIA
+27-11-2023 14:07:08.549Z;main.<module>;  SEM REMESSA DE TED CIP
+27-11-2023 14:07:08.653Z;functions.end_RM;  FECHA O PROGRAMA
+27-11-2023 14:07:10.757Z;functions.end_RM;  RM ENCERRADO
+27-11-2023 14:07:11.879Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+27-11-2023 14:07:14.785Z;functions.emailSuccess;  Success e-mail sent.
